@@ -2,12 +2,14 @@
 ## App Developer | Artificial Intelligence Engineer | Robotics and Physics revving up! 🚀 
 ### On track to become Certified Aerospace Engineer and Theoretical Physicist🪐
 
-### What's in Progress??!
-#### MY CAPSTONE - The Virtual Detention Classroom!- check out the repo(s) here: 
+## What's in Progress??!
+### General Assembly Capstone - The Virtual Detention Classroom!- check out the repo(s) here: 
+1. https://github.com/TREYCSE/Virtual_Detention_Backend
+2. https://github.com/TREYCSE/Virtual_Detention_Frontend
 
-## App Dev - Primarily Backeend/Data Science
+### App Dev *Backeend/Data Science
 
-## AI - Primarily Machine/Deep Learning
+### AI *Primarily Machine/Deep Learning
 
 ## Intersection of App Development and Artificial Intelligence:
 #### How to Deploy a Machine Learning Model as RestFul API!
