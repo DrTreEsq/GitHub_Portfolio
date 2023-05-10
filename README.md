@@ -32,7 +32,17 @@
 3. Physics
 
 # SECTION 2: How To's!
-## 1. Intersection of App Development and Artificial Intelligence:
+
+## 1. Making Your Machine Learn!
+#### How to create a machine learning model using Teachable Machine: https://teachablemachine.withgoogle.com/
+
+### 1. DATA
+
+### 2. TRAIN
+
+### 3. EXPORT
+
+## 2. Intersection of App Development and Artificial Intelligence:
 #### How to Deploy a Machine Learning Model as RestFul API! (Python fastAPI, Heroku, and Docker needed).
 ###### Quickly let's discuss what this means and why this is happening: In order for the data from TensorFlow Lite machine learning models to be returned to a user in a full-stack application, it will need to be rendered as API. So do to do this, (as presented in my capstone project), we deploy our TensorFlow models as RESTful API so that it can be returned to users! These are some condensed steps from a very helpful freeCodeCamp tutorial: https://www.freecodecamp.org/news/deploy-an-ml-model-using-fastapi-and-docker/
 
@@ -213,12 +223,3 @@ Then we can push and release the app through the Docker container we made earlie
   
 After this, you can go to your Heroku dashboard and open the app. You should be greeted with the JSON message we have in the "/" directory of the application.
 When you navigate to the /docs you'll be greeted with the Swagger documentation of the application. Here you can play around with the POST request we created and see if the model predictions are correct. Note that you must upload image links with the jpeg or png in its URL.
-
-## 2. Making Your Machine Learn!
-#### How to create a machine learning model using Teachable Machine: https://teachablemachine.withgoogle.com/
-
-### 1. DATA
-
-### 2. TRAIN
-
-### 3. EXPORT
