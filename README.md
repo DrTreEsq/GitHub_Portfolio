@@ -7,9 +7,9 @@
 1. https://github.com/TREYCSE/Virtual_Detention_Backend
 2. https://github.com/TREYCSE/Virtual_Detention_Frontend
 
-### App Dev *Backeend - Data Science
+## App Development Work *Backend - Data Science
 
-### AI *Machine/Deep Learning - Natural Language Question Answering
+## Artificial Intelligence Work *Machine/Deep Learning - Natural Language Question Answering
 
 ## Intersection of App Development and Artificial Intelligence:
 #### How to Deploy a Machine Learning Model as RestFul API!
