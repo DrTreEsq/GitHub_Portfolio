@@ -12,7 +12,7 @@
 1. https://github.com/TREYCSE/Virtual_Detention_Backend
 2. https://github.com/TREYCSE/Virtual_Detention_Frontend
 
-## 2). App Development Work (troubleshooting before deployment)
+## 2). App Development (troubleshooting before deployment)
 ### Frontend
 1. React.js Frontend application: https://github.com/TREYCSE/ReactUI
 
@@ -20,7 +20,7 @@
 1. Monngoose, Node, & Express RESTful API: https://github.com/TREYCSE/REST_API
 2. Django RESTful API: 
 
-## 3). Artificial Intelligence Work
+## 3). Artificial Intelligence
 ### Machine Learning
 1. Linear Regression Models:
 ### Deep Learning => Natural Language Question Answering (in testing or fine tuning)
