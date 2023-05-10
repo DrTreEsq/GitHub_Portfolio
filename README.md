@@ -16,7 +16,7 @@
 # SECTION 2: How To's!
 ## 1. Intersection of App Development and Artificial Intelligence:
 #### How to Deploy a Machine Learning Model as RestFul API!
-###### Quickly let's discuss what this means and why this is happening: In order for the data from TensorFlow Lite machine learning models to be returned to a user in a full-stack application, it will need to be rendered as API. So do to do this, (as presented in my capstone project), we deploy our TensorFlow models as RESTful API so that it can be returned to users! These are some condensed steps from a very helpful freeCodeCamp article: https://www.freecodecamp.org/news/deploy-an-ml-model-using-fastapi-and-docker/
+###### Quickly let's discuss what this means and why this is happening: In order for the data from TensorFlow Lite machine learning models to be returned to a user in a full-stack application, it will need to be rendered as API. So do to do this, (as presented in my capstone project), we deploy our TensorFlow models as RESTful API so that it can be returned to users! These are some condensed steps from a very helpful freeCodeCamp tutorial: https://www.freecodecamp.org/news/deploy-an-ml-model-using-fastapi-and-docker/
 1.  In the root directory, create a main.py file. In that file, add the following lines of code:
         
         from fastapi import FastAPI
@@ -79,4 +79,49 @@ We also added the CORSMiddleware which essentially allows us to access the API i
         if __name == "__main__":
                 port = int(os.environ.get('PORT', 5000))
                 run(app, host="0.0.0.0", port=port)
-4. 
+4. After loading in the model, let's add in the classes that we have (what is inside the array), which are based on the dataset that you have available in your directory.
+
+        great_example = array([
+            'apple pie',
+            'baby back ribs',
+            'baklava',
+            'beef carpaccio',
+            'beef tartare',
+            'beet salad',
+            'beignets',
+            'bibimbap',
+            'bread pudding',
+            'waffles'
+        ])
+5. Now that we have the classes, let's write the main API functionality. (in main.py after root function)
+
+        @app.post("/net/image/prediction/")
+        async def get_net_image_prediction(image_link: str = ""):
+
+            if image_link == "":
+                return {"message": "No image link provided"}
+
+            img_path = get_file(
+                origin = image_link
+            )
+            img = load_img(
+                img_path, 
+                target_size = (224, 224)
+            )
+
+            img_array = img_to_array(img)
+            img_array = expand_dims(img_array, 0)
+
+            pred = model.predict(img_array)
+            score = softmax(pred[0])
+
+            class_prediction = class_predictions[argmax(score)]
+            model_score = round(max(score) * 100, 2)
+
+            return {
+                "model-prediction": class_prediction,
+                "model-prediction-confidence-score": model_score
+            }
+Here, we make a post request to the endpoint /net/image/prediction/ and provide the image_url as a query parameter. That is, the full endpoint when posting an image URL link would be /net/image/prediction/image_url=image-url. For simplicity's sake, we give the image_link a default value of "" and when there's no link passed to the endpoint, we simply return a message saying that there's no image link provided. get_file() downloads the image through the provided URL link, while load_img() loads the image in PIL format, and turns it into the appropriate image size that the model wants. img_to_array() converts the loaded image to a NumPy array. expand_dims() expands the dimensions of the array by one at the zero'th index. We then use model.predict() to get the model prediction on the loaded image, and get the model's confidence score on said prediction using softmax(). I used softmax here as that's the activation function used in creating the model. We finally then get the food type by using argmax() on the model's confidence score. We'll use that as the index that we'll use in searching through the class_predictions array which contains the various food classes we have. Lastly, we multiply the model's confidence score by 100 so that the range of the score would be from 1 to 100. We then return the model's prediction, and the model's confidence score.
+
+  6. 
