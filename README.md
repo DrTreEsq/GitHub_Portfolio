@@ -186,3 +186,17 @@ Let's start dockerizing the application. Create a Dockerfile in the project's ro
     # Run the python application
     CMD ["python", "main.py"]
 
+This pulls the Python 3.7.3 image, and installs all the necessary packages defined in the requirements.txt file. Then it runs the application by using the command python main.py as defined in the last line of the file.
+
+You can then build and run the application using the following CLI commands:
+
+    $ docker image build -t <app-name> .
+    $ docker run -p 5000:5000 -d <app-name>
+
+Then you can stop the app, and free up system resources by running the following:
+
+    $ docker container stop <container-id>
+    $ docker system prune
+
+#### 4. (back to) HEROKU!
+
