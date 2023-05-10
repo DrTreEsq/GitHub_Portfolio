@@ -24,7 +24,9 @@
 ## 1. Intersection of App Development and Artificial Intelligence:
 #### How to Deploy a Machine Learning Model as RestFul API!
 ###### Quickly let's discuss what this means and why this is happening: In order for the data from TensorFlow Lite machine learning models to be returned to a user in a full-stack application, it will need to be rendered as API. So do to do this, (as presented in my capstone project), we deploy our TensorFlow models as RESTful API so that it can be returned to users! These are some condensed steps from a very helpful freeCodeCamp tutorial: https://www.freecodecamp.org/news/deploy-an-ml-model-using-fastapi-and-docker/
-1.  In the root directory, create a main.py file. In that file, add the following lines of code:
+
+1.  PYTHON
+In the root directory, create a main.py file. In that file, add the following lines of code:
         
         from fastapi import FastAPI
         from fastapi.middleware.cors import CORSMiddleware
@@ -58,8 +60,8 @@ We also added the CORSMiddleware which essentially allows us to access the API i
         @app.http_method("url_path")
         async def functionName():
             return something
-2. Running the command python -m uvicorn main:app --reload will run the app, and will listen to changes we make on the server. Alternatively, you can use python main.py and it will run the app on port 5000, courtesy of the last 3 lines of code. However, this won't let the app listen to changes we make, so you'll have to re-run the app every time you want to see your changes.
-3. let's extend the code that we wrote earlier, import all the required functions that we'll use, and load the model itself.
+Running the command python -m uvicorn main:app --reload will run the app, and will listen to changes we make on the server. Alternatively, you can use python main.py and it will run the app on port 5000, courtesy of the last 3 lines of code. However, this won't let the app listen to changes we make, so you'll have to re-run the app every time you want to see your changes.
+let's extend the code that we wrote earlier, import all the required functions that we'll use, and load the model itself.
 
         from fastapi import FastAPI
         from tensorflow.keras.models import load_model
@@ -86,7 +88,7 @@ We also added the CORSMiddleware which essentially allows us to access the API i
         if __name == "__main__":
                 port = int(os.environ.get('PORT', 5000))
                 run(app, host="0.0.0.0", port=port)
-4. After loading in the model, let's add in the classes that we have (what is inside the array), which are based on the dataset that you have available in your directory.
+After loading in the model, let's add in the classes that we have (what is inside the array), which are based on the dataset that you have available in your directory.
 
         great_example = array([
             'apple pie',
@@ -100,7 +102,7 @@ We also added the CORSMiddleware which essentially allows us to access the API i
             'bread pudding',
             'waffles'
         ])
-5. Now that we have the classes, let's write the main API functionality. (in main.py after root function)
+Now that we have the classes, let's write the main API functionality. (in main.py after root function)
 
         @app.post("/net/image/prediction/")
         async def get_net_image_prediction(image_link: str = ""):
@@ -131,4 +133,46 @@ We also added the CORSMiddleware which essentially allows us to access the API i
             }
 Here, we make a post request to the endpoint /net/image/prediction/ and provide the image_url as a query parameter. That is, the full endpoint when posting an image URL link would be /net/image/prediction/image_url=image-url. For simplicity's sake, we give the image_link a default value of "" and when there's no link passed to the endpoint, we simply return a message saying that there's no image link provided. get_file() downloads the image through the provided URL link, while load_img() loads the image in PIL format, and turns it into the appropriate image size that the model wants. img_to_array() converts the loaded image to a NumPy array. expand_dims() expands the dimensions of the array by one at the zero'th index. We then use model.predict() to get the model prediction on the loaded image, and get the model's confidence score on said prediction using softmax(). I used softmax here as that's the activation function used in creating the model. We finally then get the food type by using argmax() on the model's confidence score. We'll use that as the index that we'll use in searching through the class_predictions array which contains the various food classes we have. Lastly, we multiply the model's confidence score by 100 so that the range of the score would be from 1 to 100. We then return the model's prediction, and the model's confidence score.
 
-  6. 
+  2. HEROKU
+You can actually deploy this app as is on Heroku, using the usual method of defining a Procfile. But when I tried this method, I kept on getting a ValueError: Out of range float values are not JSON compliant error. I also get this error when running the app on Windows Subsystem for Linux (WSL). When I run on Windows, however, the error disappears.
+
+You can actually avoid this error by adding this line of code, after the initial assignment of the model_score variable:
+
+    model_score = dumps(model_score.tolist())
+    In main.py, below model_score = round(max(score) * 100, 2)
+
+This lets the app run on both Heroku and WSL, but it will only return these values when making the POST request.
+
+    {
+        "model-prediction": "apple pie",
+        "model-prediction-confidence-score": NaN,
+    }
+So, it works on my machine (Windows), but not on Heroku (using Procfile), nor on WSL. This is the kind of problem that Docker solves!
+
+3. DOCKER
+Let's start dockerizing the application. Create a Dockerfile in the project's root directory and put in the following content:
+
+    FROM python:3.7.3-stretch
+
+    # Maintainer info
+    LABEL maintainer="your-email-address"
+
+    # Make working directories
+    RUN  mkdir -p  /food-vision-api
+    WORKDIR  /food-vision-api
+
+    # Upgrade pip with no cache
+    RUN pip install --no-cache-dir -U pip
+
+    # Copy application requirements file to the created working directory
+    COPY requirements.txt .
+
+    # Install application dependencies from the requirements file
+    RUN pip install -r requirements.txt
+
+    # Copy every file in the source folder to the created working directory
+    COPY  . .
+
+    # Run the python application
+    CMD ["python", "main.py"]
+
