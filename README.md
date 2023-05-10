@@ -4,7 +4,7 @@
 ### App Developer | Artificial Intelligence Engineer | Robotics and Physics revving up! 🚀 
 #### On track to become Certified Aerospace Engineer and Theoretical Physicist🪐
 
-# SECTION 1: What's in Progress
+# SECTION 1: What's in Progress?
 ## 1. General Assembly Capstone - The Virtual Detention Classroom!- check out the repo(s) here: 
 1. https://github.com/TREYCSE/Virtual_Detention_Backend
 2. https://github.com/TREYCSE/Virtual_Detention_Frontend
@@ -20,8 +20,10 @@
 1. Linear Regression Models:
 2. Logistic Regression/Classification Models:
 
-### Courses In Progress: Math, Robotics & Physics
-1. 
+### 4. Courses In Progress:
+1. Math
+2. Robotics
+3. Physics
 
 # SECTION 2: How To's!
 ## 1. Intersection of App Development and Artificial Intelligence:
