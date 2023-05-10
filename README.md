@@ -5,7 +5,7 @@
 #### On track to become Certified Aerospace Engineer and Theoretical Physicist🪐
 
 # SECTION 1: What's in Progress?
-## 1). General Assembly Capstone - The Virtual Detention Classroom!- check out the repo(s) here: 
+## 1). General Assembly Capstone: The Virtual Detention Classroom! repos here: 
 1. https://github.com/TREYCSE/Virtual_Detention_Backend
 2. https://github.com/TREYCSE/Virtual_Detention_Frontend
 
@@ -27,7 +27,7 @@
 
 # SECTION 2: How To's!
 ## 1. Intersection of App Development and Artificial Intelligence:
-#### How to Deploy a Machine Learning Model as RestFul API!
+#### How to Deploy a Machine Learning Model as RestFul API! (Python fastAPI, Heroku, and Docker needed).
 ###### Quickly let's discuss what this means and why this is happening: In order for the data from TensorFlow Lite machine learning models to be returned to a user in a full-stack application, it will need to be rendered as API. So do to do this, (as presented in my capstone project), we deploy our TensorFlow models as RESTful API so that it can be returned to users! These are some condensed steps from a very helpful freeCodeCamp tutorial: https://www.freecodecamp.org/news/deploy-an-ml-model-using-fastapi-and-docker/
 
 #### 1.  PYTHON
