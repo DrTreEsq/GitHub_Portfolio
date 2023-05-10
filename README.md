@@ -4,7 +4,7 @@
 ### App Developer | Artificial Intelligence Engineer | Robotics and Physics revving up! 🚀 
 #### On track to become Certified Aerospace Engineer and Theoretical Physicist🪐
 
-# SECTION 1: What's in Progress??!
+# SECTION 1: What's in Progress
 ## 1. General Assembly Capstone - The Virtual Detention Classroom!- check out the repo(s) here: 
 1. https://github.com/TREYCSE/Virtual_Detention_Backend
 2. https://github.com/TREYCSE/Virtual_Detention_Frontend
@@ -20,12 +20,15 @@
 1. Linear Regression Models:
 2. Logistic Regression/Classification Models:
 
+### Courses In Progress: Math, Robotics & Physics
+1. 
+
 # SECTION 2: How To's!
 ## 1. Intersection of App Development and Artificial Intelligence:
 #### How to Deploy a Machine Learning Model as RestFul API!
 ###### Quickly let's discuss what this means and why this is happening: In order for the data from TensorFlow Lite machine learning models to be returned to a user in a full-stack application, it will need to be rendered as API. So do to do this, (as presented in my capstone project), we deploy our TensorFlow models as RESTful API so that it can be returned to users! These are some condensed steps from a very helpful freeCodeCamp tutorial: https://www.freecodecamp.org/news/deploy-an-ml-model-using-fastapi-and-docker/
 
-1.  PYTHON
+#### 1.  PYTHON
 In the root directory, create a main.py file. In that file, add the following lines of code:
         
         from fastapi import FastAPI
@@ -133,7 +136,7 @@ Now that we have the classes, let's write the main API functionality. (in main.p
             }
 Here, we make a post request to the endpoint /net/image/prediction/ and provide the image_url as a query parameter. That is, the full endpoint when posting an image URL link would be /net/image/prediction/image_url=image-url. For simplicity's sake, we give the image_link a default value of "" and when there's no link passed to the endpoint, we simply return a message saying that there's no image link provided. get_file() downloads the image through the provided URL link, while load_img() loads the image in PIL format, and turns it into the appropriate image size that the model wants. img_to_array() converts the loaded image to a NumPy array. expand_dims() expands the dimensions of the array by one at the zero'th index. We then use model.predict() to get the model prediction on the loaded image, and get the model's confidence score on said prediction using softmax(). I used softmax here as that's the activation function used in creating the model. We finally then get the food type by using argmax() on the model's confidence score. We'll use that as the index that we'll use in searching through the class_predictions array which contains the various food classes we have. Lastly, we multiply the model's confidence score by 100 so that the range of the score would be from 1 to 100. We then return the model's prediction, and the model's confidence score.
 
-2. HEROKU
+#### 2. HEROKU
 You can actually deploy this app as is on Heroku, using the usual method of defining a Procfile. But when I tried this method, I kept on getting a ValueError: Out of range float values are not JSON compliant error. I also get this error when running the app on Windows Subsystem for Linux (WSL). When I run on Windows, however, the error disappears.
 
 You can actually avoid this error by adding this line of code, after the initial assignment of the model_score variable:
@@ -149,7 +152,7 @@ This lets the app run on both Heroku and WSL, but it will only return these valu
     }
 So, it works on Windows, but not on Heroku (using Procfile), nor on WSL. This is the kind of problem that Docker solves!
 
-3. DOCKER
+#### 3. DOCKER
 Let's start dockerizing the application. Create a Dockerfile in the project's root directory and put in the following content:
 
     FROM python:3.7.3-stretch
