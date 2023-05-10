@@ -1,4 +1,4 @@
-# Trey Weathers
+# Trey Weathers (aka - The Ethical Mad Scientist🤓)
 ## App Developer | Artificial Intelligence Engineer | Robotics and Physics revving up! 🚀 
 ### On track to become Certified Aerospace Engineer and Theoretical Physicist🪐
 
