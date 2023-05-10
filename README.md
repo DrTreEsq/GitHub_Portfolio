@@ -36,11 +36,11 @@
 ## 1. Making Your Machine Learn!
 #### How to create a machine learning model using Teachable Machine: https://teachablemachine.withgoogle.com/
 
-### 1. DATA
+#### 1. DATA
 
-### 2. TRAIN
+#### 2. TRAIN
 
-### 3. EXPORT
+#### 3. EXPORT
 
 ## 2. Intersection of App Development and Artificial Intelligence:
 #### How to Deploy a Machine Learning Model as RestFul API! (Python fastAPI, Heroku, and Docker needed).
