@@ -5,22 +5,22 @@
 #### On track to become Certified Aerospace Engineer and Theoretical Physicist🪐
 
 # SECTION 1: What's in Progress?
-## 1. General Assembly Capstone - The Virtual Detention Classroom!- check out the repo(s) here: 
+## 1). General Assembly Capstone - The Virtual Detention Classroom!- check out the repo(s) here: 
 1. https://github.com/TREYCSE/Virtual_Detention_Backend
 2. https://github.com/TREYCSE/Virtual_Detention_Frontend
 
-## 2. App Development Work
+## 2). App Development Work
 ### Backend => Data Science (troubleshooting before deployment)
 1. React.js Frontend application: https://github.com/TREYCSE/ReactUI
 2. Monngoose, Node, & Express RESTful API: https://github.com/TREYCSE/REST_API
 3. Django RESTful API: 
 
-## 3. Artificial Intelligence Work
+## 3). Artificial Intelligence Work
 ### Machine Learning => Deep Learning => Natural Language Question Answering (in testing or fine tuning)
 1. Linear Regression Models:
 2. Logistic Regression/Classification Models:
 
-### 4. Courses In Progress:
+### 4). Courses In Progress:
 1. Math
 2. Robotics
 3. Physics
