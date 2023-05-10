@@ -133,7 +133,7 @@ Now that we have the classes, let's write the main API functionality. (in main.p
             }
 Here, we make a post request to the endpoint /net/image/prediction/ and provide the image_url as a query parameter. That is, the full endpoint when posting an image URL link would be /net/image/prediction/image_url=image-url. For simplicity's sake, we give the image_link a default value of "" and when there's no link passed to the endpoint, we simply return a message saying that there's no image link provided. get_file() downloads the image through the provided URL link, while load_img() loads the image in PIL format, and turns it into the appropriate image size that the model wants. img_to_array() converts the loaded image to a NumPy array. expand_dims() expands the dimensions of the array by one at the zero'th index. We then use model.predict() to get the model prediction on the loaded image, and get the model's confidence score on said prediction using softmax(). I used softmax here as that's the activation function used in creating the model. We finally then get the food type by using argmax() on the model's confidence score. We'll use that as the index that we'll use in searching through the class_predictions array which contains the various food classes we have. Lastly, we multiply the model's confidence score by 100 so that the range of the score would be from 1 to 100. We then return the model's prediction, and the model's confidence score.
 
-  2. HEROKU
+2. HEROKU
 You can actually deploy this app as is on Heroku, using the usual method of defining a Procfile. But when I tried this method, I kept on getting a ValueError: Out of range float values are not JSON compliant error. I also get this error when running the app on Windows Subsystem for Linux (WSL). When I run on Windows, however, the error disappears.
 
 You can actually avoid this error by adding this line of code, after the initial assignment of the model_score variable:
@@ -147,7 +147,7 @@ This lets the app run on both Heroku and WSL, but it will only return these valu
         "model-prediction": "apple pie",
         "model-prediction-confidence-score": NaN,
     }
-So, it works on my machine (Windows), but not on Heroku (using Procfile), nor on WSL. This is the kind of problem that Docker solves!
+So, it works on Windows, but not on Heroku (using Procfile), nor on WSL. This is the kind of problem that Docker solves!
 
 3. DOCKER
 Let's start dockerizing the application. Create a Dockerfile in the project's root directory and put in the following content:
