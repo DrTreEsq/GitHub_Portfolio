@@ -2,7 +2,7 @@
   ![image](https://i.imgur.com/MLKKooE.jpg)
 
 ### App Developer | Artificial Intelligence Engineer | Robotics and Physics revving up! 🚀 
-### On track to become Certified Aerospace Engineer and Theoretical Physicist🪐
+#### On track to become Certified Aerospace Engineer and Theoretical Physicist🪐
 
 # SECTION 1: What's in Progress??!
 ## 1. General Assembly Capstone - The Virtual Detention Classroom!- check out the repo(s) here: 
