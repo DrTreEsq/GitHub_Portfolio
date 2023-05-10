@@ -1,4 +1,6 @@
 # TREY WEATHERS (aka - The Ethical Mad Scientist🤓)
+  ![image](https://i.imgur.com/MLKKooE.jpg)
+
 ## App Developer | Artificial Intelligence Engineer | Robotics and Physics revving up! 🚀 
 ### On track to become Certified Aerospace Engineer and Theoretical Physicist🪐
 
