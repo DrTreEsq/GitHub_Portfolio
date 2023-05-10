@@ -35,7 +35,15 @@
 
 ## 1. Making Your Machine Learn!
 #### How to create a machine learning model using Teachable Machine: https://teachablemachine.withgoogle.com/
-
+#### 0. Creating a ML - friendly developer environment - EDIT‼‼️
+        HARDWARE - CPU + : Coral USB accelerator
+        OPEN/READ FILES - command in python?
+        DOCKER + SOFTWARE WITH CERTAIN VERSIONS - combine for deployment
+        WRITE MODEL - PYTHON
+        TEST/FINE TUNE MODEL - SQUAD
+        GET DATA?
+        EXPORT
+        METADATA
 #### 1. DATA
 
 #### 2. TRAIN
