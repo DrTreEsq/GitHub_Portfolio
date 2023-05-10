@@ -217,8 +217,8 @@ When you navigate to the /docs you'll be greeted with the Swagger documentation 
 ## 2. Making Your Machine Learn!
 #### How to create a machine learning model using Teachable Machine: https://teachablemachine.withgoogle.com/
 
-### 1. Data
+### 1. DATA
 
-### 2. Train
+### 2. TRAIN
 
-### 3. Export
+### 3. EXPORT
