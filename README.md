@@ -9,9 +9,13 @@
 
 ## 2. App Development Work
 ### Backend => Data Science
+1. React.js Frontend application:
+2. Django Backend applcation:
 
-## 3. Artificial Intelligence Work
+## 3. Artificial Intelligence Work (in testing or fine tuning)
 ### Machine Learning => Deep Learning => Natural Language Question Answering
+1. Linear Regression Models:
+2. Logistic Regression/Classification Models:
 
 # SECTION 2: How To's!
 ## 1. Intersection of App Development and Artificial Intelligence:
