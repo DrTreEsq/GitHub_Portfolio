@@ -15,8 +15,8 @@
 2. MongoDB Backend API: https://github.com/TREYCSE/REST_API
 3. Django Backend applcation: 
 
-## 3. Artificial Intelligence Work (in testing or fine tuning)
-### Machine Learning => Deep Learning => Natural Language Question Answering
+## 3. Artificial Intelligence Work
+### Machine Learning => Deep Learning => Natural Language Question Answering (in testing or fine tuning)
 1. Linear Regression Models:
 2. Logistic Regression/Classification Models:
 
