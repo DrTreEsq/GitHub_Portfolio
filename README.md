@@ -45,5 +45,38 @@
         if __name == "__main__":
           port = int(os.environ.get('PORT', 5000))
           run(app, host="0.0.0.0", port=port)
+We also added the CORSMiddleware which essentially allows us to access the API in a different host. That is, we can extend the app further by creating a front-end interface for it. We won't cover that in this article but I put it here just in case you want to create a front-end to interact with the API as well.
+@app is needed for FastAPI commands. The get is an HTTP method, while the "/" is the URL path of that specific API request. Below that we call a function that will return something. Here we just return a simple json message. That is, we have a template for writing API endpoints with FastAPI.
 
+        @app.http_method("url_path")
+        async def functionName():
+            return something
+2. Running the command python -m uvicorn main:app --reload will run the app, and will listen to changes we make on the server. Alternatively, you can use python main.py and it will run the app on port 5000, courtesy of the last 3 lines of code. However, this won't let the app listen to changes we make, so you'll have to re-run the app every time you want to see your changes.
+3. let's extend the code that we wrote earlier, import all the required functions that we'll use, and load the model itself.
 
+        from fastapi import FastAPI
+        from tensorflow.keras.models import load_model
+        from tensorflow.keras.utils import get_file 
+        from tensorflow.keras.utils import load_img 
+        from tensorflow.keras.utils import img_to_array
+        from tensorflow import expand_dims
+        from tensorflow.nn import softmax
+        from numpy import argmax
+        from numpy import max
+        from numpy import array
+        from json import dumps
+        from uvicorn import run
+        import os
+
+        app = FastAPI()
+        model_dir = "food-vision-model.h5"
+        model = load_model(model_dir)
+
+        ...
+        ...
+        ...
+
+        if __name == "__main__":
+                port = int(os.environ.get('PORT', 5000))
+                run(app, host="0.0.0.0", port=port)
+4. 
