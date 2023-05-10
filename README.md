@@ -5,7 +5,7 @@
 #### On track to become Certified Aerospace Engineer and Theoretical Physicist🪐
 
 # SECTION 1: What's in Progress?
-## 1). General Assembly Capstone:repos here:
+## 1). General Assembly Capstone:
 ### The Virtual Detention!
 #### Summary: The Virtual Detention is an online classroom intended for students that tend to get bad reps in tradidional classrooms.
 1. https://github.com/TREYCSE/Virtual_Detention_Backend
