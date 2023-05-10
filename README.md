@@ -214,4 +214,11 @@ Then we can push and release the app through the Docker container we made earlie
 After this, you can go to your Heroku dashboard and open the app. You should be greeted with the JSON message we have in the "/" directory of the application.
 When you navigate to the /docs you'll be greeted with the Swagger documentation of the application. Here you can play around with the POST request we created and see if the model predictions are correct. Note that you must upload image links with the jpeg or png in its URL.
 
+## 2. Making Your Machine Learn!
+#### How to create a machine learning model using Teachable Machine: https://teachablemachine.withgoogle.com/
 
+### 1. Data
+
+### 2. Train
+
+### 3. Export
