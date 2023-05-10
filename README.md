@@ -11,8 +11,9 @@
 
 ## 2. App Development Work
 ### Backend => Data Science
-1. React.js Frontend application:
-2. Django Backend applcation:
+1. React.js Frontend application: https://github.com/TREYCSE/ReactUI
+2. MongoDB Backend API: https://github.com/TREYCSE/REST_API
+3. Django Backend applcation: 
 
 ## 3. Artificial Intelligence Work (in testing or fine tuning)
 ### Machine Learning => Deep Learning => Natural Language Question Answering
