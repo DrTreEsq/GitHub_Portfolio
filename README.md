@@ -10,7 +10,7 @@
 2. https://github.com/TREYCSE/Virtual_Detention_Frontend
 
 ## 2. App Development Work
-### Backend => Data Science
+### Backend => Data Science (troubleshooting before deployment)
 1. React.js Frontend application: https://github.com/TREYCSE/ReactUI
 2. MongoDB Backend API: https://github.com/TREYCSE/REST_API
 3. Django Backend applcation: 
