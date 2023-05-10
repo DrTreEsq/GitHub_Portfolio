@@ -21,9 +21,10 @@
 2. Django RESTful API: 
 
 ## 3). Artificial Intelligence Work
-### Machine Learning => Deep Learning => Natural Language Question Answering (in testing or fine tuning)
+### Machine Learning
 1. Linear Regression Models:
-2. Logistic Regression/Classification Models:
+### Deep Learning => Natural Language Question Answering (in testing or fine tuning)
+3. Logistic Regression/Classification Models:
 
 ### 4). Courses In Progress:
 1. Math
