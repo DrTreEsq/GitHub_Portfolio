@@ -200,4 +200,18 @@ Then you can stop the app, and free up system resources by running the following
     $ docker system prune
 
 #### 4. (back to) HEROKU!
+With the app now dockerized, we can deploy it to Heroku. I'm assuming you already have the Heroku CLI installed, and have already logged the CLI into your Heroku account.
+
+Let's first create the app in Heroku through the CLI:
+
+    $ heroku create <app-name>
+ 
+Then we can push and release the app through the Docker container we made earlier with the following commands:
+  
+    $ heroku container:push web --app <app-name>
+    $ heroku container:release web --app <app-name>
+  
+After this, you can go to your Heroku dashboard and open the app. You should be greeted with the JSON message we have in the "/" directory of the application.
+When you navigate to the /docs you'll be greeted with the Swagger documentation of the application. Here you can play around with the POST request we created and see if the model predictions are correct. Note that you must upload image links with the jpeg or png in its URL.
+
 
