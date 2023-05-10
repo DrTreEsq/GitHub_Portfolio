@@ -2,16 +2,16 @@
 ## App Developer | Artificial Intelligence Engineer | Robotics and Physics revving up! 🚀 
 ### On track to become Certified Aerospace Engineer and Theoretical Physicist🪐
 
-## What's in Progress??!
+## 1. What's in Progress??!
 ### General Assembly Capstone - The Virtual Detention Classroom!- check out the repo(s) here: 
 1. https://github.com/TREYCSE/Virtual_Detention_Backend
 2. https://github.com/TREYCSE/Virtual_Detention_Frontend
 
-## App Development Work *Backend - Data Science
+## 2. App Development Work *Backend - Data Science
 
-## Artificial Intelligence Work *Machine/Deep Learning - Natural Language Question Answering
+## 3. Artificial Intelligence Work *Machine/Deep Learning - Natural Language Question Answering
 
-## Intersection of App Development and Artificial Intelligence:
+## 4. Intersection of App Development and Artificial Intelligence:
 #### How to Deploy a Machine Learning Model as RestFul API!
 ###### Quickly let's discuss what this means and why this is happening: In order for the data from TensorFlow Lite machine learning models to be returned to a user in a full-stack application, it will need to be rendered as API. So do to do this, (as presented in my capstone project), we deploy our TensorFlow models as RESTful API so that it can be returned to users! These are some steps from a very helpful freeCodeCamp article: https://www.freecodecamp.org/news/deploy-an-ml-model-using-fastapi-and-docker/
 1.  In the root directory, create a main.py file. In that file, add the following lines of code:
