@@ -21,7 +21,7 @@ To do so, create a requirements.txt file on the start-here branch, and put in th
         After which you can install the packages using the command
         pip install -r requirements.txt.
 
-Currently our start-here branch has the saved model file, as well as the Jupyter notebook used in creating the model. The notebook also has the code that implements our API feature. That is, it implements predicting the food class of an image based on its URL link.
+Currently the start-here branch should have the saved model file, as well as a Jupyter notebook used in creating the model. The notebook should also has the code that implements your API feature.
 
 #### 1.  PYTHON
 In the root directory, create a main.py file. In that file, add the following lines of code:
