@@ -43,10 +43,11 @@ So there are several ways in which you can integrate Machine Learning AI into yo
 but you can add machine learning models to your app without writing the code in a process we call "inferencing" based off of someone else's model we train and fine-tune it to make better predictions, or even use a completely pre-trained model! Once the model is good to go, use your programming skills to deploy it as API!
 
 #### 0. Creating a ML - friendly developer environment - Do you know your computer personally? Always check it's compatability before taking it out for a spin!
-        EXAMPLE: Virtual Detention Environment: 
+###### EXAMPLE: Virtual Detention Environment: 
         
         Hardware Type | Machine Learning Requirement | Alternative | Purpose
-        Apple M1 chip | CPU, GPU, neural network, etc. | not mac | information processing
+        
+        Apple M1 chip | CPU, GPU, neural network, etc. | not mac | Information Processing, Memory, and Speed
         
   
         Software Type | Machine Learning Requirement | Alternative | Purpose
