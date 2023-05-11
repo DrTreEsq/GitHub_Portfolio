@@ -2,6 +2,14 @@
 #### How to Deploy a Machine Learning Model as RestFul API! (Python fastAPI, Heroku, and Docker needed).
 ###### Quickly let's discuss what this means and why this is happening: In order for the data from TensorFlow Lite machine learning models to be returned to a user in a full-stack application, it will need to be rendered as API. So do to do this, (as presented in my capstone project), we deploy our TensorFlow models as RESTful API so that it can be returned to users! These are some condensed steps from a very helpful freeCodeCamp tutorial: https://www.freecodecamp.org/news/deploy-an-ml-model-using-fastapi-and-docker/
 
+##### 0. Installations
+Download Docker to your local system, and the Heroku CLI as well. You must also install the following packages on pip:
+
+        FastAPI
+        TensorFlow
+        Numpy
+        Uvicorn
+        Image
 #### 1.  PYTHON
 In the root directory, create a main.py file. In that file, add the following lines of code:
         
