@@ -1,6 +1,4 @@
-# SECTION 2: How To's!
-
-## 1. Making Your Machine Learn!
+## Making Your Machine Learn!
 #### 00. How Can Machine Learning be used for your Appplication?
 Well, this is a question that I decided to tackle for my Capstone project at General Assembly. Because I had already broadened my knowledge of AI, i thought it'd be a shame to not find how they intersect!
 So there are several ways in which you can integrate Machine Learning AI into your application as it is a pretty large process.
@@ -37,12 +35,3 @@ but you can add machine learning models to your app without writing the code in 
 3. https://www.cherryservers.com/blog/how-to-choose-hardware-for-your-machine-learning-project#:~:text=Let%27s%20look%20at%20the%20three%20core%20hardware%20options,for%20machine%20learning%3A%20processing%20units%2C%20memory%2C%20and%20storage.
 4. sysctl -a | grep machdep.cpu (PASTE IN TERMINAL TO GET HARDWARE INFORMATION)
 5. https://www.apple.com/in/macbook-air-m1/
-6. 
-
-        
-#### How to create a machine learning model using steps Teachable Machine videos: https://teachablemachine.withgoogle.com/
-#### 1. DATA
-
-#### 2. TRAIN
-
-#### 3. EXPORT
