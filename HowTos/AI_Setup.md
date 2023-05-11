@@ -28,11 +28,13 @@ but you can add machine learning models to your app without writing the code in 
         
         .tflite | not meant to be opened but meant to be read: harware CPU requirements - Coral | metadata
         .ckpt file | not meant to be opened but to be read in Python | pretrained TensorFlow model data to deploy as API
-        
+
+hint:  sysctl -a | grep machdep.cpu (PASTE IN TERMINAL TO GET HARDWARE INFORMATION)
+
 #### 3. Here's a couple of helpful resources:
-1. https://beebom.com/check-cpu-configuration-mac/
+1. choosing hardware to run ML models: https://www.cherryservers.com/blog/how-to-choose-hardware-for-your-machine-learning-project#:~:text=Let%27s%20look%20at%20the%20three%20core%20hardware%20options,for%20machine%20learning%3A%20processing%20units%2C%20memory%2C%20and%20storage.
+https://beebom.com/check-cpu-configuration-mac/
 2. https://www.howtogeek.com/689986/how-to-check-which-cpu-your-mac-uses/ & https://www.howtogeek.com/689986/how-to-check-which-cpu-your-mac-uses/#:~:text=To%20get%20even%20more%20information%20on,you%E2%80%99re%20done%2C%20just%20close%20%E2%80%9CSystem%20Report.%E2%80%9D.&text=To%20get%20even%20more,just%20close%20%E2%80%9CSystem%20Report.%E2%80%9D.&text=even%20more%20information%20on,you%E2%80%99re%20done%2C%20just%20close
 3. https://www.cherryservers.com/blog/how-to-choose-hardware-for-your-machine-learning-project#:~:text=Let%27s%20look%20at%20the%20three%20core%20hardware%20options,for%20machine%20learning%3A%20processing%20units%2C%20memory%2C%20and%20storage.
-4. sysctl -a | grep machdep.cpu (PASTE IN TERMINAL TO GET HARDWARE INFORMATION)
 5. https://www.apple.com/in/macbook-air-m1/
 6. https://github.com/tensorflow/tensorflow/blob/fbad4e056e45a9743f10cec44b2e3c73674fe8ca/tensorflow/python/tools/freeze_graph.py#L117[how to read model in python] - stack overflow: https://stackoverflow.com/questions/42894104/used-pretraing-model-in-tensorflow-ckpt-file#:~:text=You%20have%20%28at%20least%29%20two%20options%20for%20solving,graph%20structure%20to%20the%20variables%20in%20the%20checkpoint.
