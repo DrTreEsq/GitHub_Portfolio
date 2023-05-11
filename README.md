@@ -41,27 +41,30 @@ So there are several ways in which you can integrate Machine Learning AI into yo
 2. train & fine-tool model: data skills needed
 3. deploy the model: programming skills needed
 but you can add machine learning models to your app without writing the code in a process we call "inferencing" based off of someone else's model we train and fine-tune it to make better predictions, or even use a completely pre-trained model! Once the model is good to go, use your programming skills to deploy it as API!
+
 #### 0. Creating a ML - friendly developer environment - Do you know your computer personally? Always check it's compatability before taking it out for a spin!
         EXAMPLE: Virtual Detention Environment: 
         
         Hardware Type | Machine Learning Requirement | Alternative | Purpose
-        CPU       | Docker needs CPU with visualization | download different version | containerize app to be deployed to Heroku
+        
         Coral | Coral  | CPU or USB accelerator | reading metadata
         
         Software Type | Machine Learning Requirement | Alternative | Purpose
+        
         programming language | Python | Java, Javascript, TypeScript | writing the model (BERT for Virtual Detention was made and trained, but inferences made)
         ? | SQuAD - The Stanford Question Answering Dataset | [link](https://github.com/ad-freiburg/large-qa-datasets) | Training & Fine-tune the Model/Getting data
         programming language | C++ | writing metadata
         Cloud Service | Heroku | NA | Deploy model and application
-        Containerizer | Docker | Containerizer for application
+        Containerizer - Docker | CPU with visualization | Containerizer for application
         
-        File Type | How to Open | Purpose 
-        .tflite | not meant to be opened but meant to be read in Python - harware CPU requirements | metadata
-        .ckpt file | not meant to be opened but to be read in Python - harware CPU requirements | pretrained TensorFlow model data 
+        File Type | How to Open | Purpose
+        
+        .tflite | not meant to be opened but meant to be read: harware CPU requirements - Coral | metadata
+        .ckpt file | not meant to be opened but to be read in Python | pretrained TensorFlow model data to deploy as API
         
      
         
-#### How to create a machine learning model using Teachable Machine: https://teachablemachine.withgoogle.com/
+#### How to create a machine learning model using steps Teachable Machine videos: https://teachablemachine.withgoogle.com/
 #### 1. DATA
 
 #### 2. TRAIN
