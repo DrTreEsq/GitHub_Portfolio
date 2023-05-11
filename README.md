@@ -5,14 +5,13 @@
 #### On track to become Certified Aerospace Engineer and Theoretical Physicist🪐
 
 # SECTION 1: What's in Progress?
-## 1). General Assembly Capstone:
-### The Virtual Detention!
+## 1) General Assembly Capstone: The Virtual Detention!
 #### Summary: The Virtual Detention is an online classroom intended for students that tend to get bad reps in tradidional classrooms.
 #### Toolkit: Tensorflow, python, Docker, Heroku, etc.
 1. https://github.com/TREYCSE/Virtual_Detention_Backend
 2. https://github.com/TREYCSE/Virtual_Detention_Frontend
 
-## 2). App Development (troubleshooting before deployment)
+## 2) App Development (troubleshooting before deployment)
 ### Frontend
 1. React.js Frontend application: https://github.com/TREYCSE/ReactUI
 
@@ -20,16 +19,17 @@
 1. Mongoose, Node, & Express RESTful API: https://github.com/TREYCSE/REST_API
 2. Django RESTful API: 
 
-## 3). Artificial Intelligence
+## 3) Artificial Intelligence
 ### Machine Learning
 1. Linear Regression Models:
 ### Deep Learning => Natural Language Question Answering (in testing or fine tuning)
 3. Logistic Regression/Classification Models:
 
-### 4). Courses In Progress:
-1. Math
-2. Robotics
-3. Physics
+### 4) Courses In Progress:
+1. Mathematics for Machine Learning and Data Science Specialization
+2. Robotics Specialization
+3. Physics courses
+4. Next educational Milestone: Certificate of Aerospace Engineering!🚀
 
 # SECTION 2: How To's!
 
@@ -46,9 +46,9 @@ but you can add machine learning models to your app without writing the code in 
         EXAMPLE: Virtual Detention Environment: 
         
         Hardware Type | Machine Learning Requirement | Alternative | Purpose
+        CPU:
         
-        Coral | Coral  | CPU or USB accelerator | reading metadata
-        
+  
         Software Type | Machine Learning Requirement | Alternative | Purpose
         
         programming language | Python | Java, Javascript, TypeScript | writing the model (BERT for Virtual Detention was made and trained, but inferences made)
@@ -62,7 +62,8 @@ but you can add machine learning models to your app without writing the code in 
         .tflite | not meant to be opened but meant to be read: harware CPU requirements - Coral | metadata
         .ckpt file | not meant to be opened but to be read in Python | pretrained TensorFlow model data to deploy as API
         
-     
+Here's a couple of helpful resources:
+https://www.howtogeek.com/689986/how-to-check-which-cpu-your-mac-uses/
         
 #### How to create a machine learning model using steps Teachable Machine videos: https://teachablemachine.withgoogle.com/
 #### 1. DATA
