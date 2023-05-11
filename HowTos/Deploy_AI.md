@@ -10,6 +10,19 @@ Download Docker to your local system, and the Heroku CLI as well. You must also 
         Numpy
         Uvicorn
         Image
+
+To do so, create a requirements.txt file on the start-here branch, and put in the following. Note that you can use any other version of the listed packages below, as long as they still work together.
+
+        fastapi==0.73.0
+        numpy==1.19.5
+        uvicorn==0.15.0
+        image==1.5.33
+        tensorflow-cpu==2.7.0
+        After which you can install the packages using the command
+        pip install -r requirements.txt.
+
+Currently our start-here branch has the saved model file, as well as the Jupyter notebook used in creating the model. The notebook also has the code that implements our API feature. That is, it implements predicting the food class of an image based on its URL link.
+
 #### 1.  PYTHON
 In the root directory, create a main.py file. In that file, add the following lines of code:
         
