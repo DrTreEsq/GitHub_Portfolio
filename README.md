@@ -36,7 +36,11 @@
 ## 1. Making Your Machine Learn!
 #### 00. How Can Machine Learning be used for your Appplication?
 Well, this is a question that I decided to tackle for my Capstone project at General Assembly. Because I had already broadened my knowledge of AI, i thought it'd be a shame to not find how they intersect!
-So there are several ways in which you can integrate Machine Learning AI into your application as it is a pretty large 
+So there are several ways in which you can integrate Machine Learning AI into your application as it is a pretty large process.
+1. write code for model: math and programming skills needed
+2. train & fine-tool model: data skills needed
+3. deploy the model: programming skills needed
+but you can add machine learning models to your app without writing the code in a process we call "inferencing" based off of someone else's model we train and fine-tune it to make better predictions, or even use a completely pre-trained model! Once the model is good to go, use your programming skills to deploy it as API!
 #### 0. Creating a ML - friendly developer environment - Do you know your computer personally? Always check it's compatability before taking it out for a spin!
         EXAMPLE: Virtual Detention Environment: 
         
@@ -45,19 +49,17 @@ So there are several ways in which you can integrate Machine Learning AI into yo
         Coral | Coral  | CPU or USB accelerator | reading metadata
         
         Software Type | Machine Learning Requirement | Alternative | Purpose
-        programming language | Python | Java, Javascript, TypeScript | writing the model (BERT for Virtual Detention was made and trained, but inferences made
+        programming language | Python | Java, Javascript, TypeScript | writing the model (BERT for Virtual Detention was made and trained, but inferences made)
+        ? | SQuAD - The Stanford Question Answering Dataset | [link](https://github.com/ad-freiburg/large-qa-datasets) | Training & Fine-tune the Model/Getting data
         programming language | C++ | writing metadata
-        ? | SQuAD - Stanford Database | ? | Training the Model
+        Cloud Service | Heroku | NA | Deploy model and application
+        Containerizer | Docker | Containerizer for application
         
+        File Type | How to Open | Purpose 
+        .tflite | not meant to be opened but meant to be read in Python - harware CPU requirements | metadata
+        .ckpt file | not meant to be opened but to be read in Python - harware CPU requirements | pretrained TensorFlow model data 
         
-  
-      
-        OPEN/READ FILES - command in python?
-        WRITE MODEL - PYTHON
-        TEST/FINE TUNE MODEL - SQUAD
-        GET DATA?
-        EXPORT
-        METADATA
+     
         
 #### How to create a machine learning model using Teachable Machine: https://teachablemachine.withgoogle.com/
 #### 1. DATA
