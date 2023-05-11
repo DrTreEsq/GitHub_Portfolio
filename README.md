@@ -34,16 +34,32 @@
 # SECTION 2: How To's!
 
 ## 1. Making Your Machine Learn!
-#### How to create a machine learning model using Teachable Machine: https://teachablemachine.withgoogle.com/
-#### 0. Creating a ML - friendly developer environment - EDIT‼‼️
-        HARDWARE - CPU + : Coral USB accelerator
+#### 00. How Can Machine Learning be used for your Appplication?
+Well, this is a question that I decided to tackle for my Capstone project at General Assembly. Because I had already broadened my knowledge of AI, i thought it'd be a shame to not find how they intersect!
+So there are several ways in which you can integrate Machine Learning AI into your application as it is a pretty large 
+#### 0. Creating a ML - friendly developer environment - Do you know your computer personally? Always check it's compatability before taking it out for a spin!
+        EXAMPLE: Virtual Detention Environment: 
+        
+        Hardware Type | Machine Learning Requirement | Alternative | Purpose
+        CPU       | Docker needs CPU with visualization | download different version | containerize app to be deployed to Heroku
+        Coral | Coral  | CPU or USB accelerator | reading metadata
+        
+        Software Type | Machine Learning Requirement | Alternative | Purpose
+        programming language | Python | Java, Javascript, TypeScript | writing the model (BERT for Virtual Detention was made and trained, but inferences made
+        programming language | C++ | writing metadata
+        ? | SQuAD - Stanford Database | ? | Training the Model
+        
+        
+  
+      
         OPEN/READ FILES - command in python?
-        DOCKER + SOFTWARE WITH CERTAIN VERSIONS - combine for deployment
         WRITE MODEL - PYTHON
         TEST/FINE TUNE MODEL - SQUAD
         GET DATA?
         EXPORT
         METADATA
+        
+#### How to create a machine learning model using Teachable Machine: https://teachablemachine.withgoogle.com/
 #### 1. DATA
 
 #### 2. TRAIN
