@@ -46,7 +46,7 @@ but you can add machine learning models to your app without writing the code in 
         EXAMPLE: Virtual Detention Environment: 
         
         Hardware Type | Machine Learning Requirement | Alternative | Purpose
-        CPU:
+        Apple M1 chip | CPU, GPU, neural network, etc. | not mac | information processing
         
   
         Software Type | Machine Learning Requirement | Alternative | Purpose
@@ -62,8 +62,12 @@ but you can add machine learning models to your app without writing the code in 
         .tflite | not meant to be opened but meant to be read: harware CPU requirements - Coral | metadata
         .ckpt file | not meant to be opened but to be read in Python | pretrained TensorFlow model data to deploy as API
         
-Here's a couple of helpful resources:
-https://www.howtogeek.com/689986/how-to-check-which-cpu-your-mac-uses/
+##### Here's a couple of helpful resources:
+1. https://www.howtogeek.com/689986/how-to-check-which-cpu-your-mac-uses/ & https://www.howtogeek.com/689986/how-to-check-which-cpu-your-mac-uses/#:~:text=To%20get%20even%20more%20information%20on,you%E2%80%99re%20done%2C%20just%20close%20%E2%80%9CSystem%20Report.%E2%80%9D.&text=To%20get%20even%20more,just%20close%20%E2%80%9CSystem%20Report.%E2%80%9D.&text=even%20more%20information%20on,you%E2%80%99re%20done%2C%20just%20close
+2. https://www.cherryservers.com/blog/how-to-choose-hardware-for-your-machine-learning-project#:~:text=Let%27s%20look%20at%20the%20three%20core%20hardware%20options,for%20machine%20learning%3A%20processing%20units%2C%20memory%2C%20and%20storage.
+3. sysctl -a | grep machdep.cpu (PASTE IN TERMINAL TO GET HARDWARE INFORMATION)
+4. https://www.apple.com/in/macbook-air-m1/
+
         
 #### How to create a machine learning model using steps Teachable Machine videos: https://teachablemachine.withgoogle.com/
 #### 1. DATA
