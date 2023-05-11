@@ -17,7 +17,7 @@
 
 ### Backend => Data Science
 1. Mongoose, Node, & Express RESTful API: https://github.com/TREYCSE/REST_API
-2. Django RESTful API: 
+2. Django RESTful API: https://github.com/TREYCSE/DJANGO_API
 
 ## 3) Artificial Intelligence
 ### Machine Learning
