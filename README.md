@@ -1,6 +1,6 @@
 ### Table of Contents:
 1. About me
-2. Projects in Progress (sum in README, code samples in directories
+2. Projects in Progress (sum in README, code samples in directories)
 3. How To's - directory 
 
 # About Me
