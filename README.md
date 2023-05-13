@@ -3,8 +3,7 @@
 2. Projects in Progress (sum in README, code samples in directories)
 3. How To's - directory 
 
-# About Me
-# Trey Weathers 
+# About Me: Trey Weathers 
 ### The Ethical Mad Scientist🤓
   ![image](https://i.imgur.com/MLKKooE.jpg)
 
