@@ -31,8 +31,9 @@
 ### Deep Learning => Natural Language Question Answering (in testing or fine tuning)
 3. Logistic Regression/Classification Models:
 
-### 4) Courses In Progress:
+## 4) Courses In Progress:
 1. Mathematics for Machine Learning and Data Science Specialization
 2. Robotics Specialization
 3. Physics courses
 4. Next educational Milestone: Certificate of Aerospace Engineering!🚀
+5. Educational/Career Goal: PhD of Theoretical Physics/Metaphysical Philosophy, Tenured Professor, & Experimental Aerospace Engineer
