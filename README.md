@@ -1,3 +1,8 @@
+### Table of Contents:
+1. About me
+2. Projects in Progress (sum in README, code samples in directories
+3. How To's - directory 
+
 # SECTION 1: Who am I?
 # TREY WEATHERS (aka The Ethical Mad Scientist🤓)
   ![image](https://i.imgur.com/MLKKooE.jpg)
