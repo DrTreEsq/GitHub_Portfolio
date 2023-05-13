@@ -7,8 +7,7 @@
 ### aka The Ethical Mad Scientist🤓
   ![image](https://i.imgur.com/MLKKooE.jpg)
 
-### App Developer | Artificial Intelligence Engineer | Robotics and Physics revving up! 🚀 
-#### On track to become Certified Aerospace Engineer and Theoretical Physicist🪐
+### App Developer | Artificial Intelligence Engineer | Aerial Robotics and Physics revving up! 🚀 
 
 # Projects in Progress
 ## 1) General Assembly Capstone: The Virtual Detention!
@@ -36,4 +35,4 @@
 2. Robotics Specialization
 3. Physics courses
 4. Next educational Milestone: Certificate of Aerospace Engineering!🚀
-5. Educational/Career Goal: PhD of Theoretical Physics/Metaphysical Philosophy, Tenured Professor, & Experimental Aerospace Engineer
+5. Educational/Career Goal: PhD of Theoretical Physics/Metaphysical Philosophy, Tenured Professor, & Experimental Aerospace Engineer🪐
