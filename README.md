@@ -7,7 +7,7 @@
 ### aka The Ethical Mad Scientist🤓
   ![image](https://i.imgur.com/MLKKooE.jpg)
 
-### App Developer | Artificial Intelligence Engineer | Aerial Robotics and Physics revving up! 🚀 
+### App Developer | Artificial Intelligence Engineer | Aerial Robotics and AstroPhysics revving up! 🚀 
 
 # Projects in Progress
 ## 1) General Assembly Capstone: The Virtual Detention!
