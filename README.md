@@ -8,6 +8,7 @@
   ![image](https://i.imgur.com/MLKKooE.jpg)
 
 ### App Developer | Artificial Intelligence Engineer | Aerial Robotics and AstroPhysics revving up! 🚀 
+###### Welcome, Earthling! My name is Trey and I am an educator and forever student with a goal of learning each valuable skill necessary to pioneer the change that I wish to see in the world.
 
 # Projects in Progress
 ## 1) General Assembly Capstone: The Virtual Detention!
