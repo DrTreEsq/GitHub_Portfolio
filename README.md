@@ -37,4 +37,4 @@
 2. Robotics Specialization
 3. Physics courses
 #### Next educational Milestone: Certificate of Aerospace Engineering!🚀
-#### Educational/Career Goal: PhD of Theoretical Physics/Metaphysical Philosophy, Tenured Professor, & Experimental Aerospace Engineer🪐
+#### Educational|Career Goal: PhD of Theoretical Physics/Metaphysical Philosophy, Tenured Professor & Licensed Aerospace Engineer🪐
