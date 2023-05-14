@@ -16,3 +16,4 @@
 3. Physics courses
 #### Next educational Milestone: Certificate of Aerospace Engineering!🚀
 #### Educational|Career Goal: PhD of Theoretical Physics/Metaphysical Philosophy, Tenured Professor & Licensed Aerospace Engineer🪐
+### Currently hold a B.S. in Healthcare
