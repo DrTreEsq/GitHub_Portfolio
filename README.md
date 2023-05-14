@@ -1,7 +1,7 @@
-### Table of Contents:
-1. About me
-2. Projects in Progress (sum in README, code samples in directories)
-3. How To's - directory 
+## Table of Contents:
+1. About me - just keep scrolling!
+2. Projects in Progress - summary below, code samples in directory above^
+3. How To's - directory above^
 
 # About Me: Trey Weathers 
 ### aka The Ethical Mad Scientist🤓
