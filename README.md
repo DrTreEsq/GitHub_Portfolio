@@ -15,6 +15,8 @@ Courses:
 1. Mathematics for Machine Learning and Data Science Specialization
 2. Robotics Specialization
 3. Physics courses
-#### Next educational Milestone: Certificate of Aerospace Engineering!🚀
-#### Educational|Career Goal: PhD of Theoretical Physics/Metaphysical Philosophy, Tenured Professor & Licensed Aerospace Engineer🪐
-### Currently hold a B.S. in Healthcare
+
+Goals: 
+1. Currently hold a B.S. in Healthcare, finishing Bootcamp Software Engineering Certificate and Machine Learning Specialization Certification (completion May 2023/June 2023)
+2. Next educational Milestone: Certificate of Aerospace Engineering!🚀
+3. Educational => Career Goal: PhD of Theoretical Physics/Metaphysical Philosophy, Tenured Professor & Licensed Aerospace Engineer🪐
