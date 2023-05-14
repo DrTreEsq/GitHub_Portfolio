@@ -1,13 +1,19 @@
-# SECTION 1: Who am I?
-# TREY WEATHERS (aka The Ethical Mad Scientist🤓)
+### Table of Contents:
+1. About me
+2. Projects in Progress (sum in README, code samples in directories)
+3. How To's - directory 
+
+# About Me: Trey Weathers 
+### aka The Ethical Mad Scientist🤓
   ![image](https://i.imgur.com/MLKKooE.jpg)
 
-### App Developer | Artificial Intelligence Engineer | Robotics and Physics revving up! 🚀 
-#### On track to become Certified Aerospace Engineer and Theoretical Physicist🪐
+### App Developer | Artificial Intelligence Engineer | Aerial Robotics and AstroPhysics revving up! 🚀 
+###### Welcome, Earthling! My name is Trey and I am an educator and forever student with a goal of learning each valuable skill necessary to pioneer the change that I wish to see in the world. I have a wide range of abilities stemming from my diverse work background, education, and additional academic interests ranging from neuroscience, programming, to the history of mankind and more. I hope to continually gain experience to grow myself professionally and offer the same to the organizations that I work with as I work towards a greater goal of personal development and global change.
 
-# SECTION 2: What's in Progress?
+# Projects in Progress
 ## 1) General Assembly Capstone: The Virtual Detention!
 #### Summary: The Virtual Detention is an online classroom intended for students that tend to get bad reps in tradidional classrooms. Using Natural Language Question Answering BERT models trained with SQuAD, along with React and Node on the front end, students can interact with this platform to help study outside of normal school environments or hours.
+
 #### Toolkit: Tensorflow, python, Docker, Heroku, etc.
 1. https://github.com/TREYCSE/Virtual_Detention_Backend
 2. https://github.com/TREYCSE/Virtual_Detention_Frontend
@@ -26,8 +32,9 @@
 ### Deep Learning => Natural Language Question Answering (in testing or fine tuning)
 3. Logistic Regression/Classification Models:
 
-### 4) Courses In Progress:
+## 4) Educational Pursuits In Progress:
 1. Mathematics for Machine Learning and Data Science Specialization
 2. Robotics Specialization
 3. Physics courses
-4. Next educational Milestone: Certificate of Aerospace Engineering!🚀
+#### Next educational Milestone: Certificate of Aerospace Engineering!🚀
+#### Educational|Career Goal: PhD of Theoretical Physics/Metaphysical Philosophy, Tenured Professor & Licensed Aerospace Engineer🪐
