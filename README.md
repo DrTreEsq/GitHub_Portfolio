@@ -1,6 +1,6 @@
 ## Table of Contents:
 1. About me - just keep scrolling!
-2. Projects in Progress (sum in README.md, code samples in directories)
+2. Projects in Progress (summary below, code samples in directory above^)
 3. How To's - directory above^
 
 # About Me: Trey Weathers 
