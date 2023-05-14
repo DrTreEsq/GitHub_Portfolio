@@ -17,6 +17,6 @@ Courses:
 
 Goals: 
 1. Currently hold a B.S. in Healthcare, finishing Bootcamp Software Engineering Certificate and Machine Learning Specialization Certification (completion May 2023/June 2023)
-2. Completing Robotics Specialization this month
+2. Completing Robotics Specialization upcoming Summer Term in preparation to apply for =>
 3. Next educational Milestone: Certificate of Aerospace Engineering!🚀
 4. Educational => Career Goal: PhD of Theoretical Physics/Metaphysical Philosophy, Tenured Professor & Licensed Aerospace Engineer🪐
