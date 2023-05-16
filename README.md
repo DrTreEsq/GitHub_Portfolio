@@ -21,7 +21,7 @@ Certifications and Additional Courses:
 1. General Assembly: Full Stack Software Engineering, May 2023
 2. Stanford & DeepLearning.AI: Machine Learning Specialization, June 2023
 3. IBM Data Engineering Professional Certificate, July 2023
-4. Unniversity of Pennsylvania: Robotics Specialization - starting July 2023
+4. University of Pennsylvania: Robotics Specialization - starting July 2023
 5. Physics: Einstien's General & Special Theory of Relativity - Astronomy, Quantum Mechanics, Algrebra, Philoshophy, Natural Law & more. - in progress indefinetely📑
 
 ## 3. Goals: 
