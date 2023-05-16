@@ -1,5 +1,5 @@
 # Trey's Projects in Progress!
-##### Welcome to the homepage(README) for this directory. I alwaya have several projects going on at once as I have a complex learning style that comprises of tackling everything I need to know all at once!
+##### Welcome to the homepage(README) for this directory. I always have several projects going on at once as I have a complex learning style that comprises of tackling everything I need to know all at once!
 ###### But this can seem hectic sometimes, so organization is key! Go through some directories and files in this root directory to see some code's i've been working on. They are commented and tracked with an google sheets tracker so that I am able to keep track of progress on each one. No project left behind!
 
 ## Table of Contents:
@@ -20,12 +20,15 @@
 ## 2. App Development (troubleshooting before deployment)
 ### Frontend
 1. React.js Frontend application: https://github.com/TREYCSE/ReactUI
+2. Frontend Trive Game/Application: https://github.com/TREYCSE/Trivia_Game
 
-### Backend => Data Science
+### Backend
 1. Mongoose, Node, & Express RESTful API: https://github.com/TREYCSE/REST_API
 2. Django RESTful API: https://github.com/TREYCSE/DJANGO_API
 
-## 3. Artificial Intelligence
+## 3. Data Science
+
+## 4. Artificial Intelligence
 ### Machine Learning
 1. Linear Regression Models:
 ### Deep Learning => Natural Language Question Answering (in testing or fine tuning)
