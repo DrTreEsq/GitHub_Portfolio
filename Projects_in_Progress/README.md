@@ -22,11 +22,13 @@
 1. React.js Frontend application: https://github.com/TREYCSE/ReactUI
 2. Frontend Trive Game/Application: https://github.com/TREYCSE/Trivia_Game
 
-### Backend => Data Science
+### Backend
 1. Mongoose, Node, & Express RESTful API: https://github.com/TREYCSE/REST_API
 2. Django RESTful API: https://github.com/TREYCSE/DJANGO_API
 
-## 3. Artificial Intelligence
+## 3. Data Science
+
+## 4. Artificial Intelligence
 ### Machine Learning
 1. Linear Regression Models:
 ### Deep Learning => Natural Language Question Answering (in testing or fine tuning)
