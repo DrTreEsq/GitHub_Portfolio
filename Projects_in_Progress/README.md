@@ -20,6 +20,7 @@
 ## 2. App Development (troubleshooting before deployment)
 ### Frontend
 1. React.js Frontend application: https://github.com/TREYCSE/ReactUI
+2. Frontend Trive Game/Application: https://github.com/TREYCSE/Trivia_Game
 
 ### Backend => Data Science
 1. Mongoose, Node, & Express RESTful API: https://github.com/TREYCSE/REST_API
