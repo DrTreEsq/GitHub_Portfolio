@@ -16,12 +16,15 @@
 3. Big Data Tools: becoming familiar with LangChain and Apache (Hadoop, Spark, Hive)
 
 ## Educational Pursuits In Progress:
-Courses:
-1. Mathematics for Machine Learning and Data Science Specialization
-2. Physics: Einstien's General & Special Theory of Relativity - Astronomy, Algrebra, Philoshophy, Natural Law & more.
+Certifications and Additional Courses:
+1. General Assembly: Full Stack Software Engineering, May 2023
+2. Stanford & DeepLearning.AI: Machine Learning Specialization, June 2023
+3. IBM Data Engineering Professional Certificate, July 2023
+4. Unniversity of Pennsylvania: Robotics Specialization - starting July 2023
+5. Physics: Einstien's General & Special Theory of Relativity - Astronomy, Quantum Mechanics, Algrebra, Philoshophy, Natural Law & more. - in progress indefinetely📑
 
 Goals: 
-1. Currently hold a B.S. in Healthcare, finishing Bootcamp Software Engineering Certificate and Machine Learning Specialization Certification (completion May 2023/June 2023)
-2. Completing Robotics Specialization upcoming Summer Term in preparation to apply for =>
-3. Next educational Milestone: Certificate of Aerospace Engineering!🚀
-4. Educational => Career Goal: PhD of Theoretical Physics/Metaphysical Philosophy, Tenured Professor & Licensed Aerospace Engineer🪐
+1. Currently hold a B.S. in Healthcare
+2. Finishing several certifications between May and July of this year (2023)
+3. Next educational Milestone: Certificate of Aerospace Engineering start January of 2024 (with ability to continue working throughout the program)🚀
+4. Educational => Career Goal: Licensed Aerospace Engineer🪐, PhD of Theoretical Physics/Metaphysical Philosophy📇, & Tenured Professor🧑‍🏫
