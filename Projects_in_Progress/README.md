@@ -1,4 +1,4 @@
-# Trey's Projects in Progress!
+# Projects in Progress!
 ##### Welcome to the homepage(README) for this directory. I always have several projects going on at once as I have a complex learning style that comprises of tackling everything I need to know all at once!
 ###### But this can seem hectic sometimes, so organization is key! Go through some directories and files in this root directory to see some code's i've been working on. They are commented and tracked with an google sheets tracker so that I am able to keep track of progress on each one. No project left behind!
 
@@ -31,5 +31,6 @@
 ## 4. Artificial Intelligence
 ### Machine Learning
 1. Linear Regression Models:
-### Deep Learning => Natural Language Question Answering (in testing or fine tuning)
+2. Logistic  Regression Models:
+### Deep Learning
 3. Logistic Regression/Classification Models:
