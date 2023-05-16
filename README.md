@@ -10,10 +10,11 @@
 ### App Developer | Artificial Intelligence Engineer | Aerial Robotics and AstroPhysics revving up! 🚀 
 ###### Welcome, Earthling! My name is Trey and I am an educator and forever student with a goal of learning each valuable skill necessary to pioneer the change that I wish to see in the world. I have a wide range of abilities stemming from my diverse work background, education, and additional academic interests ranging from neuroscience, programming, to the history of mankind and more. I hope to continually gain experience to grow myself professionally and offer the same to the organizations that I work with as I work towards a greater goal of personal development and global change.
 
-## 1. Technologies:
+## 1. Tools & Technologies:
 1. Programming: Python, Javascript, React, Node, MongoDB, Django
 2. Data Science | AI: NumPy, TensorFlow, SQL
-3. Big Data Tools: becoming familiar with LangChain and Apache (Hadoop, Spark, Hive)
+4. Big Data tools: becoming familiar with LangChain, Spark, and more.
+5. Machine Learning Tools: 
 
 ## 2. Educational Pursuits In Progress:
 Certifications and Additional Courses:
