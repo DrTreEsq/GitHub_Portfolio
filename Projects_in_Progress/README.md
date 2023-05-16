@@ -1,8 +1,8 @@
 # Projects in Progress!
 ##### Welcome to the homepage(README) for this directory. I always have several projects going on at once as I have a complex learning style that comprises of tackling everything I need to know all at once!
-###### But this can seem hectic sometimes, so organization is key! Go through some directories and files in this root directory to see some code's i've been working on. They are commented and tracked with an google sheets tracker so that I am able to keep track of progress on each one. No project left behind!
+###### But this can seem hectic sometimes, so organization is key! Go through some directories and files in this root directory to see some code's i've been working on. They are commented and tracked with a google sheets tracker so that I am able to keep track of progress on each one while taking on additional skills. No project left behind!
 
-## Table of Contents: (sample code-GH link below w/ summaries_
+### Table of Contents: (sample code w/ GH link below w/ summaries)
 1. Capstone: Virtual Detention (Links below)
 2. Frontend Projects: https://github.com/TREYCSE/Main_Portfolio/tree/main/Projects_in_Progress/Frontend_projects
 3. Backend Projects: https://github.com/TREYCSE/Main_Portfolio/tree/main/Projects_in_Progress/Backend_projects
