@@ -27,5 +27,6 @@ Certifications and Additional Courses:
 ## 3. Goals: 
 1. Currently hold a B.S. in Healthcare
 2. Finishing several certifications between May and July of this year (2023)
-3. Next educational Milestone: Certificate of Aerospace Engineering start January of 2024 (with ability to continue working throughout the program)🚀
-4. Educational => Career Goal: Licensed Aerospace Engineer🪐, PhD of Theoretical Physics/Metaphysical Philosophy📇, & Tenured Professor🧑‍🏫
+3. Completing courses/certificatiosn during Summer to prepare for =>
+4. Next educational Milestone: Certificate of Aerospace Engineering start January of 2024 (with ability to continue working throughout the program)🚀
+5. Educational => Career Goal: Licensed Aerospace Engineer🪐, PhD of Theoretical Physics/Metaphysical Philosophy📇, & Tenured Professor🧑‍🏫
