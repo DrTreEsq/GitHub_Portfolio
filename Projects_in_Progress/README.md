@@ -3,7 +3,7 @@
 ###### But this can seem hectic sometimes, so organization is key! Go through some directories and files in this root directory to see some code's i've been working on. They are commented and tracked with a google sheets tracker so that I am able to keep track of progress on each one while taking on additional skills. No project left behind!
 
 ## Deployed Apps & Algorithms!
-### 1. App Development troubleshooting before deployment to Heroku^^ codes in GH repo in dir above)
+### 1. App Development - troubleshooting before deployment to Heroku^^ sample codes in GH repo in dir above
 #### Frontend
 1. React.js NASA Frontend application:
 2. Frontend Software Star Trivia game/application:
