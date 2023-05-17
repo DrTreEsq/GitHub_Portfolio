@@ -4,7 +4,7 @@
 
 ## Deployed Apps & Algorithms!
 ### 1. App Development
-###### troubleshooting before deployment to Heroku^^ sample codes in GH repo in dir above
+###### troubleshooting before deployment to Heroku^^ sample codes in repo in dir above
 #### Frontend
 1. React.js NASA Frontend application:
 2. Frontend Software Star Trivia game/application:
