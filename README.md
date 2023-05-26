@@ -20,7 +20,7 @@
 ## 2. EDUCATION
 1. B.S. in Healthcare & attended law school for one year before discovering passion for S.T.E.M.
 2. General Assembly: Full Stack Software Engineering, May 2023
-3. Stanford & DeepLearning.AI: Machine Learning Specialization, June 2023
+3. Stanford & DeepLearning.AI: Machine Learning Specialization Certificate, June 2023
 4. IBM Data Engineering Professional Certificate, July 2023
 5. University of Pennsylvania: Robotics Specialization - starting August 2023
 6. **Theoretical Physics & Metaphysical Philosophy: Einstien's General & Special Theory of Relativity - Dimensions/Astronomy, Gravity, Quantum Mechanics, Algrebra, Philoshophy, Natural Law etc, in progress indefinetely📑
