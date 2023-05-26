@@ -12,9 +12,8 @@
 
 ## 1. Tools & Technologies:
 1. Programming: Python, Javascript, React, Node, MongoDB, Django
-2. Data Science | AI: NumPy, TensorFlow, SQL
-4. Big Data tools: becoming familiar with LangChain, Spark, and more.
-5. Machine Learning Tools: 
+2. Data Science & Machine Learning | AI: NumPy, TensorFlow, SQL
+4. Big Data tools: becoming familiar with LangChain, Spark, and more. 
 
 ## 2. Educational Pursuits In Progress:
 Certifications and Additional Courses:
