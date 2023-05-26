@@ -7,7 +7,7 @@
 ### aka The Ethical Mad Scientist🤓
   ![image](https://i.imgur.com/MLKKooE.jpg)
 
-### Multidisciplinary Engineer | Software | Machine + Deep Learning | Data | Aerial Robotics and AstroPhysics revving up! 🚀 
+### Multidisc. Engineer | Software Certificate | Stanford Machine Learning Specialization & IBM Data Eng. Professional Certification in prog.🧑‍💻| Mech. Eng. revving for Grad Aerospace Eng. Cert🛰️|
 ###### Welcome, Earthling! My name is Trey and I am an educator and forever student with a goal of learning each valuable skill necessary to pioneer the change that I wish to see in the world. I have a wide range of abilities stemming from my diverse work background, education, and additional academic interests ranging from neuroscience, programming, to the history of mankind and more. I hope to continually gain experience to grow myself professionally and offer the same to the organizations that I work with as I work towards a greater goal of personal development and global change.
 
 ## 1. Tools & Technologies:
@@ -21,8 +21,8 @@ Certifications and Additional Courses:
 1. General Assembly: Full Stack Software Engineering, May 2023
 2. Stanford & DeepLearning.AI: Machine Learning Specialization, June 2023
 3. IBM Data Engineering Professional Certificate, July 2023
-4. University of Pennsylvania: Robotics Specialization - starting July 2023
-5. Physics: Einstien's General & Special Theory of Relativity - Astronomy, Quantum Mechanics, Algrebra, Philoshophy, Natural Law & more. - in progress indefinetely📑
+4. University of Pennsylvania: Robotics Specialization - starting August 2023
+5. Physics: Einstien's General & Special Theory of Relativity - Dimensions/Astronomy, Gravity, Quantum Mechanics, Algrebra, Philoshophy, Natural Law & more. - in progress indefinetely📑
 
 ## 3. Goals: 
 1. Currently hold a B.S. in Healthcare
