@@ -12,37 +12,42 @@
 2. Data Science & Machine Learning | AI: NumPy, TensorFlow, SQL
 4. Big Data tools: becoming familiar with LangChain, Spark, and more. 
 
-### Administrative
+### Administrative Skills:
 1. Error Tracking - team and individual ![image](https://i.imgur.com/ZMeXgZ0.jpg)
 2. Operations Management
 
-## 2. WORK
+## 2. EDUCATION
+1. B.S. in Healthcare & attended law school for one year before discovering passion for S.T.E.M.
+2. General Assembly: Full Stack Software Engineering, May 2023
+3. Stanford & DeepLearning.AI: Machine Learning Specialization, June 2023
+4. IBM Data Engineering Professional Certificate, July 2023
+5. University of Pennsylvania: Robotics Specialization - starting August 2023
+6. **Theoretical Physics & Metaphysical Philosophy: Einstien's General & Special Theory of Relativity - Dimensions/Astronomy, Gravity, Quantum Mechanics, Algrebra, Philoshophy, Natural Law etc, in progress indefinetely📑
+
+### Individual Projects
+1. Full-Stack Capstone
+2. Stanford Machine Learning Specialization Capstone
+3. IBM Data Engineering Capstone
+
+## 3. GOALS
+1. Finishing several certifications between May and July of this year (2023)
+2. Completing courses/certificatiosn during Summer to prepare for =>
+3. Next educational Milestone: Certificate of Aerospace Engineering start January or May of 2024 (with ability to continue working throughout the program)🚀
+4. Educational => Career Goal: Licensed Aerospace Engineer🪐, PhD of Theoretical Physics/Metaphysical Philosophy📇, & Tenured Professor🧑‍🏫
+
+## 4. WORK
 ### Positions open to
 1. Fields of Engineering: Multidisciplinary Software
 2. Roles: App Dev, AI engineer, Data Analyst/Scientist/Engineer, Researcher, and more.
 3. Responsibilities: Data analysis, neural network architecture, software engineering
 
 ### Fields of Work open to
-1. Research
+1. Research Science
 2. Applications
 3. Business Consulting
 4. Other: HR, Law, edu
 
-### Individual Projects
-1. Full-Stack Capstone
-
-2. Stanford Machine 
-
-## 3. EDUCATION
-1. Currently hold a B.S. in Healthcare & attended law school for one year before discovering 
-2. General Assembly: Full Stack Software Engineering, May 2023
-3. Stanford & DeepLearning.AI: Machine Learning Specialization, June 2023
-4. IBM Data Engineering Professional Certificate, July 2023
-5. University of Pennsylvania: Robotics Specialization - starting August 2023
-6. Physics: Einstien's General & Special Theory of Relativity - Dimensions/Astronomy, Gravity, Quantum Mechanics, Algrebra, Philoshophy, Natural Law & more. - in progress indefinetely📑
-
-## 4. GOALS
-2. Finishing several certifications between May and July of this year (2023)
-3. Completing courses/certificatiosn during Summer to prepare for =>
-4. Next educational Milestone: Certificate of Aerospace Engineering start January or May of 2024 (with ability to continue working throughout the program)🚀
-5. Educational => Career Goal: Licensed Aerospace Engineer🪐, PhD of Theoretical Physics/Metaphysical Philosophy📇, & Tenured Professor🧑‍🏫
+### Previous Fields of Work & Education
+1. Human Resources/Talent Aqcuisition
+2. Team Operations & Data Management
+3. Education
