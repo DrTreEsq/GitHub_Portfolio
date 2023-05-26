@@ -30,10 +30,9 @@
 3. IBM Data Engineering Capstone
 
 ## 3. GOALS
-1. Finishing several certifications between May and July of this year (2023)
-2. Completing courses/certificatiosn during Summer to prepare for =>
-3. Next educational Milestone: Certificate of Aerospace Engineering start January or May of 2024 (with ability to continue working throughout the program)🚀
-4. Educational => Career Goal: Licensed Aerospace Engineer🪐, PhD of Theoretical Physics/Metaphysical Philosophy📇, & Tenured Professor🧑‍🏫
+1. Finishing several certifications between May and Summer of this year (2023) to prepare for =>
+2. Next educational Milestone: Certificate of Aerospace Engineering start January or May of 2024 (with ability to continue working throughout the program)🚀
+3. Educational => Career Goal: Licensed Aerospace Engineer🪐, PhD of Theoretical Physics/Metaphysical Philosophy📇, & Tenured Professor🧑‍🏫
 
 ## 4. WORK
 ### Positions open to
