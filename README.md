@@ -18,14 +18,14 @@
 
 ## 2. WORK
 ### Positions open to
-1. Fiels of Engineering: Software, Machine Learning, Deep Learning
-2. Roles: Apps, AI, and data
-3. Responsibilities: 
+1. Fields of Engineering: Multidisciplinary Software
+2. Roles: App Dev, AI engineer, Data Analyst/Scientist/Engineer, Researcher, and more.
+3. Responsibilities: Data analysis, neural network architecture, software engineering
 
 ### Fields of Work open to
 1. Research
 2. Applications
-3. Businesses
+3. Business Consulting
 4. Other: HR, Law, edu
 
 ### Individual Projects
@@ -34,8 +34,7 @@
 2. Stanford Machine 
 
 ## 3. EDUCATION
-Certifications and Additional Courses:
-1. Currently hold a B.S. in Healthcare
+1. Currently hold a B.S. in Healthcare & attended law school for one year before discovering 
 2. General Assembly: Full Stack Software Engineering, May 2023
 3. Stanford & DeepLearning.AI: Machine Learning Specialization, June 2023
 4. IBM Data Engineering Professional Certificate, July 2023
