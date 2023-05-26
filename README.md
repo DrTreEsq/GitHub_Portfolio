@@ -25,6 +25,7 @@
 6. **Theoretical Physics & Metaphysical Philosophy: Einstien's General & Special Theory of Relativity - Dimensions/Astronomy, Gravity, Quantum Mechanics, Algrebra, Philoshophy, Natural Law etc, in progress indefinetely📑
 
 ### Individual Projects
+![image](https://i.imgur.com/ZaSXbaI.png) ![image]([https://i.imgur.com/ZaSXbaI.png](https://i.imgur.com/QDDD5Vu.jpg))
 1. Full-Stack Capstone
 2. Stanford Machine Learning Specialization Capstone
 3. IBM Data Engineering Capstone
