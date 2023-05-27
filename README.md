@@ -2,7 +2,7 @@
 ### aka The Ethical Mad Scientist🤓
   ![image](https://i.imgur.com/MLKKooE.jpg)
 
-### Multidisciplinary Engineer | Software Engineering Certificate | Stanford Machine Learning Specialization & IBM Data Engineering Professional Certification in progress🧑‍💻| Robotics/Mechanical Eng. revving for Graduate Aerospace Eng. Certification |
+### Multidisciplinary Engineer | Software Engineering Certificate | Stanford Machine Learning Specialization & IBM Data Engineering Professional Certification in progress🧑‍💻| Robotics/Mechanical Engineering revving for Graduate Aerospace Eng. Certification |
 ###### Welcome, Earthling! My name is Trey and I am an educator and forever student with a goal of learning each valuable skill necessary to pioneer the change that I wish to see in the world. I have a wide range of abilities stemming from my diverse work background, education, and additional academic interests ranging from neuroscience, programming, to the history of mankind and more. I hope to continually gain experience to grow myself professionally and offer the same to the organizations that I work with as I work towards a greater goal of personal development and global change.
 
 ## 1. SKILLS
@@ -34,7 +34,7 @@
 ## 3. GOALS
 1. Finishing several certifications between May and Summer of this year (2023) to prepare for =>
 2. Next educational Milestone: Certificate of Aerospace Engineering start January or May of 2024 (with ability to continue working throughout the program)🚀
-3. Educational => Career Goal: Licensed Aerospace Engineer🪐, PhD of Theoretical Physics/Metaphysical Philosophy📇, & Tenured Professor🧑‍🏫
+3. Educational => Career Goal: Licensed Aerospace Engineer/PhD in Experimental Mechianical Engineering fith a focus either in Rocket Science or Robotics/AI🪐,and a Tenured Professor of Theoretical Physics/Metaphysical Philosophy📇🧑‍🏫
 
 ## 4. WORK
 ### Positions open to
