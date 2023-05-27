@@ -22,7 +22,7 @@
 3. Stanford & DeepLearning.AI: Machine Learning Specialization Certificate, June 2023
 4. IBM Data Engineering Professional Certificate, August 2023
 5. University of Pennsylvania: Robotics Specialization - starting August 2023
-6. **Theoretical Physics & Metaphysical Philosophy: Einstien's General & Special Theory of Relativity - Dimensions/Astronomy, Gravity, Quantum Mechanics, Algrebra, Philoshophy, Natural Law etc, in progress indefinetely📑
+6. ** self studies: Theoretical Physics & Metaphysical Philosophy: Einstien's General & Special Theory of Relativity (Dimensions/Astronomy, Gravity, Geometry, Algrebra, Philoshophy, etc.), Kant (Metephysics of Morals), and Descartes (Metaphysics of Existence) - in progress indefinetely📑
 
 ### Individual Projects
 ![image](https://i.imgur.com/9qRZRqA.jpg)
