@@ -1,5 +1,5 @@
 <p align="center">
-# About Me: Trey Weathers 
+About Me: Trey Weathers 
 </p>
 
 ### The Ethical Mad Scientist🤓
