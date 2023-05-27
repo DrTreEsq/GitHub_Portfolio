@@ -1,4 +1,7 @@
+<p align="center">
 # About Me: Trey Weathers 
+</p>
+
 ### The Ethical Mad Scientist🤓
   ![image](https://i.postimg.cc/DZdN2Vky/sexy-urkey.webp)
 
