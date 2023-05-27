@@ -17,7 +17,7 @@
 2. Operations Management
 
 ## 2. EDUCATION
-1. B.S. in Healthcare & attended law school for one year before discovering passion for S.T.E.M.
+1. B.S. in Healthcare Management & attended law school for one year before being consumed by my passion for S.T.E.M.
 2. General Assembly: Full Stack Software Engineering, May 2023
 3. Stanford & DeepLearning.AI: Machine Learning Specialization Certificate, June 2023
 4. IBM Data Engineering Professional Certificate, August 2023
