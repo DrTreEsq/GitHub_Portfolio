@@ -1,6 +1,6 @@
 # About Me: Trey Weathers 
 ### The Ethical Mad Scientist🤓
-  ![image](https://i.imgur.com/MLKKooE.jpg)
+  ![image](https://i.postimg.cc/DZdN2Vky/sexy-urkey.webp)
 
 ### Multidisciplinary Engineer | Software Engineering Certificate | Stanford Machine Learning Specialization & IBM Data Engineering Professional Certification in progress🧑‍💻| Robotics/Mechanical Engineering revving for Graduate Aerospace Engineering Certification |
 ###### Welcome, Earthling! My name is Trey and I am an educator and forever student with a goal of learning each valuable skill necessary to pioneer the change that I wish to see in the world. I have a wide range of abilities stemming from my diverse work background, education, and additional academic interests ranging from neuroscience, programming, to the history of mankind and more. I hope to continually gain experience to grow myself professionally and offer the same to the organizations that I work with as I work towards a greater goal of personal development and global change.
