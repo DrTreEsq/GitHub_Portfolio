@@ -27,6 +27,7 @@
 ### Individual Projects
 ![image](https://i.imgur.com/9qRZRqA.jpg)
 ![image](https://i.imgur.com/QDDD5Vu.jpg)
+###### these are screenshots from my Full Stack Capstone. Code samples can be found in the directories above. I will soon upload a video demo.
 1. Full-Stack Capstone
 2. Stanford Machine Learning Specialization Capstone
 3. IBM Data Engineering Capstone
