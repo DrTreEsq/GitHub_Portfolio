@@ -35,7 +35,7 @@
 ## 3. GOALS
 1. Finishing several certifications between May and Summer of this year (2023) to prepare for =>
 2. Next educational Milestone: Certificate of Aerospace Engineering start January or May of 2024 (with ability to continue working throughout the program)🚀
-3. Educational => Career Goal: Licensed Aerospace Engineer/PhD in Experimental Mechianical Engineering fith a focus either in Rocket Science or Robotics/AI🪐,and a Tenured Professor of Theoretical Physics/Metaphysical Philosophy📇🧑‍🏫
+3. Educational => Career Goal: Licensed Aerospace Engineer/PhD in Mechanical Engineering and Applied Mechanics with a focus either in Rocket Science or the intersectionality of Robotics and AI🪐,and a Tenured Professor of Theoretical Physics and Metaphysical Philosophy📇🧑‍🏫
 
 ## 4. WORK
 ### Positions open to
