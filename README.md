@@ -6,7 +6,8 @@ About Me: Trey Weathers
 The Ethical Mad Scientist🤓
 </h2>
 
-<img url="https://i.postimg.cc/FRWr6HHD/funny-urkey.webp"> </img>
+<img src="https://i.postimg.cc/FRWr6HHD/funny-urkey.webp"> 
+</img>
   ![image](https://i.postimg.cc/FRWr6HHD/funny-urkey.webp)
 
 ### Multidisciplinary Engineer | Software Engineering Certificate | Stanford Machine Learning Specialization & IBM Data Engineering Professional Certification in progress🧑‍💻| Robotics/Mechanical Engineering revving for Graduate Aerospace Engineering Certification |
