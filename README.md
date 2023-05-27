@@ -1,9 +1,8 @@
 # About Me: Trey Weathers 
 ### aka The Ethical Mad Scientist🤓
   ![image](https://i.imgur.com/MLKKooE.jpg)
-  ![image](funny_urkey.webp)
 
-### Multidisc. Engineer | Software Certificate | Stanford Machine Learning Specialization & IBM Data Eng. Professional Certification in prog.🧑‍💻| Mech. Eng. revving for Grad Aerospace Eng. Cert🛰️|
+### Multidisciplinary Engineer | Software Engineering Certificate | Stanford Machine Learning Specialization & IBM Data Engineering Professional Certification in progress🧑‍💻| Robotics/Mechanical Eng. revving for Graduate Aerospace Eng. Certification |
 ###### Welcome, Earthling! My name is Trey and I am an educator and forever student with a goal of learning each valuable skill necessary to pioneer the change that I wish to see in the world. I have a wide range of abilities stemming from my diverse work background, education, and additional academic interests ranging from neuroscience, programming, to the history of mankind and more. I hope to continually gain experience to grow myself professionally and offer the same to the organizations that I work with as I work towards a greater goal of personal development and global change.
 
 ## 1. SKILLS
@@ -21,7 +20,7 @@
 1. B.S. in Healthcare & attended law school for one year before discovering passion for S.T.E.M.
 2. General Assembly: Full Stack Software Engineering, May 2023
 3. Stanford & DeepLearning.AI: Machine Learning Specialization Certificate, June 2023
-4. IBM Data Engineering Professional Certificate, July 2023
+4. IBM Data Engineering Professional Certificate, August 2023
 5. University of Pennsylvania: Robotics Specialization - starting August 2023
 6. **Theoretical Physics & Metaphysical Philosophy: Einstien's General & Special Theory of Relativity - Dimensions/Astronomy, Gravity, Quantum Mechanics, Algrebra, Philoshophy, Natural Law etc, in progress indefinetely📑
 
@@ -45,11 +44,12 @@
 
 ### Fields of Work open to
 1. Research Science
-2. Applications
+2. Web Applications
 3. Business Consulting
-4. Other: HR, Law, edu
+4. Other: HR, Law, education
 
 ### Previous Fields of Work & Education
 1. Human Resources/Talent Aqcuisition
 2. Team Operations & Data Management
 3. Education
+4. Law & policy
