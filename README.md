@@ -68,12 +68,7 @@ Multidisciplinary Engineer | Software Engineering Certificate | Stanford Machine
 ### Fields of Work
 1. AI Research for Medicine -  B.S. Healthcare Management, Machine Learning Specialization
 2. Web Applications - Certificate, Full-Stack Software Engineering, Machine Learning Specialization, Data Engineering Certificate - in progress📈
-4. Financial Consulting - Machine Learning Specialization
-5. Operations/Administrative Managemet - HR & other experience
-6. Education - currently a Guest Teacher for Kokua Education
-
-### Previous Fields of Work & Education
-1. Human Resources/Talent Aqcuisition
-2. Team Operations & Data Management
-3. Education
-4. Law & policy
+3. Financial Consulting - Machine Learning Specialization
+4. Operations/Administrative/Data Management - Human Resources/Talent Aqcuisition, Team Operations, Machine Learning Specialization & other experience
+5. Education - currently a Guest Teacher for Kokua Education with previous volunteer work
+6. Law & policy - a year at Fordham Law, experience working for a City Official, administrative policy work, etc.
