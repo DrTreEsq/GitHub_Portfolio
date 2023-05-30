@@ -60,16 +60,17 @@ Multidisciplinary Engineer | Software Engineering Certificate | Stanford Machine
 4. WORK
 </h3>
 
-### Positions open to
-1. Fields of Engineering: Multidisciplinary Software
+### Positions
+1. Fields of Engineering: Multidisciplinary Software looking to gain more Mechanical Knowledge soon
 2. Roles: App Dev, AI engineer, Data Analyst/Scientist/Engineer, Researcher, and more.
-3. Responsibilities: Data analysis, neural network architecture, software engineering
+3. Responsibilities: Data analysis, research, algorithm writing/training/fine tuning, software engineering, troubleshooting/debugging/error tracking, teamwork
 
-### Fields of Work open to
-1. Research Science
-2. Web Applications
-3. Business Consulting
-4. Other: HR, Law, education
+### Fields of Work
+1. AI Research for Medicine -  B.S. Healthcare Management, Machine Learning Specialization
+2. Web Applications - Certificate, Full-Stack Software Engineering, Machine Learning Specialization, Data Engineering Certificate - in progress📈
+4. Financial Consulting - Machine Learning Specialization
+5. Operations/Administrative Managemet - HR & other experience
+6. Education - currently a Guest Teacher for Kokua Education
 
 ### Previous Fields of Work & Education
 1. Human Resources/Talent Aqcuisition
