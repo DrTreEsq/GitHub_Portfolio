@@ -63,7 +63,7 @@ Multidisciplinary Engineer | Software Engineering Certificate | Stanford Machine
 ### Positions
 1. Fields of Engineering: Multidisciplinary Software looking to gain more Mechanical Knowledge soon
 2. Roles: App Dev, AI engineer, Data Analyst/Scientist/Engineer, Researcher, and more.
-3. Responsibilities: Data analysis, research, algorithm writing/training/fine tuning, software engineering, troubleshooting/debugging/error tracking, teamwork
+3. Responsibilities: Data analysis, research, algorithm writing/training/fine tuning, software engineering, troubleshooting/debugging/error tracking, teamwork, management
 
 ### Fields of Work
 1. AI Research for Medicine -  B.S. Healthcare Management, Machine Learning Specialization
