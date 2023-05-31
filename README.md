@@ -26,8 +26,8 @@ Multidisciplinary Engineer | Software Engineering Certificate | Stanford Machine
 4. Big Data tools: becoming familiar with LangChain, Spark, and more. 
 
 ### Administrative Skills:
-1. Error Tracking - team and individual ![image](https://i.imgur.com/ZMeXgZ0.jpg)
-2. Project Planning/Management ![image](https://i.postimg.cc/MT60zM76/Image-5-31-23-at-3-37-PM.jpg) ![image](https://i.postimg.cc/YCyVT7Yy/Image-5-31-23-at-3-37-PM-1.jpg) ![image](https://i.postimg.cc/MGVDtJDB/Image-5-31-23-at-3-38-PM.jpg)
+1. Error Tracking - team and individual ![image](https://i.imgur.com/ZMeXgZ0.jpg) ![image](https://i.postimg.cc/MGVDtJDB/Image-5-31-23-at-3-38-PM.jpg)
+2. Project Planning/Management ![image](https://i.postimg.cc/MT60zM76/Image-5-31-23-at-3-37-PM.jpg) ![image](https://i.postimg.cc/YCyVT7Yy/Image-5-31-23-at-3-37-PM-1.jpg)
 4. Operations Management
 
 <h3 align="center">
