@@ -1,4 +1,4 @@
-# Sample Codes from My Projects in Progress!
+# Sample Codes
 ##### Welcome to the homepage(README) for this directory. Check out some example codes for apps and algorithms I completed for assignments and more while developing my skill set. Relevant linke are below!
 
 ### 1. App Development
