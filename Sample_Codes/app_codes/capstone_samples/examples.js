@@ -7,7 +7,6 @@
     console.log('hooray, the model is loaded🚀')
   }
   useEffect(()=>{loadModel()}, [])
-*/
 
 //setting the Parameters
   const answerQuestion = async() => {
