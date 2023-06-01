@@ -9,7 +9,10 @@ The Ethical Mad Scientist🤓
 <img src="https://i.postimg.cc/FRWr6HHD/funny-urkey.webp" align="center"> 
 </img>
 
-### Multidisciplinary Engineer | Software Engineering Certificate | Stanford Machine Learning Specialization & IBM Data Engineering Professional Certification in progress🧑‍💻| Robotics/Mechanical Engineering revving for Graduate Aerospace Engineering Certification |
+<h3 align="center">
+Multidisciplinary Engineer | Software Engineering Certificate | Stanford Machine Learning Specialization & IBM Data Engineering Professional Certification in progress🧑‍💻| Robotics/Mechanical Engineering revving for Graduate Aerospace Engineering Certification |
+</h3>
+
 ###### Welcome, Earthling! My name is Trey and I am an educator and forever student with a goal of learning each valuable skill necessary to pioneer the change that I wish to see in the world. I have a wide range of abilities stemming from my diverse work background, education, and additional academic interests ranging from neuroscience, programming, to the history of mankind and more. I hope to continually gain experience to grow myself professionally and offer the same to the organizations that I work with as I work towards a greater goal of personal development and global change.
 
 <h3 align="center">
@@ -23,8 +26,15 @@ The Ethical Mad Scientist🤓
 4. Big Data tools: becoming familiar with LangChain, Spark, and more. 
 
 ### Administrative Skills:
-1. Error Tracking - team and individual ![image](https://i.imgur.com/ZMeXgZ0.jpg)
-2. Operations Management
+1. Error Tracking/Troubleshooting/Debugging - team and individual
+###### the images below are snapshots of the error tracking I did for my Capstone as well as some machine learning assignments
+![image](https://i.imgur.com/ZMeXgZ0.jpg)
+![image](https://i.postimg.cc/N0Kqp4CT/Image-5-31-23-at-3-38-PM.jpg)
+2. Project Planning/Management
+###### the images below are snapshots of the project planning I did for a rather extensive learning algorithm assignment
+![image](https://i.postimg.cc/hjxFqGBt/Image-5-31-23-at-3-37-PM.jpg)
+![image](https://i.postimg.cc/CKrkkjzz/Image-5-31-23-at-3-37-PM-1.jpg)
+3. Operations Management
 
 <h3 align="center">
 2. EDUCATION
@@ -57,19 +67,15 @@ The Ethical Mad Scientist🤓
 4. WORK
 </h3>
 
-### Positions open to
-1. Fields of Engineering: Multidisciplinary Software
+### Positions
+1. Fields of Engineering: Multidisciplinary Software looking to gain more Mechanical Knowledge soon
 2. Roles: App Dev, AI engineer, Data Analyst/Scientist/Engineer, Researcher, and more.
-3. Responsibilities: Data analysis, neural network architecture, software engineering
+3. Responsibilities: Data analysis, research, algorithm writing/training/fine tuning, software engineering, troubleshooting/debugging/error tracking, teamwork, management
 
-### Fields of Work open to
-1. Research Science
-2. Web Applications
-3. Business Consulting
-4. Other: HR, Law, education
-
-### Previous Fields of Work & Education
-1. Human Resources/Talent Aqcuisition
-2. Team Operations & Data Management
-3. Education
-4. Law & policy
+### Fields of Work
+1. AI Research for Medicine -  B.S. Healthcare Management, Machine Learning Specialization
+2. Web Applications - Certificate, Full-Stack Software Engineering, Machine Learning Specialization, Data Engineering Certificate - in progress📈
+3. Operations/Administrative/Data Management - Human Resources/Talent Aqcuisition, Team Operations, Machine Learning Specialization & other experience
+4. Financial Consulting - Machine Learning Specialization
+5. Education - currently a Guest Teacher for Kokua Education with previous volunteer work
+6. Law & policy - a year at Fordham Law, experience working for a City Official, administrative policy work, etc.
