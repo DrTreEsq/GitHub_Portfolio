@@ -1,4 +1,6 @@
-/* loading the model
+//this is example code from the file loading the Bert Model
+
+//loading the model
   const loadModel = async () => {
     const loadedModel = await qna.load()
     setModel(loadedModel);
@@ -7,7 +9,7 @@
   useEffect(()=>{loadModel()}, [])
 */
 
-/* setting the Parameters
+//setting the Parameters
   const answerQuestion = async() => {
     if(model !==null) {
       const passage = passageRef.current.value
@@ -22,5 +24,4 @@
       console.log(answers)
     }
   }
-*/
   
