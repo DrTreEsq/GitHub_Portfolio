@@ -27,10 +27,10 @@ Multidisciplinary Engineer | Software Engineering Certificate | Stanford Machine
 
 ### Administrative Skills:
 1. Error Tracking/Troubleshooting/Debugging - team and individual
-###### the images below are snapshots of the error tracking I did for my Capstone at General Assembly
+###### the images below are snapshots of the error tracking I did for my Capstone as well as some machine learning assignments
 ![image](https://i.imgur.com/ZMeXgZ0.jpg)
 ![image](https://i.postimg.cc/N0Kqp4CT/Image-5-31-23-at-3-38-PM.jpg)
-###### the images below are snapshots of the project planning I did for a learning algorithm assignment at Stanford online
+###### the images below are snapshots of the project planning I did for a rather extensive learning algorithm assignment
 2. Project Planning/Management
 ![image](https://i.postimg.cc/hjxFqGBt/Image-5-31-23-at-3-37-PM.jpg)
 ![image](https://i.postimg.cc/CKrkkjzz/Image-5-31-23-at-3-37-PM-1.jpg)
