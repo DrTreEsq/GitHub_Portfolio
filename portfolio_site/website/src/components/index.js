@@ -1,6 +1,7 @@
 import Nav from "./nav.js";
 import Navs from "./nav_2.js";
 import Navd from "./nav_3.js";
+import Nave from "./nav_4.js";
 import Home from "./home.js";
 import Aboutme from "./about_me.js";
 import Algorithms from "./algorithms.js";
@@ -11,6 +12,7 @@ import Data from  "./data.js"
 import Education from "./education.js"
 import Skills from "./skills.js"
 import Services from "./services.js"
+import Tutorials from "./tutorials.js";
 
 export {
   Home,
@@ -23,7 +25,9 @@ export {
   Education,
   Skills,
   Services,
+  Tutorials,
   Nav,
   Navs,
   Navd,
+  Nave,
 }
