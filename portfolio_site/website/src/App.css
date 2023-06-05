@@ -1,6 +1,8 @@
 
 .link {
   color: white;
+  font-size: 15px;
+  font-weight: bolder;
 }
 
 .App {
@@ -9,10 +11,10 @@
   flex-direction: column;
   margin: 15px; 
   padding: 15px;
-  color: white;
+  color: black;
   text-align: center;
   justify-content: center;
-  background: linear-gradient(rgb(101, 1, 1), rgb(255, 174, 0), rgb(78, 4, 70));
+  background: linear-gradient(rgb(204, 153, 1), rgb(255, 174, 0), rgb(78, 4, 70));
   min-height: 550px;
   font-family: 'Playfair Display', serif;
 }
@@ -43,4 +45,9 @@
   border-style: groove;
   border-color: rgb(207, 130, 13);
   border-width: 10px;
+}
+
+.msglink {
+  color: black;
+  font-size: 30px;
 }
