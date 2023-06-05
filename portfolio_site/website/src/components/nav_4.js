@@ -8,15 +8,15 @@ export default function Nave({Hardware, Production, Neural}) {
         <ul>
 
         <li>
-          <Link className="link" to={Hardware}> Making Your Machine Ready To Learn </Link>
+          <Link className="link2" to={Hardware}> Making Your Machine Ready To Learn </Link>
           </li>
 
           <li>
-          <Link className="link" to={Production}> AI | Machine Learning for Web Apps </Link>
+          <Link className="link2" to={Production}> AI | Machine Learning for Web Apps </Link>
           </li>
 
           <li>
-          <Link className="link" to={Neural}> Neural Networks in TensorFlow </Link>
+          <Link className="link2" to={Neural}> Neural Networks in TensorFlow </Link>
           </li>
 
           </ul>

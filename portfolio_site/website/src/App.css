@@ -2,7 +2,7 @@
   list-style-type: none;
 }
 .link {
-  color: rgb(224, 216, 216);
+  color: rgb(255, 255, 255);
   font-size: 25px;
   font-weight: bolder;
   background-color: none;
@@ -10,7 +10,7 @@
 }
 .link2 {
   color: white;
-  font-size: 15px;
+  font-size: 20px;
 }
 .link2:hover {
   cursor: pointer;
@@ -80,4 +80,8 @@
   color: black;
   font-weight: bold;
   text-decoration: none;
+}
+
+.title {
+  font-family: 'Dancing Script', cursive;
 }
