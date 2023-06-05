@@ -1,11 +1,11 @@
 import { Link } from "react-router-dom";
 
-export default function Navs({Educationpres, Educationpast}) {
+export default function Navs({Education, Skills}) {
   return (
     <div>
-      <nav className="nav-container">
-          <Link to={Educationpres}> Current Education </Link>
-          <Link to={Educationpast}> Previous Education </Link>
+      <nav className="aboutmenav">
+          <Link className="link" to={Education}> EDUCATION </Link>
+          <Link className="link" to={Skills}> SKILLS </Link>
       </nav>
     </div>
   );
