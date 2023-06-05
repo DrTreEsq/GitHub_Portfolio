@@ -52,18 +52,21 @@ General Assembly Software Engineering Certificate | Stanford Machine Learning Sp
 3. Stanford & DeepLearning.AI: Machine Learning Specialization Certificate, June 2023
 4. IBM Data Engineering Professional Certificate, August 2023
 
-### Individual Projects
-![image](https://i.imgur.com/9qRZRqA.jpg)
-![image](https://i.imgur.com/QDDD5Vu.jpg)
-
-###### these are screenshots from my Full Stack Capstone. Code samples can be found in the directories above. I will soon upload a video demo.
+<h3 align="center">
+3. PROJECTS
+</h3>
 
 1. Full-Stack Capstone - deploying and adding more functionality!
+![image](https://i.imgur.com/9qRZRqA.jpg)
+![image](https://i.imgur.com/QDDD5Vu.jpg)
+###### these are screenshots from my Full Stack Capstone. Code samples can be found in the directories above. I will soon upload a video demo.
+
 2. Stanford Machine Learning Specialization Neural Networks - in progress!
-###### soon: IBM Data Engineering Capstone
+
+###### soon: 3. IBM Data Engineering Capstone
 
 <h3 align="center">
-3. WORK
+4. WORK
 </h3>
 
 ### Positions
