@@ -2,13 +2,14 @@
 About Me: Trey Weathers
 </h1>
 <hr> </hr>
-<h3 align="center">
-Computer Scientist
-</h3>
 
 <h2 align="center">
 The Ethical Mad Scientist🤓
 </h2>
+
+<h3 align="center">
+Computer Scientist
+</h3>
 
 <img src="https://i.postimg.cc/FRWr6HHD/funny-urkey.webp" align="center"> 
 </img>
