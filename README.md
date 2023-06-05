@@ -58,9 +58,9 @@ General Assembly Software Engineering Certificate | Stanford Machine Learning Sp
 
 ###### these are screenshots from my Full Stack Capstone. Code samples can be found in the directories above. I will soon upload a video demo.
 
-1. Full-Stack Capstone
-2. Stanford Machine Learning Specialization Capstone
-3. IBM Data Engineering Capstone
+1. Full-Stack Capstone - deploying and adding more functionality!
+2. Stanford Machine Learning Specialization Neural Networks - in progress!
+###### soon: IBM Data Engineering Capstone
 
 <h3 align="center">
 3. WORK
