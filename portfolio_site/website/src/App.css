@@ -1,8 +1,30 @@
-
+.nav {
+  list-style-type: none;
+}
 .link {
+  color: rgb(224, 216, 216);
+  font-size: 25px;
+  font-weight: bolder;
+  background-color: none;
+  
+}
+.link2 {
   color: white;
   font-size: 15px;
-  font-weight: bolder;
+}
+.link2:hover {
+  cursor: pointer;
+  box-shadow: 0 0.4rem 2.4rem 0 rgb(24, 3, 82);
+  transform: translateY(-0.1rem);
+  transition: transform 150ms;   
+  background-color: rgb(62, 4, 62);
+}
+.link:hover{
+  cursor: pointer;
+  box-shadow: 0 0.4rem 2.4rem 0 rgb(24, 3, 82);
+  transform: translateY(-0.1rem);
+  transition: transform 150ms;   
+  background-color: rgb(62, 4, 62);
 }
 
 .App {
@@ -14,8 +36,8 @@
   color: black;
   text-align: center;
   justify-content: center;
-  background: linear-gradient(rgb(204, 153, 1), rgb(255, 174, 0), rgb(78, 4, 70));
-  min-height: 550px;
+  background: linear-gradient(rgb(243, 242, 240), rgb(235, 178, 5), rgb(0, 0, 0));
+  min-height: 600px;
   font-family: 'Playfair Display', serif;
 }
 
@@ -32,8 +54,8 @@
 
 .servicesnav{
   justify-content: center;
+  list-style: none;
 }
-
 .example {
   width: 600px;
   max-height: 450px;
@@ -49,5 +71,13 @@
 
 .msglink {
   color: black;
-  font-size: 30px;
+  font-size: 20px;
+  list-style-type: none;
+}
+
+.github {
+  font-size: 10px;
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
 }

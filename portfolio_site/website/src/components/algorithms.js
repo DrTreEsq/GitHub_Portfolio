@@ -1,10 +1,30 @@
 export default function Algorithms() {
     return (
         <div>
-          <h4>NOTE FOR DEVELOPERS/ENGINEERS: PLEASE REFER TO MY GITHUB PORTFOLIO FOR MORE CODE SAMPLES ETC.</h4>
-          <h5>snapshots of algorithms coming soon...</h5>
-          <h3>VISUALIZATIONS</h3>
+          <h2>1. M.A.C.T.</h2>
+          <h5>Market Analysis Regression Tool </h5>
+          <h4>Tools:</h4>
+          <ul>
+          <li>
+              Python
+            </li>
+            <li>
+              TensorFlow
+            </li>
+            <li>
+              TensorFlowBoard
+            </li>
+          </ul>
+          <h4>Results</h4>
+          <h4>Code Snapshots</h4>
+          <h4>Visualizations</h4>
           <h5>graphs from TensorFlowBoard coming soon...</h5>
+<hr></hr>
+          <h2>2. Neural Network MultiClass Classification Example (not multilabel)</h2>
+          <h4>Tools:</h4>
+          <h4>Results</h4>
+          <h4>Code Snapshots</h4>
+          <h4>Visualizations</h4>
           <img className="example" src="https://i.postimg.cc/Fznyb7wT/C2-W1-Vector-Matrix.png" align="center" alt="vector"></img>
           <img className="example" src="https://i.postimg.cc/L6nB93Zw/C2-W1-Roasting-Network.png" align="center" alt="roasting"></img>
           <img className="example" src="https://i.postimg.cc/hj2TgX4K/C2-W1-Roasting-Decision.png" align="center" alt="decision"></img>
