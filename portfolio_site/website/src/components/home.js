@@ -1,11 +1,9 @@
-import  Nav  from "./nav.js";
-
 export default function Home() {
   return (
       <div>
-
-        <Nav Home="/" Aboutme="/aboutme"  Services="/services" Contact="/contact"/>
-        
+        <h4> Welcome to the Website Portfolio for Computer Scientist, </h4>
+        <h3> Trey Weathers</h3>
+        <img className="meimg" src="https://i.postimg.cc/XJbFHGfQ/IMG-0937-5.jpg" alt="that's me right there!"></img>
       </div>
     )
   }

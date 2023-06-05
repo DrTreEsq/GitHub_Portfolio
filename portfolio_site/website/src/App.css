@@ -8,12 +8,13 @@
   display: flex;
   flex-direction: column;
   margin: 15px; 
-  padding: 5px;
+  padding: 15px;
   color: white;
   text-align: center;
   justify-content: center;
-  background: linear-gradient(rgb(195, 137, 2), rgb(58, 1, 1));
-  min-height: 450px;
+  background: linear-gradient(rgb(101, 1, 1), rgb(255, 174, 0), rgb(78, 4, 70));
+  min-height: 550px;
+  font-family: 'Playfair Display', serif;
 }
 
 .aboutmenav {
@@ -28,11 +29,18 @@
 }
 
 .servicesnav{
-  border-style: thin;
-  border-color: rgb(88, 21, 88)
+  justify-content: center;
 }
 
 .example {
-  width: 800px;
-  max-height: 600px;
+  width: 600px;
+  max-height: 450px;
+}
+
+.meimg {
+  width: 600px;
+  height: 450px;
+  border-style: groove;
+  border-color: rgb(207, 130, 13);
+  border-width: 10px;
 }

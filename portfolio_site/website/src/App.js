@@ -6,9 +6,9 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <Nav Home="/ /home" Aboutme="/aboutme" Algorithms="/algorithms" Codes="/codes" Consulting="/consulting" Contact="/contact" Data="/data" Education="/education" Skills="/skills" Services="/services"/>
+      <Nav Home="/" Aboutme="/aboutme" Algorithms="/algorithms" Codes="/codes" Consulting="/consulting" Contact="/contact" Data="/data" Education="/education" Skills="/skills" Services="/services"/>
       <Routes>
-        <Route path="/ home" element={<Home />}/>
+        <Route path="/" element={<Home />}/>
         <Route path="/aboutme" element={<Aboutme />}/>
         <Route path="/algorithms" element={<Algorithms />}/> 
         <Route path="/codes" element={<Codes />}/>
