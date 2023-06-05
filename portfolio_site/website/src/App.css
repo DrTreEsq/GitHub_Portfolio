@@ -1,8 +1,4 @@
 
-body {
-  background: linear-gradient(rgb(195, 137, 2), rgb(58, 1, 1));
-}
-
 .link {
   color: white;
 }
@@ -16,6 +12,8 @@ body {
   color: white;
   text-align: center;
   justify-content: center;
+  background: linear-gradient(rgb(195, 137, 2), rgb(58, 1, 1));
+  min-height: 450px;
 }
 
 .aboutmenav {
