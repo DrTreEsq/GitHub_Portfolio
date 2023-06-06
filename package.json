@@ -1,8 +1,7 @@
 {
   "name": "github_portfolio",
   "version": "1.0.0",
-  "description": "<h1 align=\"center\"> About Me: Trey Weathers </h1> <hr> </hr>",
-  "main": "index.js",
+  "main": "portfolio_site/website/index.js",
   "scripts": {
     "ng": "ng",
     "start": "node server.js",
