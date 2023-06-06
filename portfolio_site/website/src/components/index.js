@@ -16,7 +16,7 @@ import Tutorials from "./tutorials.js";
 import Projects from "./projects.js";
 import YoutubeEmbed from "./hardware.js";
 import YoutubeEmbed2 from "./neural_networks.js";
-import YoutubeEmbed3 from "./ai_production.js";
+import YoutubeEmbed3 from "./production.js";
 
 export {
   Home,
