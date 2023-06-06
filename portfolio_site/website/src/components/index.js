@@ -14,7 +14,9 @@ import Skills from "./skills.js"
 import Services from "./services.js"
 import Tutorials from "./tutorials.js";
 import Projects from "./projects.js";
-import Hardware from "./hardware.js";
+import YoutubeEmbed from "./hardware.js";
+import YoutubeEmbed2 from "./neural_networks.js";
+import YoutubeEmbed3 from "./ai_production.js";
 
 export {
   Home,
@@ -29,7 +31,9 @@ export {
   Services,
   Tutorials,
   Projects,
-  Hardware,
+  YoutubeEmbed,
+  YoutubeEmbed2,
+  YoutubeEmbed3,
   Nav,
   Navs,
   Navd,
