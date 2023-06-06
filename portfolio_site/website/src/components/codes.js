@@ -1,6 +1,6 @@
 export default function Codes() {
   return (
-    <div className="services">
+    <div className="">
         <h5>snapshots of code samples coming soon...</h5>
 
         <h1 className="black"> The Virtual Detention </h1>

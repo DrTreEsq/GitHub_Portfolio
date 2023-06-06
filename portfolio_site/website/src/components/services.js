@@ -1,9 +1,8 @@
 import  Navd  from "./nav_3.js";
-import './services.css';
 
 export default function Services() {
   return (
-      <div className="services">
+      <div className="">
         
         <h2> Services </h2>
         <h5> click for code samples, results, summaries, visuals, and more </h5>
