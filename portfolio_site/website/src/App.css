@@ -1,5 +1,5 @@
 h1, h2, h3, h4, h5, h6, p {
-  padding: 10px;
+  padding: 0px;
 }
 .App {
   text-align: center;
@@ -101,7 +101,7 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 .github {
-  font-size: 20px;
+  font-size: 15px;
   color: white;
   font-weight: bold;
   text-decoration: none;
@@ -128,7 +128,7 @@ h1, h2, h3, h4, h5, h6, p {
   border-style: solid;
   border-color: rgb(203, 186, 4);
   padding: 5px;
-  margin: 5px;
+  margin-bottom: 5px;
 }
 .hr {
   padding: 5px;
@@ -138,4 +138,13 @@ h1, h2, h3, h4, h5, h6, p {
 .services{
   background-image: url("https://i.postimg.cc/yNQRTLLy/embdded-dl-blog.jpg");
   padding: 15px;
+}
+
+.hrhr {
+  padding: 15px;
+}
+
+.blue {
+  color: rgb(0, 195, 255);
+  text-decoration: underline;
 }
