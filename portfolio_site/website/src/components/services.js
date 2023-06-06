@@ -4,6 +4,7 @@ import './services.css';
 export default function Services() {
   return (
       <div className="services">
+        
         <h2> Services </h2>
         <h5> click for code samples, results, summaries, visuals, and more </h5>
         <Navd Algorithms="/algorithms"  Codes="/codes" Consulting="/consulting" Data="/data"/>
