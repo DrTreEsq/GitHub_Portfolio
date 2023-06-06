@@ -14,9 +14,9 @@ export default function Skills() {
 <hr className="hrhr"></hr>
 
           <h2> Administrative | Consulting | Management</h2>
-          <h4> Project planning and scope management </h4>
-          <h4> Troubleshooting and Debugging </h4>
-          <h4> Research </h4>
+          <h4> Project planning and scope management: Microsoft Suite & Google Suite </h4>
+          <h4> Troubleshooting and Debugging: GitHub, online planners and ^^ </h4>
+          <h4> Research: experience navigating various types of databases </h4>
           
         </div>
 

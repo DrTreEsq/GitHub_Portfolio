@@ -3,7 +3,8 @@ export default function Algorithms() {
       <div className="services">
 
         <h2>Types of Learning Algorithms</h2>
-<div className="black">
+
+        <div className="black">
         <h4>A. Linear Regression | Machine Learning </h4>
         <p></p>
 
@@ -23,8 +24,8 @@ export default function Algorithms() {
         <hr></hr>
 
         <h2> Example 1: Linear Regression Example - Market Analysis for Profit Prediction </h2>
+        
         <div className="example1 black">
-
           <h3>Problem Summary:  </h3>
           <p>A CEO of a restaurant franchise is considering different cities for opening a new outlet. How can we Use the data to help you identify which cities may potentially give your business higher profits?</p>
           <p>*You would like to expand your business to cities that may give your restaurant higher profits.</p> 
@@ -34,13 +35,12 @@ export default function Algorithms() {
     
           <h4>Tools: Numpy, matplotlib</h4>
           <h4>Results</h4>
+          <img className="example" src="https://i.postimg.cc/prYDswm0/Image-6-6-23-at-12-52-PM.jpg" align="center" alt="X"></img>
           </div>
-          <h4>Visualizations</h4>
-
+      
           <h2>Example 2: Logistic Regression with Gradient Descent - Probability of Admission </h2>
+
           <div className="example2 black">
-
-
           <h3>Problem Summary: </h3>
             <p>An administrator of a university department wants to determine each applicant’s chance of admission based on their results on two exams.
             By building a classification model that estimates an applicant’s probability of admission based on the scores from those two exams. </p>
@@ -50,13 +50,13 @@ export default function Algorithms() {
 
           <h3>Tools: Numpy, matplotlib</h3>
           <h3>Results</h3>
+          <img className="example" src="https://i.postimg.cc/3rgCrvtg/Image-6-6-23-at-12-55-PM.jpg" align="center" alt="X"></img>
+          <img className="example" src="https://i.postimg.cc/5NgBLMdy/Image-6-6-23-at-12-56-PM.jpg" align="center" alt="X"></img>
 
           </div>
-          <h3>Visualizations</h3>
 
           <h2> Example 3: Neural Network MultiClass Classification Example - Handwritten Digit Recognition </h2>
           <div className="example2 black">
-
 
           <h3>Problem Summary:  </h3>
           <p> Used a neural network to recognize ten handwritten digits, 0-9. This is a multiclass classification task where one of n choices is selected.
@@ -78,5 +78,6 @@ export default function Algorithms() {
           
           <hr></hr>
         </div>
+        
       )
     }

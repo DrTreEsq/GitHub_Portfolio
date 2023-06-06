@@ -8,23 +8,26 @@ export default function Education() {
           <h4> ✡ Stanford & DeepLearning.AI: Machine Learning Specialization Certificate, June 2023</h4>
           <h4> ✡ IBM Data Engineering Professional Certificate, August 2023</h4>
 
-<hr className="hrh"></hr>
+          <hr className="hrh"></hr>
 
-          <h3 className="blue"> Fields of Work with Relevant Education/Experience</h3>
+          <h3 className="blue">Positions open to</h3>
+            <h5>✰ Fields of Computer Science: Machine Learning, Data Science, Web Development</h5>
+            <h5>✰ Roles: Prompt Engineer, AI engineer, Machine Learning Engineer, Data Analyst/Scientist/Engineer, Researcher, and more.</h5>
+            <h5>✰ Responsibilities: Data analysis, research, algorithm writing/training/fine tuning, software engineering, troubleshooting/debugging/error tracking, teamwork, management, consulting, and more.</h5>
+
+
+          <hr className="hrh"></hr>
+
+          <h3 className="blue"> Fields of Work open to with Relevant Education/Experience</h3>
             <h5> ☪ AI Research for Medicine - B.S. Healthcare Management, Machine Learning Specialization</h5>
             <h5> ☪ Web Applications - Certificate, Full-Stack Software Engineering, Machine Learning Specialization, Data Engineering Certificate - in progress📈</h5>
             <h5> ☪ Operations/Administrative/Data Management - Human Resources/Talent Aqcuisition, Team Operations, Machine Learning Specialization & other experience</h5>
-            <h5> ☪ Financial Consulting - Machine Learning Specialization</h5>
             <h5> ☪ Education - currently a Guest Teacher for Kokua Education with previous volunteer work</h5>
             <h5> ☪ Law & policy - a year at Fordham Law, experience working for a City Official, administrative policy work, etc.</h5>
 
-<hr className="hrh"></hr>
+          <hr className="hrh"></hr>
 
-          <h3 className="blue">Positions Open for with Relevant Education/Experience</h3>
-            <h5>✰ Fields of Computer Science: Machine Learning, Data Science, Web Development</h5>
-            <h5>✰ Roles: App Dev, AI engineer, Data Analyst/Scientist/Engineer, Researcher, and more.</h5>
-            <h5>✰ Responsibilities: Data analysis, research, algorithm writing/training/fine tuning, software engineering, troubleshooting/debugging/error tracking, teamwork, management</h5>
-
+    
         </div>
       )
     }
