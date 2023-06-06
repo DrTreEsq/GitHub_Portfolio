@@ -5,7 +5,7 @@ export default function Codes() {
 <hr></hr>
         <a className="github" href="https://github.com/TREYCSE/Virtual_Detention_TensorFlowcpu"> GitHub Link - click here to go to developer repo for this project! </a>
         <h2 className=""> Example 1: This Front End Website! </h2>
-        <p className="black">If it was not already assumed, I wrote the code for this website entirely myself</p>
+        <p className="black">If it was not already assumed, I wrote the code for this website entirely myself, using specically a React.js frontend framework</p>
 
         <h2 className=""> Example 2: Full Stack Capstone The Virtual Detention with Virtual Tutor | User Experience | Intent</h2>
 
