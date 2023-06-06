@@ -1,27 +1,29 @@
 export default function Algorithms() {
     return (
       <div className="services">
-          <h1>Machine Learning Algorithms</h1>
-          <h6>coming soon...</h6>
 
-          <h1>Deep Learning Neural Networks</h1>
-          <h2>1. M.A.C.T.</h2>
-          <h5>Market Analysis Regression Tool </h5>
-          <h4>Tools:</h4>
+        <h2>Types of Learning Algorithms</h2>
+<div className="black">
+        <h4>A. Linear Regression | Machine Learning </h4>
+        <p></p>
 
-              Python |
+        <h4>B. Logistic Regression | Classification | Deep Learning</h4>
+        <h6>a). Binary Classification</h6>
+        <p></p>
+        <h6>b). Multiclass Classification</h6>
+        <p></p>
+        <h6>c). Multilabel Classification</h6>
+        <p></p>
 
-              TensorFlow |
+        <h5>C. Algorithms</h5>
 
-              TensorFlowBoard  |
-
-          <h4>Results</h4>
-          <h4>Code Snapshots</h4>
-          <h4>Visualizations</h4>
-          <h5>graphs from TensorFlowBoard coming soon...</h5>
+        <h6>a). Gradient Descent</h6>
+        <h6>b). A.D.A.M.</h6>
+        </div>
 <hr></hr>
-          <h2>2. Neural Network MultiClass Classification Example (not multilabel)</h2>
-          <h4>Tools:</h4>
+
+          <h2> Neural Network MultiClass Classification Example (not multilabel)</h2>
+          <h4>Tools: Python, TensorFlow, tensorflow.keras, matplotlib</h4>
           <h4>Results</h4>
           <h4>Code Snapshots</h4>
           <h4>Visualizations</h4>
@@ -33,6 +35,7 @@ export default function Algorithms() {
           <img className="example" src="https://i.postimg.cc/xTMGNTt3/C2-W1-L3-Lab01-3-Neurons.png" align="center" alt="neurons"></img>
           <img className="example" src="https://i.postimg.cc/fbL0CwjF/C2-W1-dense2.png" align="center" alt="dense"></img>
           <img className="example" src="https://i.postimg.cc/x1Fd0LMx/C2-W1-dense.png" align="center" alt="dense1"></img>
+<hr></hr>
         </div>
       )
     }

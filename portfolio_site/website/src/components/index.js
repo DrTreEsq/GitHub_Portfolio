@@ -13,7 +13,9 @@ import Education from "./education.js"
 import Skills from "./skills.js"
 import Services from "./services.js"
 import Tutorials from "./tutorials.js";
-import Projects from "./projects.js"
+import Projects from "./projects.js";
+import Hardware from "./hardware.js";
+
 export {
   Home,
   Aboutme,
@@ -27,6 +29,7 @@ export {
   Services,
   Tutorials,
   Projects,
+  Hardware,
   Nav,
   Navs,
   Navd,

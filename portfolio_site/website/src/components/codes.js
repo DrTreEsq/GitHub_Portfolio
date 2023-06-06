@@ -3,8 +3,6 @@ export default function Codes() {
     <div className="">
         <h5>snapshots of code samples coming soon...</h5>
 
-        <h1 className="black"> The Virtual Detention </h1>
-
         <a href="https://github.com/TREYCSE/Virtual_Detention_TensorFlowcpu"> GitHub Link </a>
         
         <h2 className="black">The Virtual Detention with Virtual Tutor | User Experience | Intent</h2>
@@ -16,9 +14,9 @@ export default function Codes() {
           students have free-reign over what they are learning - which means they can explore topics that maybe they weren't even being exposed to, or even study materials to help for when they go back to the regular classroom!
           </p>
 
-        <h3 className="black">ToolKit:</h3>
+        <h3>ToolKit:</h3>
 
-        <p>TensorFlow BERT Model from TensorFlowHub w/ Tensorflow cpu, WebGL, Node.js, React.js & Heroku to deploy
+        <p className="black">TensorFlow BERT Model from TensorFlowHub w/ Tensorflow cpu, WebGL, Node.js, React.js & Heroku to deploy
           TensorFlow models are BERT Q&A models for Natural Language Question Answering: Answer questions based off content of a given passage,
           serving as a virtual tutor in The Virtual Detention</p>
        
