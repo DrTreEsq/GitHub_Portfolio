@@ -5,21 +5,14 @@ export default function Nave({Hardware, Production, Neural}) {
     <div>
       
       <nav className="tutorialsnav">
-        <ul>
+    
 
-        <li>
           <Link className="link2" to={Hardware}> Making Your Machine Ready To Learn </Link>
-          </li>
-
-          <li>
+  
           <Link className="link2" to={Production}> AI | Machine Learning for Web Apps </Link>
-          </li>
 
-          <li>
           <Link className="link2" to={Neural}> Neural Networks in TensorFlow </Link>
-          </li>
-
-          </ul>
+   
 
       </nav>
     </div>

@@ -1,20 +1,20 @@
 export default function Algorithms() {
     return (
-        <div>
+      <div className="services">
+          <h1>Machine Learning Algorithms</h1>
+          <h6>coming soon...</h6>
+
+          <h1>Deep Learning Neural Networks</h1>
           <h2>1. M.A.C.T.</h2>
           <h5>Market Analysis Regression Tool </h5>
           <h4>Tools:</h4>
-          <ul>
-          <li>
-              Python
-            </li>
-            <li>
-              TensorFlow
-            </li>
-            <li>
-              TensorFlowBoard
-            </li>
-          </ul>
+
+              Python |
+
+              TensorFlow |
+
+              TensorFlowBoard  |
+
           <h4>Results</h4>
           <h4>Code Snapshots</h4>
           <h4>Visualizations</h4>

@@ -1,5 +1,8 @@
 .nav {
   list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  list-style: inside;
 }
 .link {
   color: rgb(255, 255, 255);
@@ -7,6 +10,9 @@
   font-weight: bolder;
   background-color: none;
   
+}
+.link {
+  list-style-type: none;
 }
 .link2 {
   color: white;
@@ -26,19 +32,21 @@
   transition: transform 150ms;   
   background-color: rgb(62, 4, 62);
 }
-
 .App {
   text-align: center;
   display: flex;
   flex-direction: column;
   margin: 15px; 
-  padding: 15px;
-  color: black;
+  padding: 5px;
+  color: white;
   text-align: center;
   justify-content: center;
-  background: linear-gradient(rgb(243, 242, 240), rgb(235, 178, 5), rgb(0, 0, 0));
-  min-height: 600px;
+  min-height: 900px;
   font-family: 'Playfair Display', serif;
+  list-style-type: none;
+  background-image: url("https://i.postimg.cc/j5yX1dHx/shutter-155295878-robot-future.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .aboutmenav {
@@ -56,6 +64,12 @@
   justify-content: center;
   list-style: none;
 }
+
+
+.tutorialsnav {
+  display: flex;
+  flex-direction: column;
+}
 .example {
   width: 600px;
   max-height: 450px;
@@ -65,23 +79,30 @@
   width: 600px;
   height: 450px;
   border-style: groove;
-  border-color: rgb(207, 130, 13);
-  border-width: 10px;
+  border-color: rgb(8, 23, 157);
+  border-width: 5px;
 }
 
 .msglink {
-  color: black;
+  color: rgb(225, 244, 9);
   font-size: 20px;
   list-style-type: none;
+  padding: 15px;
+  margin: 15px;
 }
 
 .github {
-  font-size: 10px;
-  color: black;
+  font-size: 15px;
+  color: white;
   font-weight: bold;
   text-decoration: none;
 }
 
 .title {
   font-family: 'Dancing Script', cursive;
+}
+
+.contact {
+  display: flex;
+  flex-direction: column;
 }
