@@ -4,28 +4,28 @@ export default function Navd({Algorithms, Codes, Consulting, Data}) {
   return (
     <div>
       <nav className="servicesnav">
-        
-          <Link className="link2" to={Algorithms}> Machine and Deep Learning Algorithms </Link>
+      <hr></hr>
+          <Link className="link2 black" to={Algorithms}> Machine and Deep Learning Algorithms </Link>
             <p>Neural Network Architecture</p>
             <p>Making inferences on other models</p>
-            <p>Model Training & Fine-Tuning | Testing </p>
+            <p>Model Training & Fine-Tuning | Testing & Diagnostics</p>
             <p>Model Use for Development </p>
           
 
-   
-          <Link className="link2" to={Codes}> Software Engineering </Link>
+   <hr></hr>
+          <Link className="link2 black" to={Codes}> Software Engineering </Link>
             <p>Front-End Development</p>
             <p>Backend Development </p>
      
 
-      
-          <Link className="link2" to={Consulting}> Project Consulting </Link>
+            <hr></hr>
+          <Link className="link2 black" to={Consulting}> Project Consulting </Link>
             <p>Project Scope Management</p>
             <p>Troubleshooting | Debugging </p>
         
+            <hr></hr>
 
-
-          <Link className="link2" to={Data}> Data Analysis coming soon... </Link>
+          <Link className="link2 black" to={Data}> Data Analysis coming soon... </Link>
     
       </nav>
     </div>

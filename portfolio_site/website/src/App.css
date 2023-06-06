@@ -36,8 +36,8 @@
   text-align: center;
   display: flex;
   flex-direction: column;
-  margin: 15px; 
-  padding: 5px;
+  margin: 5px 5px; 
+  padding: 15px;
   color: white;
   text-align: center;
   justify-content: center;
@@ -73,7 +73,15 @@
 .example {
   width: 600px;
   max-height: 450px;
+  border-style: solid;
+  border-color: rgb(5, 5, 80);
 }
+
+@keyframes example {
+  from {background-color: red;}
+  to {background-color: yellow;}
+}
+
 
 .meimg {
   width: 600px;
@@ -81,6 +89,10 @@
   border-style: groove;
   border-color: rgb(8, 23, 157);
   border-width: 5px;
+  transition: width 2s, height 4s;
+  background-color: red;
+  animation-name: example;
+  animation-duration: 4s;
 }
 
 .msglink {
@@ -105,4 +117,23 @@
 .contact {
   display: flex;
   flex-direction: column;
+}
+
+.black {
+  background-color: black;
+  border-style: solid;
+  border-color: white;
+  padding: 5px;
+  margin: 5px;
+}
+
+.white {
+  border-style: solid;
+  border-color: rgb(203, 186, 4);
+  padding: 5px;
+  margin: 5px;
+}
+.hr {
+  padding: 5px;
+  margin: 15px;
 }
