@@ -29,7 +29,7 @@ Machine Learning Certificate | Software Engineering Certificate | Pursuing Gradu
 ### Tools & Technologies:
 ###### My Go-tos: TensorFlow, Numpy, Node.js, React.js, MongoDB, Express, etc.
 1. Programming: Python, Javascript, React, Node, MongoDB, Django
-2. Data Science & Machine Learning | AI: NumPy, TensorFlow, SQL
+2. Data Science & Machine Learning | AI: NumPy, TensorFlow, etc.
 4. Big Data tools: becoming familiar with LangChain, Spark, and more. 
 
 ### Administrative Skills:
