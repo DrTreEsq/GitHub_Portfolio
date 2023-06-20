@@ -8,12 +8,10 @@ import Algorithms from "./algorithms.js";
 import Codes from "./codes.js";
 import Consulting from "./consulting.js"
 import Contact from "./contact.js"
-import Data from  "./data.js"
 import Education from "./education.js"
 import Skills from "./skills.js"
 import Services from "./services.js"
 import Tutorials from "./tutorials.js";
-import Projects from "./projects.js";
 import YoutubeEmbed from "./hardware.js";
 import YoutubeEmbed2 from "./neural_networks.js";
 import YoutubeEmbed3 from "./production.js";
@@ -25,12 +23,10 @@ export {
   Codes,
   Consulting,
   Contact,
-  Data,
   Education,
   Skills,
   Services,
   Tutorials,
-  Projects,
   YoutubeEmbed,
   YoutubeEmbed2,
   YoutubeEmbed3,

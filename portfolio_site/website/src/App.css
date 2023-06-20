@@ -36,7 +36,7 @@ h1, h2, h3, h4, h5, h6, p {
 }
 .link2 {
   color: rgb(248, 221, 15);
-  font-size: 20px;
+  font-size: 25px;
 }
 .link2:hover {
   cursor: pointer;
@@ -93,7 +93,7 @@ h1, h2, h3, h4, h5, h6, p {
 }
 .msglink {
   color: rgb(225, 244, 9);
-  font-size: 20px;
+  font-size: 50px;
   list-style-type: none;
   padding: 15px;
   margin: 15px;
@@ -153,4 +153,8 @@ h1, h2, h3, h4, h5, h6, p {
   width: auto;
   padding: 10px;
   margin: 10px 10px;
+}
+
+.tiny {
+  font-size: 20px;
 }

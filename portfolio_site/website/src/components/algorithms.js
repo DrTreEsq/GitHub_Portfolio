@@ -2,27 +2,6 @@ export default function Algorithms() {
     return (
       <div className="services">
 
-        <h2>Types of Learning Algorithms</h2>
-
-        <div className="black">
-        <h4>A. Linear Regression | Machine Learning </h4>
-        <p></p>
-
-        <h4>B. Logistic Regression | Classification | Deep Learning</h4>
-        <h6>a). Binary Classification</h6>
-        <p></p>
-        <h6>b). Multiclass Classification</h6>
-        <p></p>
-        <h6>c). Multilabel Classification</h6>
-        <p></p>
-
-        <h4>C. Algorithms</h4>
-
-        <h5>a). Gradient Descent</h5>
-        <h6>b). A.D.A.M.</h6>
-        </div>
-        <hr></hr>
-
         <a className="github" href="https://github.com/TREYCSE/GitHub_Portfolio">GitHub PortFolio README.md for Engineers: Click here for code samples, etc.</a>
 
         <h2> Example 1: Linear Regression Example - Market Analysis for Profit Prediction </h2>
@@ -72,6 +51,42 @@ export default function Algorithms() {
           <h3>Visualizations</h3>
           
           <hr></hr>
+
+        <h3>Example 4: Decision Trees</h3>
+        <div className=" black">
+        <h3>Problem Summary:  </h3>
+        <p> Suppose you are starting a company that grows and sells wild mushrooms.
+            Since not all mushrooms are edible, you'd like to be able to tell whether a given mushroom is edible or poisonous based on it's physical attributes
+            You have some existing data that you can use for this task. Can you use the data to help you identify which mushrooms can be sold safely?
+            Note: The dataset used is for illustrative purposes only. It is not meant to be a guide on identifying edible mushrooms"  </p>
+          <h3>Tools: Python, TensorFlow, tensorflow.keras, matplotlib</h3>
+          <h3>Results</h3>
+          <img className="example" src="https://i.postimg.cc/yNqGrSJm/3a01de74-da4f-4b08-9dc8-21a38fc6822a.jpg" align="center" alt="vector"></img>
+          <img className="example" src="https://i.postimg.cc/yNqGrSJm/3a01de74-da4f-4b08-9dc8-21a38fc6822a.jpg" align="center" alt="vector"></img>
+          <img className="example" src="https://i.postimg.cc/yNqGrSJm/3a01de74-da4f-4b08-9dc8-21a38fc6822a.jpg" align="center" alt="vector"></img>
+          </div>
+
+          <hr></hr>
+
+          <h3>Example 5: Clustering for Similar Data in images </h3>
+        <div className=" black">
+        <h3>Problem Summary:  </h3>
+          <p> Concretely, I was given a small training set of images and you want to group the data into a few cohesive “clusters”.</p>
+          <h3>Tools: Python, TensorFlow, tensorflow.keras, matplotlib</h3>
+          <h3>Results</h3>
+          <img className="example" src="https://i.postimg.cc/HW9K8vPb/figure-1.png" align="center" alt="vector"></img>
+          <img className="example" src="https://i.postimg.cc/0yRwgZPH/figure-2.png" align="center" alt="vector"></img>
+          <img className="example" src="https://i.postimg.cc/0QBzV0Vn/figure-3.png" align="center" alt="vector"></img>
+          </div>
+
+          <h3>Example 6: Collaborative & Content Recommender System</h3>
+        <div className=" black">
+        <h3>Problem Summary:  </h3>
+          <p> The goal was to implement the collaborative filtering learning algorithm and apply it to a dataset of movie ratings.</p>
+          <h3>Tools: Python, TensorFlow, tensorflow.keras, matplotlib</h3>
+          <h3>Results</h3>
+          
+</div>
         </div>
         
       )

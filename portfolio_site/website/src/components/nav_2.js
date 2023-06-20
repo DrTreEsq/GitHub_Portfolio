@@ -6,7 +6,6 @@ export default function Navs({Education, Skills, Projects}) {
       <nav className="aboutmenav">
           <Link className="link black" to={Education}> Education and Work History </Link>
           <Link className="link black" to={Skills}> Skills </Link>
-          <Link className="link black" to={Projects}> Projects in Progress </Link>
       </nav>
     </div>
   );
