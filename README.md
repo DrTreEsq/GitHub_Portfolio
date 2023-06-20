@@ -11,7 +11,7 @@ The Ethical Mad Scientist🤓
 Computer Scientist README.md Portfolio
 </h3>
 
-###### link to deployed portfolio website:
+###### link to deployed portfolio website: (going through an update - will be deployed for use again soon!)
 
 <img src="https://i.postimg.cc/FRWr6HHD/funny-urkey.webp" align="center"> 
 </img>
