@@ -80,7 +80,7 @@ Machine Learning Certificate | Software Engineering Certificate | Pursuing Gradu
 
 ### Fields of Work
 1. AI Research for Medicine -  B.S. Healthcare Management, Machine Learning Specialization
-2. Web Applications - Certificate, Full-Stack Software Engineering, Machine Learning Specialization, Data Engineering Certificate - in progress📈
+2. Web Applications - Certificate, Full-Stack Software Engineering & Machine Learning Specialization
 3. Operations/Administrative/Data Management - Human Resources/Talent Aqcuisition, Team Operations, Machine Learning Specialization & other experience
 4. Financial Consulting - Machine Learning Specialization
 5. Education - currently a Guest Teacher for Kokua Education with previous volunteer work
