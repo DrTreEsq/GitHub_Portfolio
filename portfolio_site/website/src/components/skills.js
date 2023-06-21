@@ -6,17 +6,17 @@ export default function Skills() {
         <div className="black">
 
           <h2> Tools | Technologies </h2>
-          <h4> My Go-tos: TensorFlow, Numpy, Node.js, React.js, MongoDB, Express, etc.</h4>
-          <h4> Programming: Python, Javascript, React, Node, MongoDB, Django </h4>
-          <h4> Data Science & Machine Learning | AI: NumPy, TensorFlow, SQL </h4>
-          <h4> Big Data tools: becoming familiar with LangChain, Spark, and more.</h4>
+          <p> My Go-tos: TensorFlow, Numpy, Node.js, React.js, MongoDB, Express, etc.</p>
+          <p> Programming: Python, Javascript, React, Node, MongoDB, Django </p>
+          <p> Data Science & Machine Learning | AI: NumPy, TensorFlow, SQL </p>
+          <p> Big Data tools: becoming familiar with LangChain, Spark, and more.</p>
 
 <hr className="hrhr"></hr>
 
           <h2> Administrative | Consulting | Management</h2>
-          <h4> Project planning and scope management: Microsoft Suite & Google Suite </h4>
-          <h4> Troubleshooting and Debugging: GitHub, online planners and ^^ </h4>
-          <h4> Research: experience navigating various types of databases </h4>
+          <p> Project planning and scope management: Microsoft Suite & Google Suite </p>
+          <p> Troubleshooting and Debugging: GitHub, online planners and ^^ </p>
+          <p> Research: experience navigating various types of databases </p>
           
         </div>
 

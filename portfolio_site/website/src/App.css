@@ -10,11 +10,10 @@ h1, h2, h3, h4, h5, h6, p {
   color: white;
   text-align: center;
   justify-content: center;
-  min-height: 900px;
+  min-height: 1350px;
   font-family: 'Playfair Display', serif;
   list-style-type: none;
   background-image: url("https://i.postimg.cc/j5yX1dHx/shutter-155295878-robot-future.jpg");
-  background-repeat: no-repeat;
   background-size: cover;
 }
 
@@ -26,12 +25,15 @@ h1, h2, h3, h4, h5, h6, p {
 }
 .link {
   color: rgb(255, 255, 255);
-  font-size: 25px;
+  font-size: 35px;
   font-weight: bolder;
   background-color: none;
-  
-}
-.link {
+  margin: 15px;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  margin-left: 25px;
+  margin-right: 15px;
+  padding: 5px;
   list-style-type: none;
 }
 .link2 {
@@ -65,11 +67,53 @@ h1, h2, h3, h4, h5, h6, p {
   border-color: white;
 }
 
+--examples / images
 .example {
   width: 600px;
   max-height: 450px;
   border-style: solid;
-  border-color: rgb(5, 5, 80);
+  border-width: 5px;
+  border-color: rgb(194, 141, 28);
+  padding: 5px;
+  margin: 15px;
+}
+.examplee {
+  width: 600px;
+  height: 500px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: rgb(194, 141, 28);
+  padding: 5px;
+  margin: 15px;
+}
+.exampleee {
+  width: 900px;
+  height: 900px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: rgb(194, 141, 28);
+  padding: 5px;
+  margin: 15px;
+}
+
+.exampleer {
+  width: 1000px;
+  height: 500px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: rgb(194, 141, 28);
+  padding: 5px;
+  margin: 15px;
+}
+
+.examplees {
+  max-width: 1250px;
+  height: 700px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: rgb(194, 141, 28);
+  padding: 5px;
+  margin: 15px;
 }
 
 .meimg {
@@ -101,7 +145,7 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 .github {
-  font-size: 15px;
+  font-size: 25px;
   color: white;
   font-weight: bold;
   text-decoration: none;
@@ -137,7 +181,9 @@ h1, h2, h3, h4, h5, h6, p {
 
 .services{
   background-image: url("https://i.postimg.cc/yNQRTLLy/embdded-dl-blog.jpg");
-  padding: 15px;
+  background-color: rgb(9, 0, 0);
+  padding: 10px;
+  margin: 10px;
 }
 
 .hrhr {
@@ -157,4 +203,15 @@ h1, h2, h3, h4, h5, h6, p {
 
 .tiny {
   font-size: 20px;
+}
+.tinny {
+  font-size: 10px;
+}
+.transparent {
+  background-color: rgb(198, 169, 0);
+  border-style: solid;
+  border-width: 7px;
+  border-color: rgb(255, 255, 255);
+  padding: 10px;
+  margin: 10px;
 }

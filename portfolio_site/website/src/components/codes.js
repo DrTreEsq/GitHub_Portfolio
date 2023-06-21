@@ -10,7 +10,7 @@ export default function Codes() {
         <h2 className=""> Example 2: Full Stack Capstone The Virtual Detention with Virtual Tutor | User Experience | Intent</h2>
 
         <p className="black">
-          `What is this "Virtual Detention"? Summary: The Virtual Detention is an online classroom intended for students that tend to get bad reps in tradidional classrooms.
+          What is this "Virtual Detention"? The Virtual Detention is an online classroom intended for students that tend to get bad reps in tradidional classrooms.
             Using Natural Language Question Answering BERT models trained with SQuAD, along with React and Node on the front end,
             students can interact with this platform to help study outside of normal school environments or hours.</p>
 
@@ -22,8 +22,8 @@ export default function Codes() {
           serving as a virtual tutor in The Virtual Detention</p>
 
        <h3>Snapshots</h3>
-       <img className="example" src="https://i.imgur.com/9qRZRqA.jpg" align="center" alt="capstone1"></img>
-       <img className="example" src="https://i.imgur.com/QDDD5Vu.jpg" align="center" alt="capstone2"></img>
+       <img className="examplees" src="https://i.imgur.com/9qRZRqA.jpg" align="center" alt="capstone1"></img>
+       <img className="examplees" src="https://i.imgur.com/QDDD5Vu.jpg" align="center" alt="capstone2"></img>
        
       </div>
     )

@@ -11,19 +11,9 @@ export default function Education() {
           <hr className="hrh"></hr>
 
           <h3 className="blue">Positions open to</h3>
-            <h5>✰ Fields of Computer Science: Artificial Intelligence, Business & Media, Robotics, Web Development, Data Science, and more! </h5>
+            <h5>✰ Fields of Interest and Experience: Artificial Intelligence, Medical, Business & Media, Robotics, Web Development, Law/Policy, Education, Data Science, and more! </h5>
             <h5>✰ Roles: Prompt Engineer, AI engineer, Machine Learning Engineer, Researcher, and more.</h5>
             <h5>✰ Responsibilities: Problem Solving, System design/architecture/engineering, Data analysis, Research, Software engineering, troubleshooting/debugging/error tracking, teamwork, management, consulting, and more.</h5>
-
-
-          <hr className="hrh"></hr>
-
-          <h3 className="blue"> Fields of Work open to with Relevant Education/Experience</h3>
-            <h5> ☪ AI Research for Medicine - B.S. Healthcare Management, Machine Learning Specialization</h5>
-            <h5> ☪ Web Applications - Certificate, Full-Stack Software Engineering, Machine Learning Specialization </h5>
-            <h5> ☪ Operations/Administrative/Data Management - Human Resources/Talent Aqcuisition, Team Operations, Machine Learning Specialization & other experience</h5>
-            <h5> ☪ Education - currently a Guest Teacher for Kokua Education with previous volunteer work</h5>
-            <h5> ☪ Law & policy - a year at Fordham Law, experience working for a City Official, administrative policy work, etc.</h5>
 
           <hr className="hrh"></hr>
 
