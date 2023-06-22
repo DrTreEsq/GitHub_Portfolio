@@ -39,21 +39,4 @@ function App() {
 }
 
 
-/* API for Server - Server Connection before Deploying
-
-backup api - different error, use full API axios syntax OR debug that ^^ - 
-//cannot POST - 3000/post - is that where that is supposed to be going
-//whatever is after the last / is what URL it goes to - 3000/... just not sure what my target is
-//CREATE ROUTE FOR POST PATH - WITH REACT ROUTER?
-
-<form className="form">
-<button onClick={Api}>Connected??</button>
-</form>
-
-function Api () {
-  return axios.post("https://http://localhost:8080/")
-}
-
-*/
-
 export default App;
