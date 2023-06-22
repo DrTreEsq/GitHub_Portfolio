@@ -7,7 +7,7 @@ export default function Codes() {
         <h2 className=""> Example 1: This Front End Website! </h2>
         <p className="black">If it was not already assumed, I wrote the code for this website entirely myself, using specically a React.js frontend framework</p>
 
-        <h2 className=""> Example 2: Full Stack Capstone The Virtual Detention with Virtual Tutor | User Experience | Intent</h2>
+        <h2 className=""> Example 2: Full Stack Website The Virtual Detention with Virtual Tutor</h2>
 
         <p className="black">
           What is this "Virtual Detention"? The Virtual Detention is an online classroom intended for students that tend to get bad reps in tradidional classrooms.
