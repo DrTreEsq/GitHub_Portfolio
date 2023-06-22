@@ -23,10 +23,9 @@ Machine Learning Certificate | Software Engineering Certificate | Pursuing Gradu
 ###### Welcome, Earthling! My name is Trey and I am an educator and forever student with a goal of learning each valuable skill necessary to pioneer the change that I wish to see in the world. I have a wide range of abilities stemming from my diverse work background, education, and additional academic interests ranging from neuroscience, programming, to the history of mankind and more. I hope to continually gain experience to grow myself professionally and offer the same to the organizations that I work with as I work towards a greater goal of personal development and global change.
 
 <h3 align="center">
-1. 
+1. Tools & Technologies
 </h3>
 
-### Tools & Technologies:
 ###### My Go-tos: TensorFlow, Numpy, Node.js, React.js, MongoDB, Express, etc.
 1. Programming: Python, Javascript, React, Node, MongoDB, Django
 2. Data Science & Machine Learning | AI: NumPy, TensorFlow, etc.
