@@ -2,8 +2,11 @@ import * as React from 'react';
 import { Routes, Route } from 'react-router-dom';
 import { Nav, Home, Aboutme, Algorithms, Codes, Consulting, Contact, Education, Skills, Services, Tutorials, YoutubeEmbed, YoutubeEmbed2, YoutubeEmbed3} from './components/index.js'
 import './App.css';
+import axios from "axios";
 
 function App() {
+  Api();
+
   return (
     <div className="App">
       <Nav Home="/" Aboutme="/aboutme" Algorithms="/algorithms" Codes="/codes" Consulting="/consulting" Contact="/contact" Education="/education" Skills="/skills" Services="/services"
@@ -23,8 +26,23 @@ function App() {
         <Route path="/neural_networks" element={<YoutubeEmbed2 embedId2="_c_x8A3mNDk"/>} />
         <Route path="/production" element={<YoutubeEmbed3 embedId="NgWujOrCZFo"/>} />
       </Routes>
+
+      <form className="form">
+        <button onClick={Api}>Connected??</button>
+      </form>
+
     </div>
   );
 }
+
+function Api () {
+  return axios.post("https://http://localhost:8080/")
+}
+
+/*
+      <form action="../../post" method="post" className="form">
+      <button type="submit">Connected?</button>
+      </form>
+*/
 
 export default App;
