@@ -42,9 +42,10 @@ Machine Learning Certificate | Software Engineering Certificate | Pursuing Gradu
 </h4>
 <img src="https://i.postimg.cc/3Jrk9k3k/Image-6-20-23-at-7-27-AM.jpg" align="center"> </img>
 
-1. B.S. in Healthcare Management & attended law school for one year before being consumed by my passion for S.T.E.M.
+1. B.S. in Healthcare Management & attended Fordham Law school for one year before being consumed by my passion for S.T.E.M.
 2. General Assembly: Full Stack Software Engineering, May 2023
 3. Stanford & DeepLearning.AI: Machine Learning Specialization Certificate, June 2023
+4. Preparing for Graduate Education in Artificial Intelligence/Machine Learning/Computer Science!
 
 <h3 align="center">
 3. PROJECTS
