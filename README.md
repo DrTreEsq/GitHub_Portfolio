@@ -58,9 +58,8 @@ Machine Learning Certificate | Software Engineering Certificate | Pursuing Gradu
 2. Stanford Machine Learning Specialization Algorithms
 
 <h3> Example 1: Linear Regression Example - Market Analysis for Profit Prediction </h3>
-          <div className="example1 black">
 
-          <h3>Problem Summary:  </h3>
+<h3>Problem Summary:  </h3>
 
             <p className='tiny'> In this problem, a restaurant franchise was considering different cities for opening a new outlet.
               The data is utilized to identify which cities may potentially give your business higher profits.
@@ -80,11 +79,6 @@ Machine Learning Certificate | Software Engineering Certificate | Pursuing Gradu
 
           <h4>Results: </h4>
           <img className="exampleer" src="https://i.postimg.cc/prYDswm0/Image-6-6-23-at-12-52-PM.jpg" align="center" alt="X"></img>
-          </div>
-
-
-
-          <hr></hr>
       
 
           <h3>Example 2: Collaborative Recommender System for Movie Recommendations</h3>
