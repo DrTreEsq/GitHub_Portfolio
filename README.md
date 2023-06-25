@@ -110,43 +110,39 @@ The reduced dataset has 443 users and 4778 movies.. A function loads the data in
 <hr></hr>
 
 
-        <h3>Example 3: Logistic Regression with Gradient Descent - Probability of Admission </h3>
-          <div className="example2 black">
+<h3>Example 3: Logistic Regression with Gradient Descent - Probability of Admission </h3>
 
-          <h3>Problem Summary: </h3>
+<h3>Problem Summary: </h3>
   
-            <p  className='tiny'>  For this exercise, an administrator of a university department wants to determine each applicant’s chance of admission based on their results on two exams
+<p >  For this exercise, an administrator of a university department wants to determine each applicant’s chance of admission based on their results on two exams
             by building a classification model that estimates an applicant’s probability of admission based on the scores from those two exams.
             We were provided historical data from previous applicants that was used as a training set for logistic regression.
             For each training example, we have the applicant’s scores on two exams and the admissions decision. </p> 
 
-          <p> Dataset: </p>
-          <p className="tiny">
+<p> Dataset: </p>
+<p >
             A function loads the data into variables `X_train` and `y_train`.
             `X_train` contains exam scores on two exams for a student.
             `y_train` is the admission decision.
             `y_train = 1` if the student was admitted.
             `y_train = 0` if the student was not admitted. 
             Both `X_train` and `y_train` are numpy arrays.
-          </p>
+</p>
 
-          <p>Tools: NumPy, matplotlib</p>
+<p>Tools: NumPy, matplotlib</p>
 
-          <h3>Results</h3>
+<h3>Results</h3>
           <img src="https://i.postimg.cc/R0g1Vr6v/figure-1.png" align="center" alt="X"></img>
           <img src="https://i.postimg.cc/SNcWYY2T/figure-2.png" align="center" alt="X"></img>
           <img src="https://i.postimg.cc/sXBWjMCJ/figure-3.png" align="center" alt="X"></img>
           <img src="https://i.postimg.cc/JzPHjN1q/figure-4.png" align="center" alt="X"></img>
 
 
-        <hr></hr>
-
-
 <h3> Example 4: Neural Network Binary Classification Example - Handwritten Digit Recognition </h3>
 
 <h3>Problem Summary:  </h3>
 
-            <p  className='tiny'> In this exercise, we used a neural network to recognize two handwritten digits, zero and one.
+            <p > In this exercise, we used a neural network to recognize two handwritten digits, zero and one.
             This is a binary classification task. Automated handwritten digit recognition is widely used today - from recognizing zip codes (postal codes) on mail envelopes to recognizing amounts written on bank checks.  </p>
           
 <p> Dataset: </p>
@@ -169,7 +165,7 @@ The reduced dataset has 443 users and 4778 movies.. A function loads the data in
 
 <h3>Problem Summary:  </h3>
 
-            <p className="tiny"> 
+            <p > 
               In this exercise, we used the K-means algorithm to select the 16 colors that will be used to represent the compressed image by
               inherently treating every pixel in the original image as a data example and use the K-means algorithm to find the 16 colors that best
               group (cluster) the pixels in the 3- dimensional RGB space. By making this reduction, it is possible to represent (compress) the photo in an efficient way. 
@@ -199,7 +195,7 @@ The reduced dataset has 443 users and 4778 movies.. A function loads the data in
 
 <h3>Problem Summary:  </h3>
 
-<p className="tiny"> For this problem, the company was a seller of wild mushrooms for consumption.
+<p > For this problem, the company was a seller of wild mushrooms for consumption.
                 Since not all mushrooms are edible, they'd like to be able to tell whether a given mushroom is edible or poisonous based on it's physical attributes
                 We have some existing data that you can use for this task that we used to help  identify which mushrooms can be sold safely.
                 Note: The dataset that was used was for illustrative purposes only. It is not meant to be a guide on identifying edible mushrooms.  </p>
