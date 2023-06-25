@@ -71,42 +71,43 @@ For these cities, we were given the city population.
 
 <p> Dataset: </p>
 <p >
-            A function loads the data into variables `x_train` and `y_train`. x_train` is the population of a city.
-            `y_train` is the profit of a restaurant in that city. A negative value for profit indicates a loss. Both `X_train` and `y_train` are numpy arrays.
-          </p>
+A function loads the data into variables `x_train` and `y_train`. x_train` is the population of a city.
+`y_train` is the profit of a restaurant in that city. A negative value for profit indicates a loss. Both `X_train` and `y_train` are numpy arrays.
+</p>
 
-          <p>Tools: NumPy, matplotlib</p>
+<p>Tools: NumPy, matplotlib</p>
 
-          <h4>Results: </h4>
-          <img className="exampleer" src="https://i.postimg.cc/prYDswm0/Image-6-6-23-at-12-52-PM.jpg" align="center" alt="X"></img>
+<h4>Results: </h4>
+<img src="https://i.postimg.cc/prYDswm0/Image-6-6-23-at-12-52-PM.jpg" align="center" alt="X"></img>
       
 
-          <h3>Example 2: Collaborative Recommender System for Movie Recommendations</h3>
-          <div className=" black">
+<h3>Example 2: Collaborative Recommender System for Movie Recommendations</h3>
 
-          <h3>Problem Summary:  </h3>
+<h3>Problem Summary:  </h3>
 
-            <p className="tiny"> The goal was to implement the collaborative filtering learning algorithm and apply it to a dataset of movie ratings. </p>
+<p > The goal was to implement the collaborative filtering learning algorithm and apply it to a dataset of movie ratings. </p>
             
-            <p> Dataset: </p>
-            <p className="tiny">
-              The data set was derived from the MovieLens "ml-latest-small" dataset.
-              The original dataset has  9000 movies rated by 600 users. The dataset has been reduced in size to focus on movies from the years since 2000.
-              This dataset consists of ratings on a scale of 0.5 to 5 in 0.5 step increments.
+<p> Dataset: </p>
+<p >
+The data set was derived from the MovieLens "ml-latest-small" dataset.
+The original dataset has  9000 movies rated by 600 users. The dataset has been reduced in size to focus on movies from the years since 2000.
+This dataset consists of ratings on a scale of 0.5 to 5 in 0.5 step increments.
               
-              The reduced dataset has 443 users and 4778 movies.. A function loads the data into variables `x_train` and `y_train`. x_train` is the population of a city.
-              `y_train` is the profit of a restaurant in that city. A negative value for profit indicates a loss. Both `X_train` and `y_train` are numpy arrays.
-          </p>
-          <p className="tinny">[F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History and Context. ACM Transactions on Interactive Intelligent Systems (TiiS) 5, 4: 19:1–19:19. https://doi.org/10.1145/2827872]</p>
+The reduced dataset has 443 users and 4778 movies.. A function loads the data into variables `x_train` and `y_train`. x_train` is the population of a city.
+`y_train` is the profit of a restaurant in that city. A negative value for profit indicates a loss. Both `X_train` and `y_train` are numpy arrays.
+</p>
+
+
+<p >[F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History and Context. ACM Transactions on Interactive Intelligent Systems (TiiS) 5, 4: 19:1–19:19. https://doi.org/10.1145/2827872]</p>
           
-          <p>Tools: NumPy, TensorFlow, matplotlib</p>
+<p>Tools: NumPy, TensorFlow, matplotlib</p>
 
-          <h3>Results</h3>
-          <img className="exampleee" src="https://i.postimg.cc/d0FRK7Gy/Image-6-21-23-at-6-32-AM.jpg" align="center" alt="vector"></img>
-          </div>
+<h3>Results</h3>
+<img src="https://i.postimg.cc/d0FRK7Gy/Image-6-21-23-at-6-32-AM.jpg" align="center" alt="vector"></img>
 
 
-          <hr></hr>
+
+<hr></hr>
 
 
         <h3>Example 3: Logistic Regression with Gradient Descent - Probability of Admission </h3>
