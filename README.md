@@ -61,16 +61,16 @@ Machine Learning Certificate | Software Engineering Certificate | Pursuing Gradu
 
 <h3>Problem Summary:  </h3>
 
-            <p className='tiny'> In this problem, a restaurant franchise was considering different cities for opening a new outlet.
-              The data is utilized to identify which cities may potentially give your business higher profits.
-              They would like to expand their business to cities that may give your restaurant higher profits.
-              The chain already has restaurants in various cities and you have data for profits and populations from the cities.. 
-              There is also data on cities that are candidates for a new restaurant. 
-              For these cities, we were given the city population.
-          </p> 
+In this problem, a restaurant franchise was considering different cities for opening a new outlet.
+The data is utilized to identify which cities may potentially give your business higher profits.
+They would like to expand their business to cities that may give your restaurant higher profits.
+The chain already has restaurants in various cities and you have data for profits and populations from the cities.. 
+There is also data on cities that are candidates for a new restaurant. 
+For these cities, we were given the city population.
 
-          <p> Dataset: </p>
-            <p className="tiny">
+
+<p> Dataset: </p>
+<p >
             A function loads the data into variables `x_train` and `y_train`. x_train` is the population of a city.
             `y_train` is the profit of a restaurant in that city. A negative value for profit indicates a loss. Both `X_train` and `y_train` are numpy arrays.
           </p>
