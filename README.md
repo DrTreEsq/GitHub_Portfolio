@@ -133,49 +133,41 @@ The reduced dataset has 443 users and 4778 movies.. A function loads the data in
           <p>Tools: NumPy, matplotlib</p>
 
           <h3>Results</h3>
-          <img className="examplee" src="https://i.postimg.cc/R0g1Vr6v/figure-1.png" align="center" alt="X"></img>
-          <img className="examplee" src="https://i.postimg.cc/SNcWYY2T/figure-2.png" align="center" alt="X"></img>
-          <img className="examplee" src="https://i.postimg.cc/sXBWjMCJ/figure-3.png" align="center" alt="X"></img>
-          <img className="examplee" src="https://i.postimg.cc/JzPHjN1q/figure-4.png" align="center" alt="X"></img>
-        
-        </div>
+          <img src="https://i.postimg.cc/R0g1Vr6v/figure-1.png" align="center" alt="X"></img>
+          <img src="https://i.postimg.cc/SNcWYY2T/figure-2.png" align="center" alt="X"></img>
+          <img src="https://i.postimg.cc/sXBWjMCJ/figure-3.png" align="center" alt="X"></img>
+          <img src="https://i.postimg.cc/JzPHjN1q/figure-4.png" align="center" alt="X"></img>
 
 
         <hr></hr>
 
 
-        <h3> Example 4: Neural Network Binary Classification Example - Handwritten Digit Recognition </h3>
-          <div className="example2 black">
+<h3> Example 4: Neural Network Binary Classification Example - Handwritten Digit Recognition </h3>
 
-          <h3>Problem Summary:  </h3>
+<h3>Problem Summary:  </h3>
 
             <p  className='tiny'> In this exercise, we used a neural network to recognize two handwritten digits, zero and one.
             This is a binary classification task. Automated handwritten digit recognition is widely used today - from recognizing zip codes (postal codes) on mail envelopes to recognizing amounts written on bank checks.  </p>
           
-            <p> Dataset: </p>
-            <p className="tiny">
+<p> Dataset: </p>
+<p >
             The data set contains 1000 training examples of handwritten digits, here limited to zero and one.  
             Each training example is a 20-pixel x 20-pixel grayscale image of the digit. 
             Each pixel is represented by a floating-point number indicating the grayscale intensity at that location. 
             The 20 by 20 grid of pixels is “unrolled” into a 400-dimensional vector. 
             Each training example becomes a single row in our data matrix `X`. 
             This gives us a 1000 x 400 matrix `X` where every row is a training example of a handwritten digit image.
-            </p>
+</p>
 
           <p>Tools: NumPy, TensorFlow, matplotlib</p>
 
           <h3>Results</h3>
-          <img className="transparent" src="https://i.postimg.cc/4xQt3C7m/1a1cc802-24eb-4d32-9c81-d0fc023ba1c9.png" align="center" alt="vector"></img>
-         </div>
-          
-
-        <hr></hr>
+          <img src="https://i.postimg.cc/4xQt3C7m/1a1cc802-24eb-4d32-9c81-d0fc023ba1c9.png" align="center" alt="vector"></img>
 
 
-        <h3>Example 5: Image Compression Using K-means Clustering</h3>
-          <div className=" black">
+<h3>Example 5: Image Compression Using K-means Clustering</h3>
 
-          <h3>Problem Summary:  </h3>
+<h3>Problem Summary:  </h3>
 
             <p className="tiny"> 
               In this exercise, we used the K-means algorithm to select the 16 colors that will be used to represent the compressed image by
@@ -186,69 +178,63 @@ The reduced dataset has 443 users and 4778 movies.. A function loads the data in
               we then used the 16 colors to replace the pixels in the original image.
             </p>
 
-            <p> Dataset: </p>
-            <p className="tiny">
+<p> Dataset: </p>
+            <p >
               In a straightforward 24-bit color representation of an image, each pixel is represented as three 8-bit unsigned integers
               (ranging from 0 to 255) that specify the red, green and blue intensity values. This encoding is often refered to as the RGB encoding.
               Our image contains thousands of colors, and in you will reduce the number of
               colors to 16 colors.
           </p>
 
-          <p>Tools: NumPy, matplotlib</p>
+<p>Tools: NumPy, matplotlib</p>
 
           <h3>Visuals</h3>
-          <img className="examplee" src="https://i.postimg.cc/HW9K8vPb/figure-1.png" align="center" alt="vector"></img>
-          <img className="examplee" src="https://i.postimg.cc/0yRwgZPH/figure-2.png" align="center" alt="vector"></img>
-          <img className="examplee" src="https://i.postimg.cc/cJdHc99t/b3bffb1d-74e9-450a-95b4-27b577b99c31.png" align="center" alt="vector"></img>
-          <img className="exampleer" src="https://i.postimg.cc/0QBzV0Vn/figure-3.png" align="center" alt="vector"></img>
-          </div>
-
- 
-          <hr></hr>
+          <img src="https://i.postimg.cc/HW9K8vPb/figure-1.png" align="center" alt="vector"></img>
+          <img src="https://i.postimg.cc/0yRwgZPH/figure-2.png" align="center" alt="vector"></img>
+          <img src="https://i.postimg.cc/cJdHc99t/b3bffb1d-74e9-450a-95b4-27b577b99c31.png" align="center" alt="vector"></img>
+          <img src="https://i.postimg.cc/0QBzV0Vn/figure-3.png" align="center" alt="vector"></img>
 
 
-          <h3>Example 6: Decision Trees</h3>
-          <div className=" black">
+<h3>Example 6: Decision Trees</h3>
 
-          <h3>Problem Summary:  </h3>
+<h3>Problem Summary:  </h3>
 
-            <p className="tiny"> For this problem, the company was a seller of wild mushrooms for consumption.
+<p className="tiny"> For this problem, the company was a seller of wild mushrooms for consumption.
                 Since not all mushrooms are edible, they'd like to be able to tell whether a given mushroom is edible or poisonous based on it's physical attributes
                 We have some existing data that you can use for this task that we used to help  identify which mushrooms can be sold safely.
                 Note: The dataset that was used was for illustrative purposes only. It is not meant to be a guide on identifying edible mushrooms.  </p>
 
-            <p> Dataset: </p>
+ <p> Dataset: </p>
                 <img src="https://i.postimg.cc/4Nw88fR1/Image-6-21-23-at-1-41-PM.jpg" align="center" alt="vector"></img>
-                    <p className="tiny">
+<p >
                     We had 10 examples of mushrooms. For each example, we had three features.
                     Cap Color (Brown or Red), Stalk Shape (Tapering (as in \/) or Enlarging (as in /\)), and Solitary (Yes or No) Label Edible (1 indicating yes or 0 indicating poisonous)	
                     </p>
 
-                <p className="tiny">
-                For ease of implementation, we have one-hot encoded the features (turned them into 0 or 1 valued features)
-                </p>
+<p >
+For ease of implementation, we have one-hot encoded the features (turned them into 0 or 1 valued features)
+  </p>
 
-                <img src="https://i.postimg.cc/JhHP4jDT/Image-6-21-23-at-1-41-PM-1.jpg" align="center" alt="vector"></img>
+<img src="https://i.postimg.cc/JhHP4jDT/Image-6-21-23-at-1-41-PM-1.jpg" align="center" alt="vector"></img>
 
-                <p className="tiny">
+<p >
                 Therefore,
                 y = 1 indicates edible
                 y = 0 indicates poisonous
                 </p>
 
-                <p className="tiny">
+<p >
                   In a straightforward 24-bit color representation of an image, each pixel is represented as three 8-bit unsigned integers
                   (ranging from 0 to 255) that specify the red, green and blue intensity values. This encoding is often refered to as the RGB encoding.
                   Our image contains thousands of colors, and in you will reduce the number of
                   colors to 16 colors. By making this reduction, it is possible to represent (compress) the photo in an efficient way. 
                   Specifically, you only need to store the RGB values of the 16 selected colors, and for each pixel in the image you now need to only
                   store the index of the color at that location (where only 4 bits are necessary to represent 16 possibilities).
-              </p>
+</p>
 
-          <p>Tools: NumPy, matplotlib</p>
+<p>Tools: NumPy, matplotlib</p>
 
-          <h3>Results</h3>
-          <img className="examplee" src="https://i.postimg.cc/yNqGrSJm/3a01de74-da4f-4b08-9dc8-21a38fc6822a.jpg" align="center" alt="vector"></img>
-          <img className="examplee" src="https://i.postimg.cc/zDp4Wymk/Image-6-21-23-at-5-54-AM.jpg" align="center" alt="vector"></img>
-          <img className="examplee" src="https://i.postimg.cc/7hLsXNvn/Image-6-21-23-at-5-55-AM.jpg" align="center" alt="vector"></img>
-          </div>
+<h3>Results</h3>
+          <img src="https://i.postimg.cc/yNqGrSJm/3a01de74-da4f-4b08-9dc8-21a38fc6822a.jpg" align="center" alt="vector"></img>
+          <img src="https://i.postimg.cc/zDp4Wymk/Image-6-21-23-at-5-54-AM.jpg" align="center" alt="vector"></img>
+          <img src="https://i.postimg.cc/7hLsXNvn/Image-6-21-23-at-5-55-AM.jpg" align="center" alt="vector"></img>
