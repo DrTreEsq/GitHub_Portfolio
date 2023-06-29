@@ -19,10 +19,12 @@ app.listen(PORT, hostname, () => {
 //1. azure not redeploying saying "not found" - don't know if recent changes have been taking into effect
 //2. using docker logs recommended in Azure troubleshooting: https://emswebsite.scm.azurewebsites.net/api/logs/docker/zip
 //looking into docker log files on computer  - debugging new error message
-//index for wwwroot looking for server.js, 
+//https://emswebsite.scm.azurewebsites.net/ for debuggings index for wwwroot looking for server.js, 
 //3. viewing react in browser: docker, azure, local host, etc.
 //4.stack overflow says use WEB_APP configuration instead of env.PORT for production
 //^^ tried putting in src folder for react site, not sure if those changes have hit yet bc not redeploying
+//check node.js server set up - should be in root, same version, proxy, what else why sometimes not found sometimes fine when sync
+
 
 /* http instead of express alternative syntax
 const http = require("http");
