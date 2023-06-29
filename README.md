@@ -31,6 +31,7 @@ Currently Enhancing Mathematic and Physics Skills for Graduate Education in Arti
 2. Data Science & Machine Learning | AI: NumPy, TensorFlow, etc.
 3. Cloud and Big Data tools: becoming familiar with Heroku, Azure, LangChain, Spark, and more. 
 
+
 <h3 align="center">
 2. EDUCATION
 </h3>
