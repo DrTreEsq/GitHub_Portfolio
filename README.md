@@ -40,7 +40,7 @@ Machine Learning Certificate | Software Engineering Certificate | Pursuing Gradu
 </h4>
 <img src="https://i.postimg.cc/rwQZ3rN5/Image-6-29-23-at-6-41-PM.jpg" align="center"> 
 <h4 align="center">
-  Stanford Machine Learning Specialization
+  Stanford Online Machine Learning Specialization
 </h4>
 <img src="https://i.postimg.cc/3Jrk9k3k/Image-6-20-23-at-7-27-AM.jpg" align="center"> </img>
 
