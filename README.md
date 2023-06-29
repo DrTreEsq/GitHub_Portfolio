@@ -35,7 +35,10 @@ Machine Learning Certificate | Software Engineering Certificate | Pursuing Gradu
 <h3 align="center">
 2. EDUCATION
 </h3>
-
+<h4 align="center">
+  General Assembly Software Engineering Immersive
+</h4>
+<img src="https://i.postimg.cc/rwQZ3rN5/Image-6-29-23-at-6-41-PM.jpg" align="center"> 
 <h4 align="center">
   Stanford Machine Learning Specialization
 </h4>
