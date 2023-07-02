@@ -1,6 +1,10 @@
 export default function Education() {
     return (
         <div className="black">
+          <img className="example" src="https://i.postimg.cc/rwQZ3rN5/Image-6-29-23-at-6-41-PM.jpg" align="center" alt="vector"></img>
+
+          <hr></hr>
+
           <img className="example" src="https://i.postimg.cc/3Jrk9k3k/Image-6-20-23-at-7-27-AM.jpg" align="center" alt="vector"></img>
 
           <h3 className="blue"> Stanford Machine Learning Specialization Certificate | General Assembly Software Engineering Certificate | Pursuing Graduate Education in Artificial Intelligence</h3>
