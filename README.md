@@ -82,7 +82,7 @@ A function loads the data into variables `x_train` and `y_train`. x_train` is th
 
 <h4>Code Sample </h4>
 
-  def compute_gradient(x, y, w, b): 
+    def compute_gradient(x, y, w, b): 
       """
       Computes the gradient for linear regression 
       Args:
@@ -251,6 +251,7 @@ Each pixel is represented by a floating-point number indicating the grayscale in
 
 <h4>Code Sample </h4>
 
+
       model = Sequential(
       [               
           tf.keras.Input(shape=(400,)),    #specify input size
@@ -315,32 +316,32 @@ Each pixel is represented by a floating-point number indicating the grayscale in
 
 <h4>Code Sample </h4>
 
-  def compute_centroids(X, idx, K):
-    """
-    Returns the new centroids by computing the means of the 
-    data points assigned to each centroid.
-    
-    Args:
-        X (ndarray):   (m, n) Data points
-        idx (ndarray): (m,) Array containing index of closest centroid for each 
-                       example in X. Concretely, idx[i] contains the index of 
-                       the centroid closest to example i
-        K (int):       number of centroids
-    
-    Returns:
-        centroids (ndarray): (K, n) New centroids computed
-    """
-    
-    m, n = X.shape
-    
-    centroids = np.zeros((K, n))
-
-    for k in range(K):   
-        points = X[idx == k]
-        centroids[k] = np.mean(points, axis = 0)
- 
-    return centroids
+    def compute_centroids(X, idx, K):
+      """
+      Returns the new centroids by computing the means of the 
+      data points assigned to each centroid.
       
+      Args:
+          X (ndarray):   (m, n) Data points
+          idx (ndarray): (m,) Array containing index of closest centroid for each 
+                         example in X. Concretely, idx[i] contains the index of 
+                         the centroid closest to example i
+          K (int):       number of centroids
+      
+      Returns:
+          centroids (ndarray): (K, n) New centroids computed
+      """
+      
+      m, n = X.shape
+      
+      centroids = np.zeros((K, n))
+  
+      for k in range(K):   
+          points = X[idx == k]
+          centroids[k] = np.mean(points, axis = 0)
+   
+      return centroids
+        
       
 <hr></hr>
 
@@ -386,67 +387,65 @@ For ease of implementation, we have one-hot encoded the features (turned them in
 
 <h4>Code Sample </h4>
 
- def compute_entropy(y):
-    """
-    Computes the entropy for 
-    
-    Args:
-       y (ndarray): Numpy array indicating whether each example at a node is
-           edible (`1`) or poisonous (`0`)
-       
-    Returns:
-        entropy (float): Entropy at that node
-        
-    """
-    # You need to return the following variables correctly
-    entropy = 0.
-    
-    ### START CODE HERE ###
-    if len(y) != 0:
-        p1 = len(y[y == 1]) / len(y)
-                              
-        if p1 != 0 and p1 != 1:
-            entropy = -p1 * np.log2(p1) - (1 - p1) * np.log2(1 - p1)
-        else:
-            entropy = 0.
-    ### END CODE HERE ###        
-    
-    return entropy
-
-
-  def get_best_split(X, y, node_indices):   
+   def compute_entropy(y):
       """
-      Returns the optimal feature and threshold value
-      to split the node data 
+      Computes the entropy for 
       
       Args:
-          X (ndarray):            Data matrix of shape(n_samples, n_features)
-          y (array like):         list or ndarray with n_samples containing the target variable
-          node_indices (ndarray): List containing the active indices. I.e, the samples being considered in this step.
-  
+         y (ndarray): Numpy array indicating whether each example at a node is
+             edible (`1`) or poisonous (`0`)
+         
       Returns:
-          best_feature (int):     The index of the best feature to split
-      """    
-      
-      # Some useful variables
-      num_features = X.shape[1]
-      
-      # You need to return the following variables correctly
-      best_feature = -1
-      
-      
-      max_info_gain = 0
-  
-      for feature in range(num_features): 
-  
-         info_gain = compute_information_gain(X, y, node_indices, feature)
-  
-         if info_gain > max_info_gain:  
-             max_info_gain = info_gain
-             best_feature = feature
+          entropy (float): Entropy at that node
           
-     
-      return best_feature
+      """
+      # You need to return the following variables correctly
+      entropy = 0.
+      
+      if len(y) != 0:
+          p1 = len(y[y == 1]) / len(y)
+                                
+          if p1 != 0 and p1 != 1:
+              entropy = -p1 * np.log2(p1) - (1 - p1) * np.log2(1 - p1)
+          else:
+              entropy = 0.      
+      
+      return entropy
+  
+  
+    def get_best_split(X, y, node_indices):   
+        """
+        Returns the optimal feature and threshold value
+        to split the node data 
+        
+        Args:
+            X (ndarray):            Data matrix of shape(n_samples, n_features)
+            y (array like):         list or ndarray with n_samples containing the target variable
+            node_indices (ndarray): List containing the active indices. I.e, the samples being considered in this step.
+    
+        Returns:
+            best_feature (int):     The index of the best feature to split
+        """    
+        
+        # Some useful variables
+        num_features = X.shape[1]
+        
+        # You need to return the following variables correctly
+        best_feature = -1
+        
+        
+        max_info_gain = 0
+    
+        for feature in range(num_features): 
+    
+           info_gain = compute_information_gain(X, y, node_indices, feature)
+    
+           if info_gain > max_info_gain:  
+               max_info_gain = info_gain
+               best_feature = feature
+            
+       
+        return best_feature
 
 <hr></hr>
       
