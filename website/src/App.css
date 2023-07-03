@@ -1,3 +1,52 @@
+@media (min-width: 100px) and (max-width: 199px){
+  .exampleee,   .exampleer,   .examplees, 
+  .meimg,   .video-responsive {
+    max-width: 50px;
+    height: 50px;
+  }
+  .video-responsive {
+    border-style: inset;
+    border-color: rgb(245, 159, 31);
+    border-width: 10px;
+}
+  img {
+    max-width: 400px;
+    max-height: 350px;
+  }
+
+}
+
+@media (min-width: 200px)  and (max-width: 800px){
+  .exampleee,   .exampleer , .exampleer, .examplee, .meimg, .transparent{
+    width: 1400px;
+    max-height: 350px;
+  }
+  .video-responsive {
+    width: 800px;
+    max-height: 300px;
+}
+  img {
+    max-width: 400px;
+    max-height: 350px;
+  }
+
+}
+
+@media (min-width: 801px) and (max-width: 1300px) {
+  .exampleee,   .exampleer,   .examplees {
+    max-width: 700px;
+    max-height: 600px;
+  }
+  .video-responsive {
+
+    width: 2000px;
+    max-height: 300px;
+  }
+}
+
+
+
+
 h1, h2, h3, h4, h5, h6, p {
   padding: 0px;
 }
@@ -183,6 +232,7 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 
+
 .black {
   background-color: black;
   border-style: solid;
@@ -212,6 +262,7 @@ h1, h2, h3, h4, h5, h6, p {
 
 .title {
   font-family: 'Dancing Script', cursive;
+  font-size: 30px;
 }
 
 
@@ -233,28 +284,4 @@ h1, h2, h3, h4, h5, h6, p {
   margin: 10px;
 }
 
-
-
-@media (min-width: 700px) {
-  .exampleee {
-    max-width: 600px;
-    height: 500px;
-  }
-  .exampleer {
-    max-width: 650px;
-    height: 500px;
-  }
-  .examplees {
-    max-width: 650px;
-    height: 500px;
-  }
-  .video-responsive {
-    width: 650px;
-    height: 500px;
-    border-style: inset;
-    border-color: rgb(245, 159, 31);
-    border-width: 10px;
-}
-
-}
 
