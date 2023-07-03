@@ -1,6 +1,7 @@
 h1, h2, h3, h4, h5, h6, p {
   padding: 0px;
 }
+
 .App {
   text-align: center;
   display: flex;
@@ -17,17 +18,30 @@ h1, h2, h3, h4, h5, h6, p {
   background-size: cover;
 }
 
+-- navs
+
 .nav {
   list-style-type: none;
   display: flex;
   flex-direction: row;
   list-style: inside;
 }
+
+.servicesnav{
+  justify-content: center;
+  list-style: none;
+}
+
+.tutorialsnav {
+  display: flex;
+  flex-direction: column;
+  border-style: solid;
+  border-width: thick;
+  border-color: white;
+}
+
+-- links
 .link {
-  color: rgb(255, 255, 255);
-  font-size: 35px;
-  font-weight: bolder;
-  background-color: none;
   margin: 15px;
   margin-bottom: 15px;
   margin-top: 15px;
@@ -54,17 +68,40 @@ h1, h2, h3, h4, h5, h6, p {
   transition: transform 150ms;   
   background-color: rgb(44, 121, 222);
 }
-.servicesnav{
-  justify-content: center;
-  list-style: none;
+.msglink:hover{
+  cursor: pointer;
+  box-shadow: 0 0.4rem 2.4rem 0 rgb(15, 3, 47);
+  transform: translateY(-0.1rem);
+  transition: transform 150ms;   
+  background-color: rgb(11, 149, 187);
+}
+.msglink {
+  color: rgb(225, 244, 9);
+  font-size: 50px;
+  list-style-type: none;
+  padding: 15px;
+  margin: 15px;
+  background-color: none;
 }
 
-.tutorialsnav {
+.github {
+  font-size: 25px;
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.contact {
   display: flex;
   flex-direction: column;
-  border-style: solid;
-  border-width: thick;
-  border-color: white;
+}
+
+.link {
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  font-weight: bolder;
+  background-color: none;
+  list-style-type: none;
 }
 
 .example {
@@ -127,37 +164,24 @@ h1, h2, h3, h4, h5, h6, p {
   animation-duration: 4s;
 }
 
-.msglink:hover{
-  cursor: pointer;
-  box-shadow: 0 0.4rem 2.4rem 0 rgb(15, 3, 47);
-  transform: translateY(-0.1rem);
-  transition: transform 150ms;   
-  background-color: rgb(11, 149, 187);
-}
-.msglink {
-  color: rgb(225, 244, 9);
-  font-size: 50px;
-  list-style-type: none;
-  padding: 15px;
-  margin: 15px;
-  background-color: none;
+.transparent {
+  background-color: rgb(198, 169, 0);
+  border-style: solid;
+  border-width: 7px;
+  border-color: rgb(255, 255, 255);
+  padding: 10px;
+  margin: 10px;
 }
 
-.github {
-  font-size: 25px;
-  color: white;
-  font-weight: bold;
-  text-decoration: none;
+.video-responsive {
+  width: auto;
+  padding: 10px;
+  margin: 10px 10px;
+  border-style: inset;
+  border-color: rgb(245, 159, 31);
+  border-width: 10px;
 }
 
-.title {
-  font-family: 'Dancing Script', cursive;
-}
-
-.contact {
-  display: flex;
-  flex-direction: column;
-}
 
 .black {
   background-color: black;
@@ -173,31 +197,10 @@ h1, h2, h3, h4, h5, h6, p {
   padding: 5px;
   margin-bottom: 5px;
 }
-.hr {
-  padding: 5px;
-  margin: 15px;
-}
-
-.services{
-  background-image: url("https://i.postimg.cc/yNQRTLLy/embdded-dl-blog.jpg");
-  background-color: rgb(9, 0, 0);
-  padding: 10px;
-  margin: 10px;
-}
-
-.hrhr {
-  padding: 15px;
-}
 
 .blue {
   color: rgb(0, 195, 255);
   text-decoration: underline;
-}
-
-.video-responsive {
-  width: auto;
-  padding: 10px;
-  margin: 10px 10px;
 }
 
 .tiny {
@@ -206,11 +209,52 @@ h1, h2, h3, h4, h5, h6, p {
 .tinny {
   font-size: 10px;
 }
-.transparent {
-  background-color: rgb(198, 169, 0);
-  border-style: solid;
-  border-width: 7px;
-  border-color: rgb(255, 255, 255);
+
+.title {
+  font-family: 'Dancing Script', cursive;
+}
+
+
+.hr {
+  padding: 5px;
+  margin: 15px;
+}
+
+.hrhr {
+  padding: 15px;
+}
+
+
+
+.services{
+  background-image: url("https://i.postimg.cc/yNQRTLLy/embdded-dl-blog.jpg");
+  background-color: rgb(9, 0, 0);
   padding: 10px;
   margin: 10px;
 }
+
+
+
+@media (min-width: 700px) {
+  .exampleee {
+    max-width: 600px;
+    height: 500px;
+  }
+  .exampleer {
+    max-width: 650px;
+    height: 500px;
+  }
+  .examplees {
+    max-width: 650px;
+    height: 500px;
+  }
+  .video-responsive {
+    width: 650px;
+    height: 500px;
+    border-style: inset;
+    border-color: rgb(245, 159, 31);
+    border-width: 10px;
+}
+
+}
+

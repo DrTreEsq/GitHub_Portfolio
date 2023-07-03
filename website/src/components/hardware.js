@@ -2,9 +2,10 @@ import React from "react";
 import PropTypes from "prop-types";
 
 const YoutubeEmbed = ({ embedId, embedId3}) => (
-  <div className="video-responsive">
+  <div>
 
-  <iframe
+  <iframe 
+      className="video-responsive"
       width="853"
       height="480"
       src={`https://www.youtube.com/embed/${embedId3}`}
@@ -15,6 +16,7 @@ const YoutubeEmbed = ({ embedId, embedId3}) => (
     />
 
     <iframe
+      className="video-responsive"
       width="853"
       height="480"
       src={`https://www.youtube.com/embed/${embedId}`}

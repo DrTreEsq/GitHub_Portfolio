@@ -26,10 +26,11 @@ export default function Algorithms() {
 
           <p>Tools: NumPy, matplotlib</p>
 
+
           <h4>Results: </h4>
           <img className="exampleer" src="https://i.postimg.cc/prYDswm0/Image-6-6-23-at-12-52-PM.jpg" align="center" alt="X"></img>
+      
           </div>
-
 
 
           <hr></hr>
