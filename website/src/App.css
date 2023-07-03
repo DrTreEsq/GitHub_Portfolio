@@ -1,4 +1,4 @@
-@media (min-width: 100px) and (max-width: 199px){
+@media (min-width: 10px) and (max-width: 199px){
   .exampleee,   .exampleer,   .examplees, 
   .meimg,   .video-responsive {
     max-width: 30px;
@@ -274,8 +274,6 @@ h1, h2, h3, h4, h5, h6, p {
 .hrhr {
   padding: 15px;
 }
-
-
 
 .services{
   background-image: url("https://i.postimg.cc/yNQRTLLy/embdded-dl-blog.jpg");
