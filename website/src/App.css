@@ -1,17 +1,17 @@
 @media (min-width: 100px) and (max-width: 199px){
   .exampleee,   .exampleer,   .examplees, 
   .meimg,   .video-responsive {
-    max-width: 50px;
-    height: 50px;
+    max-width: 30px;
+    height: 30px;
   }
   .video-responsive {
     border-style: inset;
     border-color: rgb(245, 159, 31);
-    border-width: 10px;
+    border-width: 5px;
 }
   img {
-    max-width: 400px;
-    max-height: 350px;
+    max-width: 100px;
+    max-height: 50px;
   }
 
 }
