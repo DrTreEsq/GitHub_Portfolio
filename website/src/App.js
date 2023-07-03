@@ -1,9 +1,11 @@
-import React, { useState, useEffect } from "react";
+import React from "react";  //useState, useEffect } 
 import { Routes, Route } from 'react-router-dom';
 import { Nav, Home, Aboutme, Algorithms, Codes, Consulting, Contact, Education, Skills, Services, Tutorials, YoutubeEmbed, YoutubeEmbed2, YoutubeEmbed3} from './components/index.js'
 import './App.css';
 
 function App() {
+
+/*
   const [message, setMessage] = useState("");
   useEffect(() => {
     fetch("http://localhost:3000/message")
@@ -11,8 +13,9 @@ function App() {
       .then((data) => setMessage(message));
   }, []);
 
-  //fetch failing - get API from node server.
-  //deploy using static web app instead? then won't need a node server?
+//fetch failing - get API from node server.
+ //deploy using static web app instead? then won't need a node server?
+*/
 
   return (
     <div className="App">
