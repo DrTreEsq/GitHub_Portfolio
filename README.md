@@ -82,8 +82,108 @@ A function loads the data into variables `x_train` and `y_train`. x_train` is th
 
 <h4>Code Sample </h4>
 
+  def compute_gradient(x, y, w, b): 
+      """
+      Computes the gradient for linear regression 
+      Args:
+        x (ndarray): Shape (m,) Input to the model (Population of cities) 
+        y (ndarray): Shape (m,) Label (Actual profits for the cities)
+        w, b (scalar): Parameters of the model  
+      Returns
+        dj_dw (scalar): The gradient of the cost w.r.t. the parameters w
+        dj_db (scalar): The gradient of the cost w.r.t. the parameter b     
+       """
+      
+     # Number of training examples
+      m = x.shape[0]
+      
+      # You need to return the following variables correctly
+      dj_dw = 0
+      dj_db = 0
+      
+      for i in range(m):  
+          f_wb = w * x[i] + b 
+          dj_dw_i = (f_wb - y[i]) * x[i] 
+          dj_db_i = f_wb - y[i] 
+          dj_db += dj_db_i
+          dj_dw += dj_dw_i 
+      dj_dw = dj_dw / m 
+      dj_db = dj_db / m
+  
+          
+      return dj_dw, dj_db
 
-    def sigmoid(z):
+    
+      
+<hr></hr>
+
+
+
+<h3>Example 2: Collaborative Recommender System for Movie Recommendations</h3>
+
+<h3>Problem Summary:  </h3>
+
+<p> The goal was to implement the collaborative filtering learning algorithm and apply it to a dataset of movie ratings. </p>
+            
+<p> Dataset: </p>
+<p >
+The data set was derived from the MovieLens "ml-latest-small" dataset.
+The original dataset has  9000 movies rated by 600 users. The dataset has been reduced in size to focus on movies from the years since 2000.
+This dataset consists of ratings on a scale of 0.5 to 5 in 0.5 step increments.
+              
+The reduced dataset has 443 users and 4778 movies.. A function loads the data into variables `x_train` and `y_train`. x_train` is the population of a city.
+`y_train` is the profit of a restaurant in that city. A negative value for profit indicates a loss. Both `X_train` and `y_train` are numpy arrays.
+</p>
+
+
+<p >[F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History and Context. ACM Transactions on Interactive Intelligent Systems (TiiS) 5, 4: 19:1–19:19. https://doi.org/10.1145/2827872]</p>
+          
+<p>Tools: NumPy, TensorFlow, matplotlib</p>
+
+<h4>Code Sample </h4>
+    
+    #  Useful Values
+    num_movies, num_users = Y.shape
+    num_features = 100
+    
+    # Set Initial Parameters (W, X), use tf.Variable to track these variables
+    tf.random.set_seed(1234) # for consistent results
+    W = tf.Variable(tf.random.normal((num_users,  num_features),dtype=tf.float64),  name='W')
+    X = tf.Variable(tf.random.normal((num_movies, num_features),dtype=tf.float64),  name='X')
+    b = tf.Variable(tf.random.normal((1,          num_users),   dtype=tf.float64),  name='b')
+    
+    # Instantiate an optimizer.
+    optimizer = keras.optimizers.Adam(learning_rate=1e-1)
+
+
+        
+
+<hr></hr>
+
+
+<h3>Example 3: Logistic Regression with Gradient Descent - Probability of Admission </h3>
+
+<h3>Problem Summary: </h3>
+  
+<p >  For this exercise, an administrator of a university department wants to determine each applicant’s chance of admission based on their results on two exams by building a classification model that estimates an applicant’s probability of admission based on the scores from those two exams.
+We were provided historical data from previous applicants that was used as a training set for logistic regression.
+For each training example, we have the applicant’s scores on two exams and the admissions decision. </p> 
+
+<p> Dataset: </p>
+<p >
+            A function loads the data into variables `X_train` and `y_train`.
+            `X_train` contains exam scores on two exams for a student.
+            `y_train` is the admission decision.
+            `y_train = 1` if the student was admitted.
+            `y_train = 0` if the student was not admitted. 
+            Both `X_train` and `y_train` are numpy arrays.
+</p>
+
+<p>Tools: NumPy, matplotlib</p>
+
+<h4>Code Sample </h4>
+    
+      def sigmoid(z):
         """
         Compute the sigmoid of z
     
@@ -124,99 +224,9 @@ A function loads the data into variables `x_train` and `y_train`. x_train` is th
       total_cost = cost / m 
 
     return total_cost
+   
+
     
-      
-<hr></hr>
-
-
-
-<h3>Example 2: Collaborative Recommender System for Movie Recommendations</h3>
-
-<h3>Problem Summary:  </h3>
-
-<p> The goal was to implement the collaborative filtering learning algorithm and apply it to a dataset of movie ratings. </p>
-            
-<p> Dataset: </p>
-<p >
-The data set was derived from the MovieLens "ml-latest-small" dataset.
-The original dataset has  9000 movies rated by 600 users. The dataset has been reduced in size to focus on movies from the years since 2000.
-This dataset consists of ratings on a scale of 0.5 to 5 in 0.5 step increments.
-              
-The reduced dataset has 443 users and 4778 movies.. A function loads the data into variables `x_train` and `y_train`. x_train` is the population of a city.
-`y_train` is the profit of a restaurant in that city. A negative value for profit indicates a loss. Both `X_train` and `y_train` are numpy arrays.
-</p>
-
-
-<p >[F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History and Context. ACM Transactions on Interactive Intelligent Systems (TiiS) 5, 4: 19:1–19:19. https://doi.org/10.1145/2827872]</p>
-          
-<p>Tools: NumPy, TensorFlow, matplotlib</p>
-
-<h4>Code Sample </h4>
-
-
-      model = Sequential(
-      [               
-          tf.keras.Input(shape=(400,)),    #specify input size
-          ### START CODE HERE ### 
-          
-          Dense(25, activation='sigmoid', name = 'layer1'),
-          Dense(15, activation='sigmoid', name = 'layer2'),
-          Dense(1, activation='sigmoid', name = 'layer3')
-          
-          
-          ### END CODE HERE ### 
-      ], name = "my_model" 
-    )                            
-      model.summary()
-
-    def my_dense(a_in, W, b, g):
-      """
-      Computes dense layer
-      Args:
-        a_in (ndarray (n, )) : Data, 1 example 
-        W    (ndarray (n,j)) : Weight matrix, n features per unit, j units
-        b    (ndarray (j, )) : bias vector, j units  
-        g    activation function (e.g. sigmoid, relu..)
-      Returns
-        a_out (ndarray (j,))  : j units
-      """
-      units = W.shape[1]
-      a_out = np.zeros(units)
-  
-      for j in range(units):               
-          w = W[:,j]                                    
-          z = np.dot(w, a_in) + b[j]         
-          a_out[j] = g(z)               
-      return(a_out)
-          
-      return(a_out)
-        
-
-<hr></hr>
-
-
-<h3>Example 3: Logistic Regression with Gradient Descent - Probability of Admission </h3>
-
-<h3>Problem Summary: </h3>
-  
-<p >  For this exercise, an administrator of a university department wants to determine each applicant’s chance of admission based on their results on two exams by building a classification model that estimates an applicant’s probability of admission based on the scores from those two exams.
-We were provided historical data from previous applicants that was used as a training set for logistic regression.
-For each training example, we have the applicant’s scores on two exams and the admissions decision. </p> 
-
-<p> Dataset: </p>
-<p >
-            A function loads the data into variables `X_train` and `y_train`.
-            `X_train` contains exam scores on two exams for a student.
-            `y_train` is the admission decision.
-            `y_train = 1` if the student was admitted.
-            `y_train = 0` if the student was not admitted. 
-            Both `X_train` and `y_train` are numpy arrays.
-</p>
-
-<p>Tools: NumPy, matplotlib</p>
-
-<h4>Code Sample </h4>
-      
       
 <hr></hr>
 
@@ -240,7 +250,41 @@ Each pixel is represented by a floating-point number indicating the grayscale in
 <p>Tools: NumPy, TensorFlow, matplotlib</p>
 
 <h4>Code Sample </h4>
-      
+
+      model = Sequential(
+      [               
+          tf.keras.Input(shape=(400,)),    #specify input size
+          
+          Dense(25, activation='sigmoid', name = 'layer1'),
+          Dense(15, activation='sigmoid', name = 'layer2'),
+          Dense(1, activation='sigmoid', name = 'layer3')
+          
+          
+      ], name = "my_model" 
+    )                            
+    model.summary()
+
+    def my_dense(a_in, W, b, g):
+      """
+      Computes dense layer
+      Args:
+        a_in (ndarray (n, )) : Data, 1 example 
+        W    (ndarray (n,j)) : Weight matrix, n features per unit, j units
+        b    (ndarray (j, )) : bias vector, j units  
+        g    activation function (e.g. sigmoid, relu..)
+      Returns
+        a_out (ndarray (j,))  : j units
+      """
+      units = W.shape[1]
+      a_out = np.zeros(units)
+  
+      for j in range(units):               
+          w = W[:,j]                                    
+          z = np.dot(w, a_in) + b[j]         
+          a_out[j] = g(z)               
+      return(a_out)
+          
+      return(a_out)
       
 <hr></hr>
 
@@ -270,6 +314,32 @@ Each pixel is represented by a floating-point number indicating the grayscale in
 <p>Tools: NumPy, matplotlib</p>
 
 <h4>Code Sample </h4>
+
+  def compute_centroids(X, idx, K):
+    """
+    Returns the new centroids by computing the means of the 
+    data points assigned to each centroid.
+    
+    Args:
+        X (ndarray):   (m, n) Data points
+        idx (ndarray): (m,) Array containing index of closest centroid for each 
+                       example in X. Concretely, idx[i] contains the index of 
+                       the centroid closest to example i
+        K (int):       number of centroids
+    
+    Returns:
+        centroids (ndarray): (K, n) New centroids computed
+    """
+    
+    m, n = X.shape
+    
+    centroids = np.zeros((K, n))
+
+    for k in range(K):   
+        points = X[idx == k]
+        centroids[k] = np.mean(points, axis = 0)
+ 
+    return centroids
       
       
 <hr></hr>
@@ -316,6 +386,67 @@ For ease of implementation, we have one-hot encoded the features (turned them in
 
 <h4>Code Sample </h4>
 
+ def compute_entropy(y):
+    """
+    Computes the entropy for 
+    
+    Args:
+       y (ndarray): Numpy array indicating whether each example at a node is
+           edible (`1`) or poisonous (`0`)
+       
+    Returns:
+        entropy (float): Entropy at that node
+        
+    """
+    # You need to return the following variables correctly
+    entropy = 0.
+    
+    ### START CODE HERE ###
+    if len(y) != 0:
+        p1 = len(y[y == 1]) / len(y)
+                              
+        if p1 != 0 and p1 != 1:
+            entropy = -p1 * np.log2(p1) - (1 - p1) * np.log2(1 - p1)
+        else:
+            entropy = 0.
+    ### END CODE HERE ###        
+    
+    return entropy
+
+
+  def get_best_split(X, y, node_indices):   
+      """
+      Returns the optimal feature and threshold value
+      to split the node data 
+      
+      Args:
+          X (ndarray):            Data matrix of shape(n_samples, n_features)
+          y (array like):         list or ndarray with n_samples containing the target variable
+          node_indices (ndarray): List containing the active indices. I.e, the samples being considered in this step.
+  
+      Returns:
+          best_feature (int):     The index of the best feature to split
+      """    
+      
+      # Some useful variables
+      num_features = X.shape[1]
+      
+      # You need to return the following variables correctly
+      best_feature = -1
+      
+      
+      max_info_gain = 0
+  
+      for feature in range(num_features): 
+  
+         info_gain = compute_information_gain(X, y, node_indices, feature)
+  
+         if info_gain > max_info_gain:  
+             max_info_gain = info_gain
+             best_feature = feature
+          
+     
+      return best_feature
 
 <hr></hr>
       
