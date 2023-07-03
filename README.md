@@ -166,8 +166,8 @@ The reduced dataset has 443 users and 4778 movies.. A function loads the data in
           
           ### END CODE HERE ### 
       ], name = "my_model" 
-  )                            
-    model.summary()
+    )                            
+      model.summary()
 
     def my_dense(a_in, W, b, g):
       """
