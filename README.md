@@ -82,7 +82,9 @@ A function loads the data into variables `x_train` and `y_train`. x_train` is th
 
 <h4>Code Sample </h4>
       
-      
+<hr></hr>
+
+
 
 <h3>Example 2: Collaborative Recommender System for Movie Recommendations</h3>
 
@@ -108,8 +110,6 @@ The reduced dataset has 443 users and 4778 movies.. A function loads the data in
 <h4>Code Sample </h4>
       
       
-
-
 
 <hr></hr>
 
@@ -137,6 +137,7 @@ For each training example, we have the applicant’s scores on two exams and the
 <h4>Code Sample </h4>
       
       
+<hr></hr>
 
 
 <h3> Example 4: Neural Network Binary Classification Example - Handwritten Digit Recognition </h3>
@@ -160,6 +161,8 @@ Each pixel is represented by a floating-point number indicating the grayscale in
 <h4>Code Sample </h4>
       
       
+<hr></hr>
+
 
 
 <h3>Example 5: Image Compression Using K-means Clustering</h3>
@@ -188,6 +191,7 @@ Each pixel is represented by a floating-point number indicating the grayscale in
 <h4>Code Sample </h4>
       
       
+<hr></hr>
 
 
 <h3>Example 6: Decision Trees</h3>
@@ -230,5 +234,7 @@ For ease of implementation, we have one-hot encoded the features (turned them in
 <p>Tools: NumPy, matplotlib</p>
 
 <h4>Code Sample </h4>
-      
+
+
+<hr></hr>
       
