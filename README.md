@@ -95,11 +95,35 @@ A function loads the data into variables `x_train` and `y_train`. x_train` is th
              
         """
               
-        ### START CODE HERE ### 
         g = 1/(1+np.exp(-z))
-        ### END SOLUTION ###  
+ 
         
         return g
+
+    def compute_cost(X, y, w, b, *argv):
+    """
+      Computes the cost over all examples
+      Args:
+        X : (ndarray Shape (m,n)) data, m examples by n features
+        y : (ndarray Shape (m,))  target value 
+        w : (ndarray Shape (n,))  values of parameters of the model      
+        b : (scalar)              value of bias parameter of the model
+        *argv : unused, for compatibility with regularized version below
+      Returns:
+        total_cost : (scalar) cost 
+      """
+  
+      m, n = X.shape
+      
+      cost = 0.0
+      for i in range(m):
+          z_i = np.dot(X[i],w) + b
+          f_wb_i = sigmoid(z_i)
+          cost +=  -y[i]*np.log(f_wb_i) - (1-y[i])*np.log(1-f_wb_i)
+               
+      total_cost = cost / m 
+
+    return total_cost
     
       
 <hr></hr>
@@ -128,8 +152,45 @@ The reduced dataset has 443 users and 4778 movies.. A function loads the data in
 <p>Tools: NumPy, TensorFlow, matplotlib</p>
 
 <h4>Code Sample </h4>
-      
-      
+
+
+      model = Sequential(
+      [               
+          tf.keras.Input(shape=(400,)),    #specify input size
+          ### START CODE HERE ### 
+          
+          Dense(25, activation='sigmoid', name = 'layer1'),
+          Dense(15, activation='sigmoid', name = 'layer2'),
+          Dense(1, activation='sigmoid', name = 'layer3')
+          
+          
+          ### END CODE HERE ### 
+      ], name = "my_model" 
+  )                            
+    model.summary()
+
+    def my_dense(a_in, W, b, g):
+      """
+      Computes dense layer
+      Args:
+        a_in (ndarray (n, )) : Data, 1 example 
+        W    (ndarray (n,j)) : Weight matrix, n features per unit, j units
+        b    (ndarray (j, )) : bias vector, j units  
+        g    activation function (e.g. sigmoid, relu..)
+      Returns
+        a_out (ndarray (j,))  : j units
+      """
+      units = W.shape[1]
+      a_out = np.zeros(units)
+  
+      for j in range(units):               
+          w = W[:,j]                                    
+          z = np.dot(w, a_in) + b[j]         
+          a_out[j] = g(z)               
+      return(a_out)
+          
+      return(a_out)
+        
 
 <hr></hr>
 
