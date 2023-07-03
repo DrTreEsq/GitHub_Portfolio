@@ -80,8 +80,8 @@ A function loads the data into variables `x_train` and `y_train`. x_train` is th
 
 <p>Tools: NumPy, matplotlib</p>
 
-<h4>Results: </h4>
-<img src="https://i.postimg.cc/prYDswm0/Image-6-6-23-at-12-52-PM.jpg" align="center" alt="X"></img>
+<h4>Code Sample </h4>
+      
       
 
 <h3>Example 2: Collaborative Recommender System for Movie Recommendations</h3>
@@ -105,8 +105,9 @@ The reduced dataset has 443 users and 4778 movies.. A function loads the data in
           
 <p>Tools: NumPy, TensorFlow, matplotlib</p>
 
-<h3>Results</h3>
-<img src="https://i.postimg.cc/d0FRK7Gy/Image-6-21-23-at-6-32-AM.jpg" align="center" alt="vector"></img>
+<h4>Code Sample </h4>
+      
+      
 
 
 
@@ -133,11 +134,9 @@ For each training example, we have the applicant’s scores on two exams and the
 
 <p>Tools: NumPy, matplotlib</p>
 
-<h3>Results</h3>
-          <img src="https://i.postimg.cc/R0g1Vr6v/figure-1.png" align="center" alt="X"></img>
-          <img src="https://i.postimg.cc/SNcWYY2T/figure-2.png" align="center" alt="X"></img>
-          <img src="https://i.postimg.cc/sXBWjMCJ/figure-3.png" align="center" alt="X"></img>
-          <img src="https://i.postimg.cc/JzPHjN1q/figure-4.png" align="center" alt="X"></img>
+<h4>Code Sample </h4>
+      
+      
 
 
 <h3> Example 4: Neural Network Binary Classification Example - Handwritten Digit Recognition </h3>
@@ -158,8 +157,9 @@ Each pixel is represented by a floating-point number indicating the grayscale in
 
 <p>Tools: NumPy, TensorFlow, matplotlib</p>
 
-<h3>Results</h3>
-<img src="https://i.postimg.cc/4xQt3C7m/1a1cc802-24eb-4d32-9c81-d0fc023ba1c9.png" align="center" alt="vector"></img>
+<h4>Code Sample </h4>
+      
+      
 
 
 <h3>Example 5: Image Compression Using K-means Clustering</h3>
@@ -185,11 +185,9 @@ Each pixel is represented by a floating-point number indicating the grayscale in
 
 <p>Tools: NumPy, matplotlib</p>
 
-<h3>Visuals</h3>
-<img src="https://i.postimg.cc/HW9K8vPb/figure-1.png" align="center" alt="vector"></img>
-<img src="https://i.postimg.cc/0yRwgZPH/figure-2.png" align="center" alt="vector"></img>
-<img src="https://i.postimg.cc/cJdHc99t/b3bffb1d-74e9-450a-95b4-27b577b99c31.png" align="center" alt="vector"></img>
-<img src="https://i.postimg.cc/0QBzV0Vn/figure-3.png" align="center" alt="vector"></img>
+<h4>Code Sample </h4>
+      
+      
 
 
 <h3>Example 6: Decision Trees</h3>
@@ -231,7 +229,6 @@ For ease of implementation, we have one-hot encoded the features (turned them in
 
 <p>Tools: NumPy, matplotlib</p>
 
-<h3>Results</h3>
-<img src="https://i.postimg.cc/yNqGrSJm/3a01de74-da4f-4b08-9dc8-21a38fc6822a.jpg" align="center" alt="vector"></img>
-<img src="https://i.postimg.cc/zDp4Wymk/Image-6-21-23-at-5-54-AM.jpg" align="center" alt="vector"></img>
-<img src="https://i.postimg.cc/7hLsXNvn/Image-6-21-23-at-5-55-AM.jpg" align="center" alt="vector"></img>
+<h4>Code Sample </h4>
+      
+      
