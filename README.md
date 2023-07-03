@@ -81,6 +81,24 @@ A function loads the data into variables `x_train` and `y_train`. x_train` is th
 <p>Tools: NumPy, matplotlib</p>
 
 <h4>Code Sample </h4>
+
+      def sigmoid(z):
+          """
+          Compute the sigmoid of z
+      
+          Args:
+              z (ndarray): A scalar, numpy array of any size.
+      
+          Returns:
+              g (ndarray): sigmoid(z), with the same shape as z
+               
+          """
+                
+          ### START CODE HERE ### 
+          g = 1/(1+np.exp(-z))
+          ### END SOLUTION ###  
+          
+          return g
       
 <hr></hr>
 
