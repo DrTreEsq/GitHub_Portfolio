@@ -21,7 +21,7 @@ Currently Enhancing IT, Cloud, and Mathematic Skills in pursuit of MS in Compute
 </h3>
 
 <h4 align="center">
-Side project: working towwards PhD of Physics (focused on Quantum physics and Relativity).
+Side project: working towards PhD of Physics (focused on Quantum physics and Relativity).
 </h4>
 
 <h5 align="center">
