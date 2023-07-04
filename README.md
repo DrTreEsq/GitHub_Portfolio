@@ -47,7 +47,8 @@ Currently Enhancing IT and Cloud Skills, Mathematic skills, and Physics Skills i
 1. B.S. in Healthcare Management & attended Fordham Law school for one year before being consumed by my passion for S.T.E.M.
 2. General Assembly: Full Stack Software Engineering, May 2023
 3. Stanford & DeepLearning.AI: Machine Learning Specialization Certificate, June 2023
-4. Preparing for Graduate Education in Artificial Intelligence/Machine Learning/Computer Science!
+4. DeepLearning.AI: Mathematics for Machine Learning and Data Science. July 2023
+5. IBM: Information Technology (IT) and Cloud Fundamentals Specialization, August 2023
 
 <h3 align="center">
 3. PROJECTS
