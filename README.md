@@ -17,8 +17,16 @@ Computer Scientist README.md Portfolio
 </img>
 
 <h3 align="center">
-Currently Enhancing IT and Cloud Skills, Mathematic skills, and Physics Skills in pursuit of MS (Computer Science) and PhD of Physics (focused on Quantum physics and Relativity). Fun fact: Everything I do is tied back to Ethics!
+Currently Enhancing IT and Cloud Skills, Mathematic skills, and Physics Skills in pursuit of MS (Computer Science)
 </h3>
+
+<h4 align="center">
+Side project: working towwards PhD of Physics (focused on Quantum physics and Relativity).
+</h4>
+
+<h5 align="center">
+Fun fact: Everything I do is tied back to Ethics!
+</h5>
 
 ###### Welcome, Earthling! My name is Trey and I am an educator and forever student with a goal of learning each valuable skill necessary to pioneer the change that I wish to see in the world. I have a wide range of abilities stemming from my diverse work background, education, and additional academic interests ranging from neuroscience, programming, to the history of mankind and more. I hope to continually gain experience to grow myself professionally and offer the same to the organizations that I work with as I work towards a greater goal of personal development and global change.
 
