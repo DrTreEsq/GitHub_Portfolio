@@ -1,6 +1,5 @@
-@media (min-width: 10px) and (max-width: 199px){
-  .exampleee,   .exampleer,   .examplees, 
-  .meimg,   .video-responsive {
+@media (min-width: 10px) and (max-width: 299px){
+  .exampleee,   .exampleer , .examplees, .examplee, .meimg, .transparent .video-responsive {
     max-width: 30px;
     height: 30px;
   }
@@ -13,12 +12,14 @@
     max-width: 10px;
     height: 10px;
   }
-
+  .App {
+    min-width: 150px;
+  }
 }
 
 @media (min-width: 200px)  and (max-width: 800px){
-  .exampleee,   .exampleer , .exampleer, .examplee, .meimg, .transparent{
-    width: 1400px;
+  .exampleee,   .exampleer , .examplees, .examplee, .meimg, .transparent .video-responsive{
+    width: fit-content;
     max-height: 350px;
   }
   .video-responsive {
@@ -29,16 +30,18 @@
     max-width: 400px;
     max-height: 350px;
   }
+  .App {
+    min-width: 650px;
+  }
 
 }
 
 @media (min-width: 801px) and (max-width: 1300px) {
-  .exampleee,   .exampleer,   .examplees {
+  .exampleee,   .exampleer , .examplees, .examplee, .meimg, .transparent .video-responsive{
     max-width: 700px;
     max-height: 600px;
   }
   .video-responsive {
-
     width: 2000px;
     max-height: 300px;
   }
@@ -67,7 +70,7 @@ h1, h2, h3, h4, h5, h6, p {
   background-size: cover;
 }
 
--- navs
+
 
 .nav {
   list-style-type: none;
@@ -89,7 +92,8 @@ h1, h2, h3, h4, h5, h6, p {
   border-color: white;
 }
 
--- links
+
+
 .link {
   margin: 15px;
   margin-bottom: 15px;
