@@ -22,8 +22,8 @@ export default function Codes() {
           serving as a virtual tutor in The Virtual Detention</p>
 
        <h3>Snapshots</h3>
-       <img className="examplees" src="https://i.imgur.com/9qRZRqA.jpg" align="center" alt="capstone1"></img>
-       <img className="examplees" src="https://i.imgur.com/QDDD5Vu.jpg" align="center" alt="capstone2"></img>
+       <img className="exampleer" src="https://i.imgur.com/9qRZRqA.jpg" align="center" alt="capstone1"></img>
+       <img className="exampleer" src="https://i.imgur.com/QDDD5Vu.jpg" align="center" alt="capstone2"></img>
        
       </div>
     )

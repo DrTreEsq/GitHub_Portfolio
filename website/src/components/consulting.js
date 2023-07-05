@@ -18,14 +18,14 @@ export default function Consulting() {
             <p className="tiny">I often use Google Sheets and Microsoft Excel for tracking. There are many great options out there like  Trello, Asana, and more depending on the project.
               I personally use these often because it allows me to construct a pretty unique system to each project that is free from software limitation.
               I am however very familiar with these other planning sites and can adapt to whatever those I work with use. </p>
-            <img className="examplees" src="https://i.imgur.com/ZMeXgZ0.jpg"  align="center" alt="tracking1"></img>
-            <img className="examplees" src="https://i.postimg.cc/N0Kqp4CT/Image-5-31-23-at-3-38-PM.jpg"  align="center" alt="tracking2"></img>
+            <img className="exampleer" src="https://i.imgur.com/ZMeXgZ0.jpg"  align="center" alt="tracking1"></img>
+            <img className="exampleer" src="https://i.postimg.cc/N0Kqp4CT/Image-5-31-23-at-3-38-PM.jpg"  align="center" alt="tracking2"></img>
             </div>
 
             <h3 className="white">Snapshots of project planning/scope management I worked on</h3>
             <div className="black">
-            <img className="examplees" src="https://i.postimg.cc/hjxFqGBt/Image-5-31-23-at-3-37-PM.jpg" align="center" alt="scope1"></img>
-            <img className="examplees" src="https://i.postimg.cc/CKrkkjzz/Image-5-31-23-at-3-37-PM-1.jpg" align="center" alt="scope2"></img>
+            <img className="exampleer" src="https://i.postimg.cc/hjxFqGBt/Image-5-31-23-at-3-37-PM.jpg" align="center" alt="scope1"></img>
+            <img className="exampleer" src="https://i.postimg.cc/CKrkkjzz/Image-5-31-23-at-3-37-PM-1.jpg" align="center" alt="scope2"></img>
             </div>
           
         </div>
