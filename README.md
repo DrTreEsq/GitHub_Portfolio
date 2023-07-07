@@ -62,7 +62,7 @@ Fun fact: Everything I do is tied back to Ethics!
 3. PROJECTS
 </h3>
 
-1. Full-Stack Capstone - deploying and adding more functionality!
+1. Full-Stack Capstone - SITE LINK: https://proud-plant-0981ce810.3.azurestaticapps.net/
 ![image](https://i.imgur.com/9qRZRqA.jpg)
 ![image](https://i.imgur.com/QDDD5Vu.jpg)
 ###### these are screenshots from my Full Stack Capstone.
