@@ -14,7 +14,8 @@ export default function Codes() {
         of traditional classrooms for "poor classroom performance" so they can learn on their own time! </p>
 
         <h3>ToolKit</h3>
-        <p className="black">TensorFlow BERT Model from TensorFlowHub w/ Tensorflow cpu, WebGL, Node.js, React.js & Azure to deploy
+        <p className="black">TensorFlow BERT Model from TensorFlowHub w/ Tensorflow cpu, WebGL, Node.js, React.js & Azure to deploy. I also used axios to fetch 3rd party API
+        from NASA.
           TensorFlow models are BERT Q&A models for Natural Language Question Answering: Answer questions based off content of a given passage,
           serving as a virtual tutor in The Virtual Classroom Detention</p>
         <a className="github" href="https://github.com/TREYCSE/Virtual_Classroom/tree/main"> GitHub Link - click here to go to developer repo for this project | </a>
