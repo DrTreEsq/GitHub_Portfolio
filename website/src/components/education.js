@@ -17,7 +17,7 @@ export default function Education() {
           <h3 className="blue"> Currently Enrolled in </h3>
           <h4> ✡ IBM: Information Technology (IT) and Cloud Fundamentals Specialization Certificate</h4>
           <h4> ✡ DeepLearning.AI: Mathematics for Machine Learning and Data Science Specialization Certificate</h4>
-          <h5> ❂ Working Towards MS in Computer Science next Fall ❂ </h5>
+          <h5> ❂ Working Towards PhD in Technology next Fall ❂ </h5>
           
 
           <h3 className="blue">Positions open to</h3>
