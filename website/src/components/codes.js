@@ -20,7 +20,6 @@ export default function Codes() {
           serving as a virtual tutor in The Virtual Classroom Detention</p>
         <a className="github" href="https://proud-plant-0981ce810.3.azurestaticapps.net/"> Site Link - click here to to the Virtual Class! </a>
 
-        <hr> </hr>
         <img className="exampleer" src="https://i.postimg.cc/vmQfCVr6/0954-CFAF-BFE4-42-A3-BDDF-84-C940473277-1-201-a.jpg" align="center" alt="capstone1"></img>
 
        <h3>Snapshots</h3>
