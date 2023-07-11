@@ -18,7 +18,6 @@ export default function Codes() {
         from NASA.
           TensorFlow models are BERT Q&A models for Natural Language Question Answering: Answer questions based off content of a given passage,
           serving as a virtual tutor in The Virtual Classroom Detention</p>
-        <a className="github" href="https://github.com/TREYCSE/Virtual_Classroom/tree/main"> GitHub Link - click here to go to developer repo for this project | </a>
         <a className="github" href="https://proud-plant-0981ce810.3.azurestaticapps.net/"> Site Link - click here to to the Virtual Class! </a>
 
        <h3>Snapshots</h3>
