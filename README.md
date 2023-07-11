@@ -37,7 +37,7 @@ Fun fact: Everything I do is tied back to Ethics!
 ###### My Go-tos: TensorFlow, Numpy, Node.js, React.js, MongoDB, Express, etc.
 1. Programming: Python, Javascript, React, Node, MongoDB
 2. Data Science & Machine Learning | AI: NumPy, TensorFlow, etc.
-3. Cloud and Big Data tools: becoming familiar with Heroku, Azure, LangChain, Spark, and more. 
+3. Cloud and Big Data tools: Heroku, Azure, AWS and more. 
 
 
 <h3 align="center">
