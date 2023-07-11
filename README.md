@@ -17,7 +17,7 @@ Computer Scientist README.md Portfolio
 </img>
 
 <h3 align="center">
-Currently Enhancing IT, Cloud, and Mathematic Skills in pursuit of MS in Computer Science
+Currently Enhancing IT, Cloud, and Mathematic Skills in pursuit of PhD of Technology
 </h3>
 
 <h4 align="center">
