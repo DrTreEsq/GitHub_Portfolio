@@ -55,8 +55,10 @@ Fun fact: Everything I do is tied back to Ethics!
 1. B.S. in Healthcare Management & attended Fordham Law school for one year before being consumed by my passion for S.T.E.M.
 2. General Assembly: Full Stack Software Engineering, May 2023
 3. Stanford & DeepLearning.AI: Machine Learning Specialization Certificate, June 2023
-4. DeepLearning.AI: Mathematics for Machine Learning and Data Science. July 2023
-5. IBM: Information Technology (IT) and Cloud Fundamentals Specialization, August 2023
+###### repo: https://github.com/TREYCSE/Stanford_Learning_Algorithms
+5. DeepLearning.AI: Mathematics for Machine Learning and Data Science. July 2023
+###### repo: https://github.com/TREYCSE/DeepLearning_Math/tree/main
+6. IBM: Information Technology (IT) and Cloud Fundamentals Specialization, August 2023
 
 <h3 align="center">
 3. PROJECTS
@@ -81,6 +83,8 @@ Fun fact: Everything I do is tied back to Ethics!
   }
 
 2. Stanford Machine Learning Specialization Algorithms
+
+###### repo: https://github.com/TREYCSE/DeepLearning_Math/tree/main
 
 <h3> Example 1: Linear Regression Example - Market Analysis for Profit Prediction </h3>
 
