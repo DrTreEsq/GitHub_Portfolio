@@ -64,7 +64,7 @@ Fun fact: Everything I do is tied back to Ethics!
 3. PROJECTS
 </h3>
 
-1. Full-Stack Capstone - SITE LINK: https://proud-plant-0981ce810.3.azurestaticapps.net/
+1. Software Engineering Capstone - SITE LINK: https://proud-plant-0981ce810.3.azurestaticapps.net/, GITHUB: https://github.com/TREYCSE/Virtual_Classroom
 ![image](https://i.imgur.com/9qRZRqA.jpg)
 ![image](https://i.imgur.com/QDDD5Vu.jpg)
 ###### these are screenshots from my Full Stack Capstone.
@@ -81,6 +81,7 @@ Fun fact: Everything I do is tied back to Ethics!
         console.log(answers)
     }
   }
+
 
 2. Stanford Machine Learning Specialization Algorithms
 
