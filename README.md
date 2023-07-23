@@ -85,7 +85,7 @@ Fun fact: Everything I do is tied back to Ethics!
 
 2. Stanford Machine Learning Specialization Algorithms
 
-###### repo: https://github.com/TREYCSE/DeepLearning_Math/tree/main
+###### repo: https://github.com/TREYCSE/Stanford_Learning_Algorithms
 
 <h3> Example 1: Linear Regression Example - Market Analysis for Profit Prediction </h3>
 
