@@ -67,7 +67,7 @@ Fun fact: Everything I do is tied back to Ethics!
 1. Software Engineering Capstone - SITE LINK: https://proud-plant-0981ce810.3.azurestaticapps.net/, GITHUB: https://github.com/TREYCSE/Virtual_Classroom
 ![image](https://i.imgur.com/9qRZRqA.jpg)
 ![image](https://i.imgur.com/QDDD5Vu.jpg)
-###### these are screenshots from my Full Stack Capstone.
+###### these are screenshots from my Capstone.
 <h4>Code Sample</h4>
 
       const answerQuestion = async() => {
