@@ -17,7 +17,7 @@ Computer Scientist README.md Portfolio
 </img>
 
 <h3 align="center">
-Mathematic and TensorFlow Skills in pursuit of PhD of Technology concentrated in Artificial Intelligence
+Currently enhancing Mathematic and TensorFlow Skills in pursuit of PhD of Technology concentrated in Artificial Intelligence
 </h3>
 
 <h4 align="center">
