@@ -59,6 +59,8 @@ Fun fact: Everything I do is tied back to Ethics!
 5. DeepLearning.AI: Mathematics for Machine Learning and Data Science. August 2023
 ###### repo: https://github.com/TREYCSE/DeepLearning_Math/tree/main
 6. DeepLearning.AI: TensorFlow Developer Professional Certificate, September 2023
+7. DeepLearning.AI: Machine Learning Engineering for Production Specialization, November 2023
+8. Duke University: Python, BASH, and SQL Essentials for Data Engineering Specialization, December 2023
 
 <h3 align="center">
 3. PROJECTS
