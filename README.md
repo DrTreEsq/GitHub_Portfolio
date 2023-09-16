@@ -50,9 +50,7 @@ Fun fact: Everything I do is tied back to Ethics!
 <h4 align="center">
   DeepLearning.AI Mathematics for Machine Learning and Data Science Specialization
 </h4>
-<img src="https://ibb.co/L0xWkwd" align="center"></img>
-
-<a href="https://ibb.co/L0xWkwd"><img src="https://i.ibb.co/p1f80Dj/Image-9-16-23-at-6-02-PM.jpg" alt="Image-9-16-23-at-6-02-PM" border="0" /></a>
+<img src="https://i.postimg.cc/gJcGQwxT/Image-9-16-23-at-6-02-PM.jpg" align="center"></img>
 
 1. B.S. in Healthcare Management & attended Fordham Law school for one year before being consumed by my passion for S.T.E.M.
 2. General Assembly: Full Stack Software Engineering, May 2023
