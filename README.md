@@ -17,12 +17,8 @@ Computer Scientist README.md Portfolio
 </img>
 
 <h3 align="center">
-Currently enhancing Mathematic and TensorFlow Skills in pursuit of PhD of Technology concentrated in Artificial Intelligence
+Currently enhancing Mathematic and TensorFlow Skills in pursuit of PhD of Computer Science concentrated in Artificial Intelligence
 </h3>
-
-<h4 align="center">
-Side project: also working towards PhD of Physics (focused on Quantum physics and Relativity).
-</h4>
 
 <h5 align="center">
 Fun fact: Everything I do is tied back to Ethics!
@@ -55,6 +51,8 @@ Fun fact: Everything I do is tied back to Ethics!
   DeepLearning.AI Mathematics for Machine Learning and Data Science Specialization
 </h4>
 <img src="https://ibb.co/L0xWkwd" align="center"></img>
+
+<a href="https://ibb.co/L0xWkwd"><img src="https://i.ibb.co/p1f80Dj/Image-9-16-23-at-6-02-PM.jpg" alt="Image-9-16-23-at-6-02-PM" border="0" /></a>
 
 1. B.S. in Healthcare Management & attended Fordham Law school for one year before being consumed by my passion for S.T.E.M.
 2. General Assembly: Full Stack Software Engineering, May 2023
