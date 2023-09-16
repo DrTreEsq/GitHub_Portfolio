@@ -4,13 +4,17 @@ export default function Education() {
           <img className="example" src="https://i.postimg.cc/rwQZ3rN5/Image-6-29-23-at-6-41-PM.jpg" align="center" alt="vector"></img>
 
           <hr></hr>
-
           <img className="example" src="https://i.postimg.cc/3Jrk9k3k/Image-6-20-23-at-7-27-AM.jpg" align="center" alt="vector"></img>
+          <hr></hr>
 
+          <img className="example" src="https://i.postimg.cc/gJcGQwxT/Image-9-16-23-at-6-02-PM.jpg" align="center" alt="vector"></img>
+          <hr></hr>
+        
           <h3 className="blue"> Completed Education </h3>
           <h4> ✡ B.S. in Healthcare Management & attended Fordham Law School for one year before being consumed by my passion for S.T.E.M.</h4>
           <h4> ✡ General Assembly: Full Stack Software Engineering </h4>
           <h4> ✡ Stanford & DeepLearning.AI: Machine Learning Specialization Certificate </h4>
+
 
           <hr className="hrh"></hr>
 
