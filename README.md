@@ -51,16 +51,19 @@ Fun fact: Everything I do is tied back to Ethics!
   Stanford Online Machine Learning Specialization
 </h4>
 <img src="https://i.postimg.cc/3Jrk9k3k/Image-6-20-23-at-7-27-AM.jpg" align="center"> </img>
+<h4 align="center">
+  DeepLearning.AI Mathematics for Machine Learning and Data Science Specialization
+</h4>
+<img src="https://ibb.co/L0xWkwd" align="center"></img>
 
 1. B.S. in Healthcare Management & attended Fordham Law school for one year before being consumed by my passion for S.T.E.M.
 2. General Assembly: Full Stack Software Engineering, May 2023
 3. Stanford & DeepLearning.AI: Machine Learning Specialization Certificate, June 2023
-###### repo: https://github.com/TREYCSE/Stanford_Learning_Algorithms
-5. DeepLearning.AI: Mathematics for Machine Learning and Data Science. August 2023
-###### repo: https://github.com/TREYCSE/DeepLearning_Math/tree/main
-6. DeepLearning.AI: TensorFlow Developer Professional Certificate, September 2023
-7. DeepLearning.AI: Machine Learning Engineering for Production Specialization, November 2023
-8. Duke University: Python, BASH, and SQL Essentials for Data Engineering Specialization, December 2023
+5. DeepLearning.AI: Mathematics for Machine Learning and Data Science, September 2023
+6. Duke University: Python, BASH, and SQL Essentials for Data Engineering Specialization, October 2023
+7. University of Colorodo at Bouler: Mind and Machine Specialization, October 2023
+8. DeepLearning.AI: TensorFlow Developer Data and Deployment Specialization Certificate, December 2023
+9. DeepLearning.AI: TensorFlow Developer Professional Certificate, December 2023
 
 <h3 align="center">
 3. PROJECTS
