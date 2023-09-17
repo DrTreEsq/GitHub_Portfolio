@@ -14,14 +14,16 @@ export default function Education() {
           <h4> ✡ B.S. in Healthcare Management & attended Fordham Law School for one year before being consumed by my passion for S.T.E.M.</h4>
           <h4> ✡ General Assembly: Full Stack Software Engineering </h4>
           <h4> ✡ Stanford & DeepLearning.AI: Machine Learning Specialization Certificate </h4>
-
-
+          <h4> ✡ DeepLearning.AI: Mathematics for Machine Learning and Data Science Specialization Certificate</h4>
+        
           <hr className="hrh"></hr>
 
           <h3 className="blue"> Currently Enrolled in </h3>
-          <h4> ✡ DeepLearning.AI: Mathematics for Machine Learning and Data Science Specialization Certificate</h4>
-          <h4> ✡ DeepLearning.AI: TensorFlow Developer Professional Certificate</h4>
-          <h5> ❂ Working Towards PhD in Technology next Fall ❂ </h5>
+          <h4> ✡ Duke University: Python, BASH, and SQL Essentials for Data Engineering Specialization</h4>
+          <h4> ✡ University of Colorado Boulder: Mind and Machine Specialization</h4>
+          <h4> ✡ DeepLearning.AI: TensorFlow Data and Deployment Specialization</h4>
+          <h4> ✡ DeepLearning.AI: Tensorflow Developer Professional Certificate</h4>
+          <h5> ❂ Working Towards PhD in Computer Science ❂ </h5>
           
 
           <h3 className="blue">Positions open to</h3>
