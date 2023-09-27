@@ -48,7 +48,7 @@ Currently enhancing TensorFlow, Data Scraping, and other skills in pursuit of Ph
 </h4>
 <img src="https://i.postimg.cc/gJcGQwxT/Image-9-16-23-at-6-02-PM.jpg" align="center"></img>
 
-1. B.S. in Healthcare Management & attended Fordham Law school for one year before being consumed by my passion for S.T.E.M.
+1. B.S. in Healthcare Management
 2. General Assembly: Full Stack Software Engineering, May 2023
 3. Stanford & DeepLearning.AI: Machine Learning Specialization Certificate, June 2023
 5. DeepLearning.AI: Mathematics for Machine Learning and Data Science, September 2023
