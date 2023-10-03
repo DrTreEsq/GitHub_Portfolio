@@ -54,8 +54,10 @@ Currently enhancing TensorFlow, Data Scraping, and other skills in pursuit of Ph
 5. DeepLearning.AI: Mathematics for Machine Learning and Data Science, September 2023
 6. Duke University: Python, BASH, and SQL Essentials for Data Engineering Specialization, October 2023
 7. University of Colorodo at Bouler: Mind and Machine Specialization, October 2023
-8. DeepLearning.AI: TensorFlow Developer Data and Deployment Specialization Certificate, December 2023
-9. DeepLearning.AI: TensorFlow Developer Professional Certificate, December 2023
+8. Google: Data Analysis Professional Certificate, November 2023
+9. Google: Data Engineering Professional Certificate, December 2023
+10. DeepLearning.AI: TensorFlow Developer Data and Deployment Specialization Certificate, Spring 2024
+11. DeepLearning.AI: TensorFlow Developer Professional Certificate, Spring 2024
 
 <h3 align="center">
 3. PROJECTS
