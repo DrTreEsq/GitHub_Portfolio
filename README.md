@@ -27,8 +27,8 @@ Currently enhancing Data, TensorFlow, and other skills in pursuit of PhD of Comp
 </h3>
 
 ###### My Go-tos: TensorFlow, Numpy, Node.js, React.js, MongoDB, Express, etc.
-1. Data Science / Engineering / Analysis| AI: NumPy, TensorFlow, etc.
-2. Machine Learning: Python, Tensorflow, Scipy, matplotlib
+1. Data Science / Engineering / Analysis/ AI: Python, Linux, BASH, NumPy, SQL, scrapy, etc.
+2. Machine Learning: Python, Tensorflow, Scipy, matplotlib, etc.
 3. Cloud and Big Data tools: Heroku, Azure, AWS and more.
 4. Web Dev: MERN - Javascript/react, MongoDB, etc.
 
