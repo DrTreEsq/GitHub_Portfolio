@@ -1,6 +1,6 @@
 import React from "react";  //useState, useEffect } 
 import { Routes, Route } from 'react-router-dom';
-import { Nav, Home, Aboutme, Algorithms, Codes, Consulting, Contact, Education, Skills, Services, Tutorials, YoutubeEmbed, YoutubeEmbed2, YoutubeEmbed3} from './components/index.js'
+import { Nav, Home, Aboutme, Algorithms, Codes, Consulting, Contact, Data, Education, Skills, Services, Tutorials, YoutubeEmbed, YoutubeEmbed2, YoutubeEmbed3} from './components/index.js'
 import './App.css';
 
 function App() {
@@ -19,13 +19,14 @@ function App() {
 
   return (
     <div className="App">
-      <Nav Home="/" Aboutme="/aboutme" Algorithms="/algorithms" Codes="/codes" Consulting="/consulting" Contact="/contact" Education="/education" Skills="/skills" Services="/services"
+      <Nav Home="/" Aboutme="/aboutme" Algorithms="/algorithms" Codes="/codes" Consulting="/consulting" Contact="/contact" Data="/data" Education="/education" Skills="/skills" Services="/services"
       Tutorials="/tutorials" YoutubeEmbed="/hardware" YoutubeEmbed2="neural_networks" YoutubeEmbed3="/production"/>
 
       <Routes>
         <Route path="/" element={<Home />}/>
         <Route path="/aboutme" element={<Aboutme />}/>
         <Route path="/algorithms" element={<Algorithms />}/> 
+        <Route path="/data" element={<Data />}/> 
         <Route path="/codes" element={<Codes />}/>
         <Route path="/consulting" element={<Consulting />}/> 
         <Route path="/contact" element={<Contact />}/> 
