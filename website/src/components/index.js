@@ -8,6 +8,7 @@ import Algorithms from "./algorithms.js";
 import Codes from "./codes.js";
 import Consulting from "./consulting.js"
 import Contact from "./contact.js"
+import Data from "./data.js";
 import Education from "./education.js"
 import Skills from "./skills.js"
 import Services from "./services.js"
@@ -23,6 +24,7 @@ export {
   Codes,
   Consulting,
   Contact,
+  Data,
   Education,
   Skills,
   Services,
