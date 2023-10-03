@@ -19,11 +19,11 @@ export default function Education() {
           <hr className="hrh"></hr>
 
           <h3 className="blue"> Currently Enrolled in </h3>
-          <h4> ✡ Duke University: Python, BASH, and SQL Essentials for Data Engineering Specialization</h4>
-          <h4> ✡ University of Colorado Boulder: Mind and Machine Specialization</h4>
+          <h4> ✡ Google: Data Analysis Professional Certificate </h4>
+          <h4> ✡ Google: Data Engineer Professional Certificate </h4>
           <h4> ✡ DeepLearning.AI: TensorFlow Data and Deployment Specialization</h4>
           <h4> ✡ DeepLearning.AI: Tensorflow Developer Professional Certificate</h4>
-          <h5> ❂ Working Towards PhD in Computer Science ❂ </h5>
+          <h5> ❂ Working Towards PhD in Computer Science focused on ethical data-driven AI ❂ </h5>
           
 
           <h3 className="blue">Positions open to</h3>
