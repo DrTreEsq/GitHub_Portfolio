@@ -8,7 +8,7 @@ export default function Navd({Data, Algorithms, Codes, Consulting}) {
           <hr></hr>
           <Link className="link2 black" to={Data}> Data Engineering and Analysis  </Link>
             <div className="black">
-            <p className="tiny">🌘Data Engineering: SQL, Pythonm, and mores</p>
+            <p className="tiny">🌘Data Engineering: web scraping, database management and more with SQL, Python, etc.</p>
             <p className="tiny">🌖Data Analysis:  </p>
             </div>
 
