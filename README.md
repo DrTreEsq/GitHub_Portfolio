@@ -64,6 +64,9 @@ Currently enhancing Data, TensorFlow, and other skills in pursuit of PhD of Comp
 3. PROJECTS
 </h3>
 
+###### Web Scraper and SQL database in progress - links to repos coming soon‼️🤖
+
+
 1. Software Engineering Capstone - SITE LINK: https://proud-plant-0981ce810.3.azurestaticapps.net/, GITHUB: https://github.com/TREYCSE/Virtual_Classroom
 ![image](https://i.imgur.com/9qRZRqA.jpg)
 ![image](https://i.imgur.com/QDDD5Vu.jpg)
