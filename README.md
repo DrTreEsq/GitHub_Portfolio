@@ -59,7 +59,7 @@ Currently enhancing Data, TensorFlow, and other skills in pursuit of PhD of Comp
 9. Google: Data Engineering Professional Certificate, December 2023
 10. DeepLearning.AI: TensorFlow Developer Data and Deployment Specialization Certificate, Spring 2024
 11. DeepLearning.AI: TensorFlow Developer Professional Certificate, Spring 2024
-12. Google: Cybersecurity Professional Certificate, Fall
+12. Google: Cybersecurity Professional Certificate, Fall 2024
 
 <h3 align="center">
 3. PROJECTS
