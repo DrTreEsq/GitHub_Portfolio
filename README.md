@@ -54,11 +54,12 @@ Currently enhancing Data, TensorFlow, and other skills in pursuit of PhD of Comp
 3. Stanford & DeepLearning.AI: Machine Learning Specialization Certificate, June 2023
 5. DeepLearning.AI: Mathematics for Machine Learning and Data Science, September 2023
 6. Duke University: Python, BASH, and SQL Essentials for Data Engineering Specialization, October 2023
-7. University of Colorodo at Bouler: Mind and Machine Specialization, October 2023
+7. University of Colorodo at Boulder: Mind and Machine Specialization, October 2023
 8. Google: Data Analysis Professional Certificate, November 2023
 9. Google: Data Engineering Professional Certificate, December 2023
 10. DeepLearning.AI: TensorFlow Developer Data and Deployment Specialization Certificate, Spring 2024
 11. DeepLearning.AI: TensorFlow Developer Professional Certificate, Spring 2024
+12. Google: Cybersecurity Professional Certificate, Fall
 
 <h3 align="center">
 3. PROJECTS
