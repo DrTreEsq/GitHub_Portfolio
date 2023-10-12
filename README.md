@@ -76,7 +76,7 @@ Currently enhancing skills in pursuit of PhD of Engineering - Quantum AI
 
 
 
-2. Stanford Machine Learning Specialization Algorithms
+2. MACHINE LEARNING ALGORITHMS
 
 ###### repo: https://github.com/TREYCSE/Stanford_Learning_Algorithms
 
