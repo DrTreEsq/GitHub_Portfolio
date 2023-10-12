@@ -69,6 +69,10 @@ Currently enhancing skills in pursuit of PhD of Engineering - Quantum AI
 
 ###### Web Scraper and SQL database in progress - links to repos coming soon‼️🤖
 
+<a href="https://github.com/TREYCSE/Web_Scraper_csv"> WEB SCRAPER IN PROGRESS </a>
+
+<a href="https://github.com/TREYCSE/Data_SQL"> I HAVE BARELY STARTED THIS - GIVE ME ONE MOMENT PLEASE, MASTERMINDING IN PROGRESS 🤖 </a>
+
 
 1. Software Engineering Capstone - SITE LINK: https://proud-plant-0981ce810.3.azurestaticapps.net/, GITHUB: https://github.com/TREYCSE/Virtual_Classroom
 ![image](https://i.imgur.com/9qRZRqA.jpg)
