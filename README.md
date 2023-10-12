@@ -67,30 +67,13 @@ Currently enhancing skills in pursuit of PhD of Engineering - Quantum AI
 3. PROJECTS
 </h3>
 
+1. DATA ENGINEERING & ANALYSIS
 ###### Web Scraper and SQL database in progress - links to repos coming soon‼️🤖
 
 <a href="https://github.com/TREYCSE/Web_Scraper_csv"> WEB SCRAPER IN PROGRESS </a>
 
 <a href="https://github.com/TREYCSE/Data_SQL"> I HAVE BARELY STARTED THIS - GIVE ME ONE MOMENT PLEASE, MASTERMINDING IN PROGRESS 🤖 </a>
 
-
-1. Software Engineering Capstone - SITE LINK: https://proud-plant-0981ce810.3.azurestaticapps.net/, GITHUB: https://github.com/TREYCSE/Virtual_Classroom
-![image](https://i.imgur.com/9qRZRqA.jpg)
-![image](https://i.imgur.com/QDDD5Vu.jpg)
-###### these are screenshots from my Capstone.
-<h4>Code Sample</h4>
-
-      const answerQuestion = async() => {
-        if(model !==null) {
-        const passage = passageRef.current.value
-        const question = questionRef.current.value
-        console.log('params have been begotten?👽')
-
-        const answers = await model.findAnswers(question, passage)
-        setAnswer(answers)
-        console.log(answers)
-    }
-  }
 
 
 2. Stanford Machine Learning Specialization Algorithms
@@ -486,4 +469,28 @@ For ease of implementation, we have one-hot encoded the features (turned them in
           return best_feature
   
 <hr></hr>
-        
+
+
+
+
+
+
+3. SOFTWARE ENGINEERING
+
+GENERAL ASSEMBLY Capstone - SITE LINK: https://proud-plant-0981ce810.3.azurestaticapps.net/, GITHUB: https://github.com/TREYCSE/Virtual_Classroom
+![image](https://i.imgur.com/9qRZRqA.jpg)
+![image](https://i.imgur.com/QDDD5Vu.jpg)
+###### these are screenshots from my Capstone.
+<h4>Code Sample</h4>
+
+      const answerQuestion = async() => {
+        if(model !==null) {
+        const passage = passageRef.current.value
+        const question = questionRef.current.value
+        console.log('params have been begotten?👽')
+
+        const answers = await model.findAnswers(question, passage)
+        setAnswer(answers)
+        console.log(answers)
+    }
+  }
