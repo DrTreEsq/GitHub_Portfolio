@@ -52,15 +52,15 @@ Currently enhancing Data skills in pursuit of PhD of Computer Science or Enginee
 1. B.S. in Healthcare Management
 2. General Assembly: Full Stack Software Engineering, May 2023
 3. Stanford Online & DeepLearning.AI: Machine Learning Specialization Certificate, June 2023
-5. DeepLearning.AI: Mathematics for Machine Learning and Data Science, September 2023
-6. Duke University: Python, BASH, and SQL Essentials for Data Engineering Specialization, October 2023
-7. University of Colorado at Boulder: Mind and Machine Specialization, October 2023
+5. DeepLearning.AI: Mathematics for Machine Learning and Data Science Specialization Certificate, September 2023
+6. Duke University: Python, BASH, and SQL Essentials for Data Engineering Specialization Certificate, October 2023
+7. University of Colorado at Boulder: Mind and Machine Specialization Certificate, October 2023
 8. Google: Data Engineering Professional Certificate, November 2023
 9. Google: Data Analytics Professional Certificate, December 2023
 10. DeepLearning.AI: TensorFlow Developer Data and Deployment Specialization Certificate, Spring 2024
 11. DeepLearning.AI: TensorFlow Developer Professional Certificate, Spring 2024
-12. DeepLearning.AI: AI for Medicine, Summer 2024
-13. Stanford University: AI for Healthcare, Summer 2024
+12. DeepLearning.AI: AI for Medicine Specialization Certificate, Summer 2024
+13. Stanford University: AI for Healthcare Specialization Certificate, Summer 2024
 14. Google: Cybersecurity Professional Certificate, Fall 2024
 
 <h3 align="center">
