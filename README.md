@@ -61,7 +61,6 @@ Currently enhancing skills in pursuit of PhD of Engineering - Quantum AI
 11. DeepLearning.AI: TensorFlow Developer Professional Certificate, Spring 2024
 12. DeepLearning.AI: AI for Medicine Specialization Certificate, Summer 2024
 13. Stanford University: AI for Healthcare Specialization Certificate, Summer 2024
-14. Google: Cybersecurity Professional Certificate, Fall 2024
 
 <h3 align="center">
 3. PROJECTS
