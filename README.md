@@ -8,7 +8,7 @@ The Ethical Mad Scientist🤓
 </h2>
 
 <h3 align="center">
-Computer Scientist README.md Portfolio
+Scientist, Engineer, Analyst README.md Portfolio
 </h3>
 
 ###### link to portfolio website: https://brave-glacier-00e751b0f.3.azurestaticapps.net/
