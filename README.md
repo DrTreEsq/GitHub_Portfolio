@@ -7,9 +7,9 @@ About Me: Trey Weathers
 The Ethical ℳad Scientist🤓™
 </h2>
 
-<h3 align="center">
+<h4 align="center">
 Scientist, Engineer, Analyst README.md Portfolio
-</h3>
+</h4>
 
 ###### link to portfolio website: https://brave-glacier-00e751b0f.3.azurestaticapps.net/
 
