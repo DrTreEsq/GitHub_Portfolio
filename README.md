@@ -68,8 +68,8 @@ Currently enhancing skills in pursuit of PhD of Engineering
 
 1. DATA ENGINEERING & ANALYSIS
 ###### Web Scraper and SQL database in progres
-<a href="https://github.com/TREYCSE/Web_Scraper_csv"> WEB SCRAPER IN PROGRESS </a>
-###### "https://github.com/TREYCSE/Data_SQL" this is on hold while making modifications to web scraper - stay tuned🤖 </a>
+<a href="https://github.com/TREYCSE/Web_Scraper_csv"> Web Scraper Tool </a>
+###### https://github.com/TREYCSE/Data_SQL - this is on hold while making modifications to web scraper - stay tuned🤖 </a>
 
 
 2. MACHINE LEARNING ALGORITHMS
