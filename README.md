@@ -68,11 +68,8 @@ Currently enhancing skills in pursuit of PhD of Engineering - Quantum AI
 
 1. DATA ENGINEERING & ANALYSIS
 ###### Web Scraper and SQL database in progres
-
 <a href="https://github.com/TREYCSE/Web_Scraper_csv"> WEB SCRAPER IN PROGRESS </a>
-
-<a href="https://github.com/TREYCSE/Data_SQL"> I HAVE BARELY STARTED THIS - GIVE ME ONE MOMENT PLEASE, MASTERMINDING IN PROGRESS 🤖 </a>
-
+###### "https://github.com/TREYCSE/Data_SQL" this is on hold while making modifications to web scraper - stay tuned🤖 </a>
 
 
 2. MACHINE LEARNING ALGORITHMS
