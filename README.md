@@ -4,7 +4,7 @@ About Me: Trey Weathers
 <hr> </hr>
 
 <h2 align="center">
-The Ethical Mad Scientist🤓
+The Ethical ℳad Scientist🤓™
 </h2>
 
 <h3 align="center">
