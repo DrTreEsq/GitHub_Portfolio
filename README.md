@@ -59,7 +59,7 @@ Currently enhancing skills in pursuit of PhD of Engineering
 9. Google: Data Analytics Professional Certificate, December 2023
 10. DeepLearning.AI: TensorFlow Developer Data and Deployment Specialization Certificate, Spring 2024
 11. DeepLearning.AI: TensorFlow Developer Professional Certificate, Spring 2024
-12. The Hong Kong University of Science snd Technology: Python and Statistics for Financial Analysis, Summer 2024 
+12. The Hong Kong University of Science and Technology: Python and Statistics for Financial Analysis, Summer 2024 
 13. University of Michigan: Fintech Innovations Specialization, Summer 2024
 14. University of Pennsylvania: FinTech: Finance Industry Transformation and Regulation Specialization, Summer 2024
 15. DeepLearning.AI: AI for Medicine Specialization Certificate, Fall 2024
