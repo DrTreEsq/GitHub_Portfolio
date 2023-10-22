@@ -73,7 +73,7 @@ Currently enhancing skills in pursuit of PhD of Engineering
 
 * <a href="https://github.com/TREYCSE/Web_Scraper_csv"> Web Scraper Tool </a>
 
-###### https://github.com/TREYCSE/Data_SQL - this is on hold while making modifications to web scraper - stay tuned🤖 </a>
+###### SQL database also in progress
 
 
 2. MACHINE LEARNING ALGORITHMS
