@@ -48,6 +48,10 @@ Currently enhancing skills in pursuit of PhD of Engineering
   DeepLearning.AI Mathematics for Machine Learning and Data Science Specialization
 </h4>
 <img src="https://i.postimg.cc/gJcGQwxT/Image-9-16-23-at-6-02-PM.jpg" align="center"></img>
+<h4 align="center">
+  University of Colorado at Boulder Mind and Machine Specialization
+</h4>
+<img src="https://i.postimg.cc/VNJjLpPG/Image-10-24-23-at-9-23-PM.jpg" align="center"></img>
 
 1. B.S. in Healthcare Management
 2. General Assembly: Full Stack Software Engineering, May 2023
