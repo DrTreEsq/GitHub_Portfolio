@@ -9,6 +9,9 @@ export default function Education() {
 
           <img className="example" src="https://i.postimg.cc/gJcGQwxT/Image-9-16-23-at-6-02-PM.jpg" align="center" alt="vector"></img>
           <hr></hr>
+
+          <img className="example" src="https://i.postimg.cc/VNJjLpPG/Image-10-24-23-at-9-23-PM.jpg" align="center" alt="vector"></img>
+          <hr></hr>
         
           <h3 className="blue"> Completed Education </h3>
           <h4> ✡ B.S. in Healthcare Management & attended Fordham Law School for one year before being consumed by my passion for S.T.E.M.</h4>
