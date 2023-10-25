@@ -18,6 +18,7 @@ export default function Education() {
           <h4> ✡ General Assembly: Full Stack Software Engineering </h4>
           <h4> ✡ Stanford & DeepLearning.AI: Machine Learning Specialization Certificate </h4>
           <h4> ✡ DeepLearning.AI: Mathematics for Machine Learning and Data Science Specialization Certificate</h4>
+          <h4> ✡ University of Colorado at Boulder: Mind and Machine Specialization Certificate</h4>
         
           <hr className="hrh"></hr>
 
