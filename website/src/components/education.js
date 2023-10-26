@@ -14,11 +14,11 @@ export default function Education() {
           <hr></hr>
         
           <h3 className="blue"> Completed Education </h3>
-          <h4> ✡ B.S. in Healthcare Management & attended Fordham Law School for one year before being consumed by my passion for S.T.E.M.</h4>
+          <h4> ✡ B.S. in Healthcare Management </h4>
           <h4> ✡ General Assembly: Full Stack Software Engineering </h4>
-          <h4> ✡ Stanford & DeepLearning.AI: Machine Learning Specialization Certificate </h4>
+          <h4> ✡ Stanford Online & DeepLearning.AI: Machine Learning Specialization Certificate </h4>
           <h4> ✡ DeepLearning.AI: Mathematics for Machine Learning and Data Science Specialization Certificate</h4>
-          <h4> ✡ University of Colorado at Boulder: Mind and Machine Specialization Certificate</h4>
+          <h4> ✡ University of Colorado at Boulder: Mind and Machine Specialization Certificate </h4>
         
           <hr className="hrh"></hr>
 
@@ -29,8 +29,7 @@ export default function Education() {
           <h4> ✡ DeepLearning.AI: Tensorflow Developer Professional Certificate </h4>
         
           <h5> ❂ Working Towards PhD in Engineering - Advanced Applications of Artificial Intelligence ❂ </h5>
-          
-
+        
           <h3 className="blue">Positions open to</h3>
             <h5>✰ Fields of Interest and Experience: Artificial Intelligence, Medicine/Healthcare, Finance, Business & Media, Robotics, Web Development, Law/Policy, Education, Data Science, and more! </h5>
             <h5>✰ Roles: Prompt Engineer, AI engineer, Machine Learning Engineer, Researcher, and more.</h5>
