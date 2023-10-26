@@ -1,6 +1,16 @@
 export default function Education() {
     return (
         <div className="black">
+
+          <h3 className="blue"> Completed Education </h3>
+          <h4> ✡ B.S. in Healthcare Management </h4>
+          <h4> ✡ General Assembly: Full Stack Software Engineering </h4>
+          <h4> ✡ Stanford Online & DeepLearning.AI: Machine Learning Specialization Certificate </h4>
+          <h4> ✡ DeepLearning.AI: Mathematics for Machine Learning and Data Science Specialization Certificate</h4>
+          <h4> ✡ University of Colorado at Boulder: Mind and Machine Specialization Certificate </h4>
+        
+          <hr className="hrh"></hr>
+        
           <img className="example" src="https://i.postimg.cc/rwQZ3rN5/Image-6-29-23-at-6-41-PM.jpg" align="center" alt="vector"></img>
 
           <hr></hr>
@@ -12,13 +22,6 @@ export default function Education() {
 
           <img className="example" src="https://i.postimg.cc/VNJjLpPG/Image-10-24-23-at-9-23-PM.jpg" align="center" alt="vector"></img>
           <hr></hr>
-        
-          <h3 className="blue"> Completed Education </h3>
-          <h4> ✡ B.S. in Healthcare Management </h4>
-          <h4> ✡ General Assembly: Full Stack Software Engineering </h4>
-          <h4> ✡ Stanford Online & DeepLearning.AI: Machine Learning Specialization Certificate </h4>
-          <h4> ✡ DeepLearning.AI: Mathematics for Machine Learning and Data Science Specialization Certificate</h4>
-          <h4> ✡ University of Colorado at Boulder: Mind and Machine Specialization Certificate </h4>
         
           <hr className="hrh"></hr>
 
