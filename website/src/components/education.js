@@ -24,15 +24,15 @@ export default function Education() {
 
           <h3 className="blue"> Currently Enrolled in </h3>
           <h4> ✡ Google: Data Engineer Professional Certificate </h4>
-          <h4> ✡ Google: Data Analysis Professional Certificate </h4>
-          <h4> ✡ DeepLearning.AI: TensorFlow Data and Deployment Specialization</h4>
-          <h4> ✡ DeepLearning.AI: Tensorflow Developer Professional Certificate</h4>
+          <h4> ✡ Google: Data Analytics Professional Certificate </h4>
+          <h4> ✡ DeepLearning.AI: TensorFlow Data and Deployment Specialization </h4>
+          <h4> ✡ DeepLearning.AI: Tensorflow Developer Professional Certificate </h4>
         
           <h5> ❂ Working Towards PhD in Engineering - Advanced Applications of Artificial Intelligence ❂ </h5>
           
 
           <h3 className="blue">Positions open to</h3>
-            <h5>✰ Fields of Interest and Experience: Artificial Intelligence, Medical, Business & Media, Robotics, Web Development, Law/Policy, Education, Data Science, and more! </h5>
+            <h5>✰ Fields of Interest and Experience: Artificial Intelligence, Medicine/Healthcare, Finance, Business & Media, Robotics, Web Development, Law/Policy, Education, Data Science, and more! </h5>
             <h5>✰ Roles: Prompt Engineer, AI engineer, Machine Learning Engineer, Researcher, and more.</h5>
             <h5>✰ Responsibilities: Problem Solving, System design/architecture/engineering, Data analysis, Research, Software engineering, troubleshooting/debugging/error tracking, teamwork, management, consulting, and more.</h5>
 
