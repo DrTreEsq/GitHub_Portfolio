@@ -53,7 +53,7 @@ Currently enhancing skills in pursuit of PhD of Engineering
 </h4>
 <img src="https://i.postimg.cc/VNJjLpPG/Image-10-24-23-at-9-23-PM.jpg" align="center"></img>
 <h4 align="center">
-   Duke UniversityPython, Bash and SQL Essentials for Data Engineering Specialization
+   Duke University Python, Bash and SQL Essentials for Data Engineering Specialization
 </h4>
 <img src="https://i.postimg.cc/Bn71SqdD/Image-10-27-23-at-3-47-PM.jpg" align="center"></img>
 
