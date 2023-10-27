@@ -8,6 +8,7 @@ export default function Education() {
           <h4> ✡ Stanford Online & DeepLearning.AI: Machine Learning Specialization Certificate </h4>
           <h4> ✡ DeepLearning.AI: Mathematics for Machine Learning and Data Science Specialization Certificate</h4>
           <h4> ✡ University of Colorado at Boulder: Mind and Machine Specialization Certificate </h4>
+          <h4> ✡ Duke University: Python, Bash and SQL Essentials for Data Engineering Specialization Certificate </h4>
         
           <hr className="hrh"></hr>
         
@@ -21,6 +22,9 @@ export default function Education() {
           <hr></hr>
 
           <img className="example" src="https://i.postimg.cc/VNJjLpPG/Image-10-24-23-at-9-23-PM.jpg" align="center" alt="vector"></img>
+          <hr></hr>
+
+          <img className="example" src="https://i.postimg.cc/Bn71SqdD/Image-10-27-23-at-3-47-PM.jpg" align="center" alt="vector"></img>
           <hr></hr>
         
           <hr className="hrh"></hr>
