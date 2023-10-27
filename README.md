@@ -52,6 +52,10 @@ Currently enhancing skills in pursuit of PhD of Engineering
   University of Colorado at Boulder Mind and Machine Specialization
 </h4>
 <img src="https://i.postimg.cc/VNJjLpPG/Image-10-24-23-at-9-23-PM.jpg" align="center"></img>
+<h4 align="center">
+  Duke
+</h4>
+<img src="https://i.postimg.cc/Bn71SqdD/Image-10-27-23-at-3-47-PM.jpg" align="center"></img>
 
 1. B.S. in Healthcare Management
 2. General Assembly: Full Stack Software Engineering, May 2023
