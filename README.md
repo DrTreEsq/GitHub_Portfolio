@@ -57,20 +57,20 @@ Pusuing PhD of Engineering focused on Advanced Applications of Artificial Intell
 <img src="https://i.postimg.cc/Bn71SqdD/Image-10-27-23-at-3-47-PM.jpg" align="center"></img>
 
 1. B.S. in Healthcare Management
-2. General Assembly: Full Stack Software Engineering, May 2023
-3. Stanford Online & DeepLearning.AI: Machine Learning Specialization Certificate, June 2023
-5. DeepLearning.AI: Mathematics for Machine Learning and Data Science Specialization Certificate, September 2023
-6. University of Colorado at Boulder: Mind and Machine Specialization Certificate, October 2023
-7. Duke University: Python, BASH, and SQL Essentials for Data Engineering Specialization Certificate, October 2023
-8. Google: Data Engineering Professional Certificate, November 2023
-9. Google: Data Analytics Professional Certificate, December 2023
-10. DeepLearning.AI: TensorFlow Developer Data and Deployment Specialization Certificate, Spring 2024
-11. DeepLearning.AI: TensorFlow Developer Professional Certificate, Spring 2024
-12. The Hong Kong University of Science and Technology: Python and Statistics for Financial Analysis, Summer 2024 
-13. University of Michigan: Fintech Innovations Specialization, Summer 2024
-14. University of Pennsylvania: FinTech: Finance Industry Transformation and Regulation Specialization, Summer 2024
-15. DeepLearning.AI: AI for Medicine Specialization Certificate, Fall 2024
-16. Stanford University: AI for Healthcare Specialization Certificate, Fall 2024
+2. General Assembly: Full Stack Software Engineering
+3. Stanford Online & DeepLearning.AI: Machine Learning Specialization Certificate
+5. DeepLearning.AI: Mathematics for Machine Learning and Data Science Specialization Certificate
+6. University of Colorado at Boulder: Mind and Machine Specialization Certificate
+7. Duke University: Python, BASH, and SQL Essentials for Data Engineering Specialization Certificate
+8. Google: Data Engineering Professional Certificate, November 2023...(in progress📍)
+9. Google: Data Analytics Professional Certificate, December 2023...(in progress📍)
+10. DeepLearning.AI: TensorFlow Developer Data and Deployment Specialization Certificate, Spring
+11. DeepLearning.AI: TensorFlow Developer Professional Certificate, Spring
+12. The Hong Kong University of Science and Technology: Python and Statistics for Financial Analysis, Summer
+13. University of Michigan: Fintech Innovations Specialization, Summer
+14. University of Pennsylvania: FinTech: Finance Industry Transformation and Regulation Specialization, Summer
+15. DeepLearning.AI: AI for Medicine Specialization Certificate, Fall
+16. Stanford University: AI for Healthcare Specialization Certificate, Fall
 
 <h3 align="center">
 3. PROJECTS
