@@ -23,10 +23,9 @@ Pusuing PhD of Engineering focused on Advanced Applications of Artificial Intell
 ###### Welcome, Earthling! My name is Trey and I am a Lifelong Learner and Interdisciplinery Researcher with a goal of learning each valuable skill necessary to pioneer the change that I wish to see in the world. I hope to continually gain experience to grow myself professionally and offer the same to the organizations that I work with as I work towards a greater goal of personal development and global change.
 
 <h3 align="center">
-1. TOOLS & TECHNOLOGIES
+1. TOOLS & TECHNOLOGIES | Tech Stack
 </h3>
 
-###### My Go-tos: TensorFlow, Numpy, Node.js, React.js, MongoDB, Express, etc.
 1. Data Science / Engineering / Analysis / AI: Python, Linux, BASH, NumPy, matplotlib, SQL, scrapy, etc.
 2. Machine Learning: Python, Tensorflow, Scipy, matplotlib, etc.
 3. Cloud and Big Data tools: Heroku, Azure, AWS and more.
