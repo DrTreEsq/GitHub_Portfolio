@@ -56,7 +56,7 @@ Pusuing PhD of Engineering focused on Advanced Applications of Artificial Intell
 </h4>
 <img src="https://i.postimg.cc/Bn71SqdD/Image-10-27-23-at-3-47-PM.jpg" align="center"></img>
 
-1. B.S. in Healthcare Management
+1. St. Francis College: B.S. in Healthcare Management
 2. General Assembly: Full Stack Software Engineering
 3. Stanford Online & DeepLearning.AI: Machine Learning Specialization Certificate
 5. DeepLearning.AI: Mathematics for Machine Learning and Data Science Specialization Certificate
