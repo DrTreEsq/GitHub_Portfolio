@@ -16,8 +16,8 @@ Scientist, Engineer, Analyst README.md Portfolio
 <img src="https://i.postimg.cc/FRWr6HHD/funny-urkey.webp" align="center"> 
 </img>
 
-<h4 align="center">
-Currently enhancing skills in pursuit of PhD of Engineering focused on Advanced Applications of Artificial Intelligence
+Pusuing PhD of Engineering focused on Advanced Applications of Artificial Intelligence
+
 </h4>
 
 ###### Welcome, Earthling! My name is Trey and I am a Lifelong Learner and Interdisciplinery Researcher with a goal of learning each valuable skill necessary to pioneer the change that I wish to see in the world. I hope to continually gain experience to grow myself professionally and offer the same to the organizations that I work with as I work towards a greater goal of personal development and global change.
