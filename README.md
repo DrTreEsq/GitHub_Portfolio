@@ -57,7 +57,7 @@ Pusuing PhD of Engineering focused on Advanced Applications of Artificial Intell
 <img src="https://i.postimg.cc/Bn71SqdD/Image-10-27-23-at-3-47-PM.jpg" align="center"></img>
 
 1. St. Francis College: B.S. in Healthcare Management
-2. General Assembly: Full Stack Software Engineering
+2. General Assembly: Full Stack Software Engineering Certificate
 3. Stanford Online & DeepLearning.AI: Machine Learning Specialization Certificate
 5. DeepLearning.AI: Mathematics for Machine Learning and Data Science Specialization Certificate
 6. University of Colorado Boulder: Mind and Machine Specialization Certificate
@@ -67,8 +67,8 @@ Pusuing PhD of Engineering focused on Advanced Applications of Artificial Intell
 10. DeepLearning.AI: TensorFlow Developer Data and Deployment Specialization Certificate, Spring...(coming soon😆!)
 11. DeepLearning.AI: TensorFlow Developer Professional Certificate, Spring...(coming soon😆!)
 12. The Hong Kong University of Science and Technology: Python and Statistics for Financial Analysis, Summer
-13. University of Michigan: Fintech Innovations Specialization, Summer
-14. University of Pennsylvania: FinTech: Finance Industry Transformation and Regulation Specialization, Summer
+13. University of Michigan: Fintech Innovations Specialization Certificate, Summer
+14. University of Pennsylvania: FinTech: Finance Industry Transformation and Regulation Specialization Certificate, Summer
 15. DeepLearning.AI: AI for Medicine Specialization Certificate, Fall
 16. Stanford University: AI for Healthcare Specialization Certificate, Fall
 
