@@ -36,7 +36,7 @@ Pusuing PhD of Engineering focused on Advanced Applications of Artificial Intell
 
 
 <h3 align="center">
-2. EDUCATION | Research in Progress
+2. EDUCATION | Research in Progress | Interdisciplinary Curriculum
 </h3>
 <h4 align="center">
   General Assembly ~ Software Engineering Immersive
@@ -74,6 +74,10 @@ Pusuing PhD of Engineering focused on Advanced Applications of Artificial Intell
 14. University of Pennsylvania: FinTech: Finance Industry Transformation and Regulation Specialization Certificate, Summer
 15. DeepLearning.AI: AI for Medicine Specialization Certificate, Fall
 16. Stanford University: AI for Healthcare Specialization Certificate, Fall
+17. University of Washington: Computational Nauroscience, Spring
+18. Neuroscience and Neuroimaging, Spring
+19. Biohacking Your Brains Health, Spring
+20. Google Cybersecurity Professional Certificate, Summer
 
 
 
