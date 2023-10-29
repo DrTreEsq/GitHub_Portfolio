@@ -86,6 +86,10 @@ Pusuing PhD of Engineering focused on Advanced Applications of Artificial Intell
 
 <a href="https://github.com/TREYCSE/Web_Scraper_csv"> Web Scraper Tool </a>
 
+<h4>
+  Scraping data from a US Constitution Website using scrapy
+</h4>
+
 ###### SQL database also in progress
 
 
