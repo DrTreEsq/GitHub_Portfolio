@@ -4,10 +4,10 @@ export default function Education() {
 
           <h3 className="blue"> Completed Education </h3>
           <h4> ✡ St. Francis College: B.S. in Healthcare Management </h4>
-          <h4> ✡ General Assembly: Full Stack Software Engineering </h4>
+          <h4> ✡ General Assembly: Full Stack Software Engineering Certificate </h4>
           <h4> ✡ Stanford Online & DeepLearning.AI: Machine Learning Specialization Certificate </h4>
           <h4> ✡ DeepLearning.AI: Mathematics for Machine Learning and Data Science Specialization Certificate</h4>
-          <h4> ✡ University of Colorado at Boulder: Mind and Machine Specialization Certificate </h4>
+          <h4> ✡ University of Colorado Boulder: Mind and Machine Specialization Certificate </h4>
           <h4> ✡ Duke University: Python, Bash and SQL Essentials for Data Engineering Specialization Certificate </h4>
         
           <hr className="hrh"></hr>
@@ -29,12 +29,12 @@ export default function Education() {
         
           <hr className="hrh"></hr>
 
-          <h3 className="blue"> Currently Enrolled in </h3>
+          <h3 className="blue"> In Progress | Next Up </h3>
           <h4> ✡ Google: Data Engineer Professional Certificate </h4>
           <h4> ✡ Google: Data Analytics Professional Certificate </h4>
           <h4> ✡ DeepLearning.AI: TensorFlow Data and Deployment Specialization </h4>
           <h4> ✡ DeepLearning.AI: Tensorflow Developer Professional Certificate </h4>
-        
+          <hr></hr>
           <h5> ❂ Working Towards PhD in Engineering - Advanced Applications of Artificial Intelligence ❂ </h5>
         
           <h3 className="blue">Positions open to</h3>
