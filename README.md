@@ -36,7 +36,7 @@ Pusuing PhD of Engineering focused on Advanced Applications of Artificial Intell
 
 
 <h3 align="center">
-2. EDUCATION | Research in Progress | Interdisciplinary Curriculum
+2. EDUCATION | Research in Progress | Interdisciplinary Curriculum📚💻
 </h3>
 <h4 align="center">
   General Assembly ~ Software Engineering Immersive
