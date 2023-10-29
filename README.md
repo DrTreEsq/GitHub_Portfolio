@@ -1,5 +1,8 @@
+<h2 align="center">
+About Me
+</h2>
 <h1 align="center">
-About Me: Trey Weathers
+Trey Weathers
 </h1>
 <hr> </hr>
 
@@ -8,7 +11,7 @@ The Ethical ℳad Scientist🤓™
 </h2>
 
 <h4 align="center">
-Scientist, Engineer, Analyst README.md Portfolio
+Research Scientist, Engineer, & Analyst README.md Portfolio
 </h4>
 
 ###### link to portfolio website: https://brave-glacier-00e751b0f.3.azurestaticapps.net/
