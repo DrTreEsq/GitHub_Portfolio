@@ -74,7 +74,7 @@ Pusuing PhD of Engineering focused on Advanced Applications of Artificial Intell
 
 
 
-###### I do other things besides get certificates, I promise - catch me working on my personal projects or leetcode regularly!🧑‍🔬
+###### I do other things besides completing relavant programs of interest, I promise - catch me working on my personal projects or leetcode regularly!🧑‍🔬
 
 
 
