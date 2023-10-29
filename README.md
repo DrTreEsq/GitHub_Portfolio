@@ -72,6 +72,12 @@ Pusuing PhD of Engineering focused on Advanced Applications of Artificial Intell
 15. DeepLearning.AI: AI for Medicine Specialization Certificate, Fall
 16. Stanford University: AI for Healthcare Specialization Certificate, Fall
 
+
+
+###### I do other things besides get certificates, I promise - catch me working on my personal projects or leetcode regularly!🧑‍🔬
+
+
+
 <h3 align="center">
 3. PROJECTS
 </h3>
