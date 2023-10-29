@@ -91,7 +91,7 @@ Pusuing PhD of Engineering focused on Advanced Applications of Artificial Intell
 
 1. DATA ENGINEERING & ANALYSIS
 
-#### Web Scraper Tool
+#### 1) Web Scraper Tool
 <a href="https://github.com/TREYCSE/Web_Scraper_csv"> Web Scraper Tool </a>
 
 <h4>
