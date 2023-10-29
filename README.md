@@ -36,23 +36,23 @@ Pusuing PhD of Engineering focused on Advanced Applications of Artificial Intell
 2. EDUCATION | Research in Progress
 </h3>
 <h4 align="center">
-  General Assembly Software Engineering Immersive
+  General Assembly ~ Software Engineering Immersive
 </h4>
 <img src="https://i.postimg.cc/rwQZ3rN5/Image-6-29-23-at-6-41-PM.jpg" align="center"> 
 <h4 align="center">
-  Stanford Online Machine Learning Specialization
+  Stanford Online & DeepLearning.AI ~ Machine Learning Specialization
 </h4>
 <img src="https://i.postimg.cc/3Jrk9k3k/Image-6-20-23-at-7-27-AM.jpg" align="center"> </img>
 <h4 align="center">
-  DeepLearning.AI Mathematics for Machine Learning and Data Science Specialization
+  DeepLearning.AI ~ Mathematics for Machine Learning and Data Science Specialization
 </h4>
 <img src="https://i.postimg.cc/gJcGQwxT/Image-9-16-23-at-6-02-PM.jpg" align="center"></img>
 <h4 align="center">
-  University of Colorado at Boulder Mind and Machine Specialization
+  University of Colorado Boulder ~ Mind and Machine Specialization
 </h4>
 <img src="https://i.postimg.cc/VNJjLpPG/Image-10-24-23-at-9-23-PM.jpg" align="center"></img>
 <h4 align="center">
-   Duke University Python, Bash and SQL Essentials for Data Engineering Specialization
+   Duke University ~ Python, Bash and SQL Essentials for Data Engineering Specialization
 </h4>
 <img src="https://i.postimg.cc/Bn71SqdD/Image-10-27-23-at-3-47-PM.jpg" align="center"></img>
 
@@ -60,12 +60,12 @@ Pusuing PhD of Engineering focused on Advanced Applications of Artificial Intell
 2. General Assembly: Full Stack Software Engineering
 3. Stanford Online & DeepLearning.AI: Machine Learning Specialization Certificate
 5. DeepLearning.AI: Mathematics for Machine Learning and Data Science Specialization Certificate
-6. University of Colorado at Boulder: Mind and Machine Specialization Certificate
+6. University of Colorado Boulder: Mind and Machine Specialization Certificate
 7. Duke University: Python, BASH, and SQL Essentials for Data Engineering Specialization Certificate
 8. Google: Data Engineering Professional Certificate, November 2023...(in progress📍)
 9. Google: Data Analytics Professional Certificate, December 2023...(in progress📍)
-10. DeepLearning.AI: TensorFlow Developer Data and Deployment Specialization Certificate, Spring
-11. DeepLearning.AI: TensorFlow Developer Professional Certificate, Spring
+10. DeepLearning.AI: TensorFlow Developer Data and Deployment Specialization Certificate, Spring...(coming soon😆!)
+11. DeepLearning.AI: TensorFlow Developer Professional Certificate, Spring...(coming soon😆!)
 12. The Hong Kong University of Science and Technology: Python and Statistics for Financial Analysis, Summer
 13. University of Michigan: Fintech Innovations Specialization, Summer
 14. University of Pennsylvania: FinTech: Finance Industry Transformation and Regulation Specialization, Summer
