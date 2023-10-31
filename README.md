@@ -19,7 +19,7 @@ Research Scientist, Engineer, & Analyst README.md Portfolio
 <img src="https://i.postimg.cc/FRWr6HHD/funny-urkey.webp" align="center"> 
 </img>
 
-Pusuing PhD of Engineering focused on Advanced Applications of Artificial Intelligence & Neurocience
+Pusuing PhD of Engineering focused on Advanced Applications of Artificial Intelligence & Neuroscience
 
 </h4>
 
