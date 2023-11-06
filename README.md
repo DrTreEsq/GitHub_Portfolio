@@ -1,86 +1,106 @@
+<h2 align="center">
+About Me
+</h2>
 <h1 align="center">
-About Me: Trey Weathers
+Trey Weathers
 </h1>
 <hr> </hr>
 
 <h2 align="center">
-The Ethical Mad Scientist🤓
+The Ethical ℳad Scientist🤓™
 </h2>
 
-<h3 align="center">
-Computer Scientist README.md Portfolio
-</h3>
+<h4 align="center">
+Research Scientist, Engineer, & Analyst README.md Portfolio
+</h4>
 
-###### link to deployed portfolio website: https://brave-glacier-00e751b0f.3.azurestaticapps.net/
+###### link to portfolio website: https://brave-glacier-00e751b0f.3.azurestaticapps.net/
 
 <img src="https://i.postimg.cc/FRWr6HHD/funny-urkey.webp" align="center"> 
 </img>
 
-<h3 align="center">
-Currently Enhancing IT, Cloud, and Mathematic Skills in pursuit of PhD of Technology
-</h3>
+Pusuing PhD of Engineering focused on Advanced Applications of Artificial Intelligence & Neuroscience
 
-<h4 align="center">
-Side project: also working towards PhD of Physics (focused on Quantum physics and Relativity).
 </h4>
 
-<h5 align="center">
-Fun fact: Everything I do is tied back to Ethics!
-</h5>
-
-###### Welcome, Earthling! My name is Trey and I am an educator and forever student with a goal of learning each valuable skill necessary to pioneer the change that I wish to see in the world. I have a wide range of abilities stemming from my diverse work background, education, and additional academic interests ranging from neuroscience, programming, to the history of mankind and more. I hope to continually gain experience to grow myself professionally and offer the same to the organizations that I work with as I work towards a greater goal of personal development and global change.
+###### Welcome, Earthling! My name is Trey and I am a Lifelong Learner and Interdisciplinery Researcher with a goal of learning each valuable skill necessary to pioneer the change that I wish to see in the world. I hope to continually gain experience to grow myself professionally and offer the same to the organizations that I work with as I work towards a greater goal of personal development and global change.
 
 <h3 align="center">
-1. TOOLS & TECHNOLOGIES
+1. TOOLS & TECHNOLOGIES | Tech Stack
 </h3>
 
-###### My Go-tos: TensorFlow, Numpy, Node.js, React.js, MongoDB, Express, etc.
-1. Programming: Python, Javascript, React, Node, MongoDB
-2. Data Science & Machine Learning | AI: NumPy, TensorFlow, etc.
-3. Cloud and Big Data tools: Heroku, Azure, AWS and more. 
+1. Data Science / Engineering / Analysis / AI: Python, Linux, BASH, NumPy, matplotlib, SQL, scrapy, etc.
+2. Machine Learning: Python, Tensorflow, Scipy, matplotlib, etc.
+3. Cloud and Big Data tools: Google Cloud, Azure, AWS and more.
+4. Web Dev: MERN - Javascript/React.js, MongoDB, etc.
 
 
 <h3 align="center">
-2. EDUCATION
+2. EDUCATION | Research in Progress | Interdisciplinary Curriculum📚💻
 </h3>
 <h4 align="center">
-  General Assembly Software Engineering Immersive
+  General Assembly ~ Software Engineering Immersive
 </h4>
 <img src="https://i.postimg.cc/rwQZ3rN5/Image-6-29-23-at-6-41-PM.jpg" align="center"> 
 <h4 align="center">
-  Stanford Online Machine Learning Specialization
+  Stanford Online & DeepLearning.AI ~ Machine Learning Specialization
 </h4>
 <img src="https://i.postimg.cc/3Jrk9k3k/Image-6-20-23-at-7-27-AM.jpg" align="center"> </img>
+<h4 align="center">
+  DeepLearning.AI ~ Mathematics for Machine Learning and Data Science Specialization
+</h4>
+<img src="https://i.postimg.cc/gJcGQwxT/Image-9-16-23-at-6-02-PM.jpg" align="center"></img>
+<h4 align="center">
+  University of Colorado Boulder ~ Mind and Machine Specialization
+</h4>
+<img src="https://i.postimg.cc/VNJjLpPG/Image-10-24-23-at-9-23-PM.jpg" align="center"></img>
+<h4 align="center">
+   Duke University ~ Python, Bash and SQL Essentials for Data Engineering Specialization
+</h4>
+<img src="https://i.postimg.cc/Bn71SqdD/Image-10-27-23-at-3-47-PM.jpg" align="center"></img>
 
-1. B.S. in Healthcare Management & attended Fordham Law school for one year before being consumed by my passion for S.T.E.M.
-2. General Assembly: Full Stack Software Engineering, May 2023
-3. Stanford & DeepLearning.AI: Machine Learning Specialization Certificate, June 2023
-4. DeepLearning.AI: Mathematics for Machine Learning and Data Science. July 2023
-5. IBM: Information Technology (IT) and Cloud Fundamentals Specialization, August 2023
+1. St. Francis College: B.S. in Healthcare Management
+2. General Assembly: Full Stack Software Engineering Certificate
+3. Stanford Online & DeepLearning.AI: Machine Learning Specialization Certificate
+5. DeepLearning.AI: Mathematics for Machine Learning and Data Science Specialization Certificate
+6. University of Colorado Boulder: Mind and Machine Specialization Certificate
+7. Duke University: Python, BASH, and SQL Essentials for Data Engineering Specialization Certificate
+8. Google: Data Engineering Professional Certificate, in progress📍
+9. DeepLearning.AI: TensorFlow Developer Data and Deployment Specialization Certificate,  up next😆
+10. DeepLearning.AI: TensorFlow Developer Professional Certificate, coming soon😆!
+11. The Hong Kong University of Science and Technology: Python and Statistics for Financial Analysis, Summer
+12. University of Michigan: Fintech Innovations Specialization Certificate, Summer
+13. University of Pennsylvania: FinTech: Finance Industry Transformation and Regulation Specialization Certificate, Summer
+14. DeepLearning.AI: AI for Medicine Specialization Certificate, Fall
+15. Stanford University: AI for Healthcare Specialization Certificate, Fall
+16. University of Washington: Computational Nauroscience, Spring
+17. Neuroscience and Neuroimaging, Spring
+18. Biohacking Your Brains Health, Spring
+
+
+
+###### I do other things besides completing relavant programs of interest, I promise - catch me working on my personal projects or leetcode semi-regularly!🧑‍🔬
+
 
 <h3 align="center">
 3. PROJECTS
 </h3>
 
-1. Full-Stack Capstone - SITE LINK: https://proud-plant-0981ce810.3.azurestaticapps.net/
-![image](https://i.imgur.com/9qRZRqA.jpg)
-![image](https://i.imgur.com/QDDD5Vu.jpg)
-###### these are screenshots from my Full Stack Capstone.
-<h4>Code Sample</h4>
+1. DATA SCIENCE
 
-      const answerQuestion = async() => {
-        if(model !==null) {
-        const passage = passageRef.current.value
-        const question = questionRef.current.value
-        console.log('params have been begotten?👽')
+#### 1) Web Scraper Tool
+<a href="https://github.com/TREYCSE/Web_Scraper_csv"> Web Scraper Tool </a>
 
-        const answers = await model.findAnswers(question, passage)
-        setAnswer(answers)
-        console.log(answers)
-    }
-  }
+<h4>
+  Scraping data from a US Constitution Website using scrapy and xpath. saved as json and csv files. Using Azure PostgreSQL for deploying and automation (in progress📍)
+</h4>
 
-2. Stanford Machine Learning Specialization Algorithms
+###### SQL database also in progress
+
+
+2. MACHINE LEARNING ALGORITHMS
+
+###### repo: https://github.com/TREYCSE/Stanford_Learning_Algorithms
 
 <h3> Example 1: Linear Regression Example - Market Analysis for Profit Prediction </h3>
 
@@ -471,4 +491,28 @@ For ease of implementation, we have one-hot encoded the features (turned them in
           return best_feature
   
 <hr></hr>
-        
+
+
+
+
+
+
+3. SOFTWARE ENGINEERING
+
+GENERAL ASSEMBLY Capstone - SITE LINK: https://proud-plant-0981ce810.3.azurestaticapps.net/, GITHUB: https://github.com/TREYCSE/Virtual_Classroom
+![image](https://i.imgur.com/9qRZRqA.jpg)
+![image](https://i.imgur.com/QDDD5Vu.jpg)
+###### these are screenshots from my Capstone.
+<h4>Code Sample</h4>
+
+      const answerQuestion = async() => {
+        if(model !==null) {
+        const passage = passageRef.current.value
+        const question = questionRef.current.value
+        console.log('params have been begotten?👽')
+
+        const answers = await model.findAnswers(question, passage)
+        setAnswer(answers)
+        console.log(answers)
+    }
+  }

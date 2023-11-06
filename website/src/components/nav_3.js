@@ -1,11 +1,18 @@
 import { Link } from "react-router-dom";
 
-export default function Navd({Algorithms, Codes, Consulting}) {
+export default function Navd({Data, Algorithms, Codes, Consulting}) {
   return (
     <div>
       <nav className="servicesnav">
 
           <hr></hr>
+          <Link className="link2 black" to={Data}> Data Engineering and Analysis  </Link>
+            <div className="black">
+            <p className="tiny">🌘Data Engineering and Analysis: Data cleaning, Web Services API and Web Scraping, database management and more with SQL, Python, Pandas, and more.</p>
+            </div>
+
+            <hr></hr>
+    
           <Link className="link2 black" to={Algorithms}> Machine Learning Algorithms </Link>
           
           <div className="black">
@@ -42,3 +49,6 @@ export default function Navd({Algorithms, Codes, Consulting}) {
     </div>
   );
 }
+
+
+//            <p className="tiny">🌖Data Analysis:  </p>
