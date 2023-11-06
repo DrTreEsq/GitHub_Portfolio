@@ -31,7 +31,7 @@ Pusuing PhD of Engineering focused on Advanced Applications of Artificial Intell
 
 1. Data Science / Engineering / Analysis / AI: Python, Linux, BASH, NumPy, matplotlib, SQL, scrapy, etc.
 2. Machine Learning: Python, Tensorflow, Scipy, matplotlib, etc.
-3. Cloud and Big Data tools: Heroku, Azure, AWS and more.
+3. Cloud and Big Data tools: Google Cloud, Azure, AWS and more.
 4. Web Dev: MERN - Javascript/React.js, MongoDB, etc.
 
 
