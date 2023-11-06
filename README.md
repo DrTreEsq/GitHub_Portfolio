@@ -2,7 +2,7 @@
 About Me
 </h2>
 <h1 align="center">
-Trey Weathers
+Trey (or Tre) Weathers
 </h1>
 <hr> </hr>
 
