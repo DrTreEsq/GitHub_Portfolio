@@ -6,19 +6,6 @@ import './App.css';
 //use HashRouter to fix manual reloading?
 
 function App() {
-
-/*
-  const [message, setMessage] = useState("");
-  useEffect(() => {
-    fetch("http://localhost:3000/message")
-      .then((res) => res.json())
-      .then((data) => setMessage(message));
-  }, []);
-
-//fetch failing - get API from node server.
- //deploy using static web app instead? then won't need a node server?
-*/
-
   return (
     <div className="App">
       <Nav Home="/" Aboutme="/aboutme" Algorithms="/algorithms" Codes="/codes" Consulting="/consulting" Contact="/contact" Data="/data" Education="/education" Skills="/skills" Services="/services"
@@ -48,3 +35,16 @@ function App() {
 
 
 export default App;
+
+
+/* non-static option
+  const [message, setMessage] = useState("");
+  useEffect(() => {
+    fetch("http://localhost:3000/message")
+      .then((res) => res.json())
+      .then((data) => setMessage(message));
+  }, []);
+
+//fetch failing - get API from node server.
+*/
+
