@@ -6,10 +6,10 @@ export default function Skills() {
         <div className="black">
 
           <h2> Tools | Technologies </h2>
-          <p> My Go-tos: TensorFlow, Numpy, Node.js, React.js, MongoDB, Express, etc.</p>
+          <h4> My Go-to Tech Stack: TensorFlow, Python, SQL, Node.js, React.js </h4>
           <p> Programming: Python, Javascript, React, Node, MongoDB, Django </p>
-          <p> Data Science & Machine Learning | AI: NumPy, TensorFlow, SQL </p>
-          <p> Big Data tools: becoming familiar with LangChain, Spark, and more.</p>
+          <p> Data Science & Machine Learning | AI: NumPy, TensorFlow, SQL, scipy, matplotlib </p>
+          <p> Big Data tools: Google Cloud, AWS, Azure, Spark </p>
 
 <hr className="hrhr"></hr>
 
