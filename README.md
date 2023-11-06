@@ -92,7 +92,11 @@ Pusuing PhD of Engineering focused on Advanced Applications of Artificial Intell
 <a href="https://github.com/TREYCSE/Web_Scraper_csv"> Web Scraper Tool </a>
 
 <h4>
-  Scraping data from a US Constitution Website using scrapy and xpath. saved as json files. Using Azure PostgreSQL for deploying and automation (in progress📍)
+  The Web Scraper is made with Scrapy in Python and the data is saved as json files.
+                I am scraping Legal data from government websites such as pulling articles from the Constitution full text online.
+                Now that the data has been parsed, I am focusing on deploying and automation with Azure PostgreSQL and GitHub Actions.
+                In addition, looking for websites with surplus of data, rather than limited articles. In research phase continually.
+                Considering other legal data to scrape that is better formatted and therefore better to parse through. (in progress📍)
 </h4>
 
 ###### SQL database also in progress
