@@ -65,8 +65,8 @@ Pusuing PhD of Engineering focused on Advanced Applications of Artificial Intell
 5. DeepLearning.AI: Mathematics for Machine Learning and Data Science Specialization Certificate
 6. University of Colorado Boulder: Mind and Machine Specialization Certificate
 7. Duke University: Python, BASH, and SQL Essentials for Data Engineering Specialization Certificate
-8. Google: Data Engineering Professional Certificate, November 2023...(in progress📍)
-9. Google: Data Analytics Professional Certificate, December 2023...(in progress📍)
+8. Google: Data Engineering Professional Certificate, in progress📍
+9. Google: Data Analytics Professional Certificate, in progress📍
 10. DeepLearning.AI: TensorFlow Developer Data and Deployment Specialization Certificate, Spring...(coming soon😆!)
 11. DeepLearning.AI: TensorFlow Developer Professional Certificate, Spring...(coming soon😆!)
 12. The Hong Kong University of Science and Technology: Python and Statistics for Financial Analysis, Summer
