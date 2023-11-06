@@ -9,7 +9,6 @@ export default function Data() {
                 In addition, looking for websites with surplus of data, rather than limited articles. In research phase continually.
                 Considering other legal data to scrape that is better formatted and therefore better to parse through.
                 SQL medical database also in progress, researching best sites to scrape and clean - stay tuned on progress! 
-
           </h4>
       </div>
     )
