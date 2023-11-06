@@ -66,18 +66,16 @@ Pusuing PhD of Engineering focused on Advanced Applications of Artificial Intell
 6. University of Colorado Boulder: Mind and Machine Specialization Certificate
 7. Duke University: Python, BASH, and SQL Essentials for Data Engineering Specialization Certificate
 8. Google: Data Engineering Professional Certificate, in progress📍
-9. Google: Data Analytics Professional Certificate, in progress📍
-10. DeepLearning.AI: TensorFlow Developer Data and Deployment Specialization Certificate, Spring...(coming soon😆!)
-11. DeepLearning.AI: TensorFlow Developer Professional Certificate, Spring...(coming soon😆!)
-12. The Hong Kong University of Science and Technology: Python and Statistics for Financial Analysis, Summer
-13. University of Michigan: Fintech Innovations Specialization Certificate, Summer
-14. University of Pennsylvania: FinTech: Finance Industry Transformation and Regulation Specialization Certificate, Summer
-15. DeepLearning.AI: AI for Medicine Specialization Certificate, Fall
-16. Stanford University: AI for Healthcare Specialization Certificate, Fall
-17. University of Washington: Computational Nauroscience, Spring
-18. Neuroscience and Neuroimaging, Spring
-19. Biohacking Your Brains Health, Spring
-20. Google Cybersecurity Professional Certificate, Summer
+9. DeepLearning.AI: TensorFlow Developer Data and Deployment Specialization Certificate, Spring...(coming soon😆!)
+10. DeepLearning.AI: TensorFlow Developer Professional Certificate, Spring...(coming soon😆!)
+11. The Hong Kong University of Science and Technology: Python and Statistics for Financial Analysis, Summer
+12. University of Michigan: Fintech Innovations Specialization Certificate, Summer
+13. University of Pennsylvania: FinTech: Finance Industry Transformation and Regulation Specialization Certificate, Summer
+14. DeepLearning.AI: AI for Medicine Specialization Certificate, Fall
+15. Stanford University: AI for Healthcare Specialization Certificate, Fall
+16. University of Washington: Computational Nauroscience, Spring
+17. Neuroscience and Neuroimaging, Spring
+18. Biohacking Your Brains Health, Spring
 
 
 
