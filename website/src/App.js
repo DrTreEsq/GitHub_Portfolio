@@ -3,7 +3,7 @@ import { Routes, Route } from 'react-router-dom';
 import { Nav, Home, Aboutme, Algorithms, Codes, Consulting, Contact, Data, Education, Skills, Services, Tutorials, YoutubeEmbed, YoutubeEmbed2, YoutubeEmbed3} from './components/index.js'
 import './App.css';
 
-//use HashRouter to fix manual reloading?
+//use HashRouter to fix manual reloading? - make sure to import up top, change keywords below, and change from BrowserRouter in index.js
 
 function App() {
   return (
