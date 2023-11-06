@@ -1,6 +1,4 @@
-<h2 align="center">
-About Me
-</h2>
+
 <h1 align="center">
 Trey (or Tre) Weathers
 </h1>
@@ -15,6 +13,11 @@ Research Scientist, Engineer, & Analyst README.md Portfolio
 </h4>
 
 ###### link to portfolio website: https://brave-glacier-00e751b0f.3.azurestaticapps.net/
+
+
+<h2 align="center">
+About Me
+</h2>
 
 <img src="https://i.postimg.cc/FRWr6HHD/funny-urkey.webp" align="center"> 
 </img>
