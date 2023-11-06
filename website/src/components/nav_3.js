@@ -6,9 +6,9 @@ export default function Navd({Data, Algorithms, Codes, Consulting}) {
       <nav className="servicesnav">
 
           <hr></hr>
-          <Link className="link2 black" to={Data}> Data Engineering and Analysis  </Link>
+          <Link className="link2 black" to={Data}> Data Science</Link>
             <div className="black">
-            <p className="tiny">🌘Data Engineering and Analysis: Data cleaning, Web Services API and Web Scraping, database management and more with SQL, Python, Pandas, and more.</p>
+            <p className="tiny">🌘Data Science, Engineering, Analysis: Data cleaning, Web Services API and Web Scraping, database management and more with SQL, Python, Pandas, and more.</p>
             </div>
 
             <hr></hr>
