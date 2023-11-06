@@ -79,8 +79,7 @@ Pusuing PhD of Engineering focused on Advanced Applications of Artificial Intell
 
 
 
-###### I do other things besides completing relavant programs of interest, I promise - catch me working on my personal projects or leetcode regularly!🧑‍🔬 I sure hope you don't expect the Ethical MAD Scientist to approach this traditionally😲.
-
+###### I do other things besides completing relavant programs of interest, I promise - catch me working on my personal projects or leetcode semi-regularly!🧑‍🔬
 
 
 <h3 align="center">
