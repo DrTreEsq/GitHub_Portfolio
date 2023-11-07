@@ -75,9 +75,6 @@ Pusuing PhD of Engineering focused on Advanced Applications of Artificial Intell
 13. University of Pennsylvania: FinTech: Finance Industry Transformation and Regulation Specialization Certificate, Summer
 14. DeepLearning.AI: AI for Medicine Specialization Certificate, Fall
 15. Stanford University: AI for Healthcare Specialization Certificate, Fall
-16. University of Washington: Computational Nauroscience, Spring
-17. Neuroscience and Neuroimaging, Spring
-18. Biohacking Your Brains Health, Spring
 
 
 
