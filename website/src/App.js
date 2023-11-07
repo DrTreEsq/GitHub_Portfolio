@@ -11,7 +11,7 @@ function App() {
       <Nav Home="/" Aboutme="/aboutme" Algorithms="/algorithms" Codes="/codes" Consulting="/consulting" Contact="/contact" Data="/data" Education="/education" Skills="/skills" Services="/services"
       Tutorials="/tutorials" YoutubeEmbed="/hardware" YoutubeEmbed2="neural_networks" YoutubeEmbed3="/production"/>
 
-        <HashRouter>
+        <HashRouter basename="/app">
         <Routes>
         <Route path="/" element={<Home />}/>
         <Route path="/aboutme" element={<Aboutme />}/>
