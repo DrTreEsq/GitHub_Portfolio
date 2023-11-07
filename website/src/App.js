@@ -4,6 +4,7 @@ import { Nav, Home, Aboutme, Algorithms, Codes, Consulting, Contact, Data, Educa
 import './App.css';
 
 //use HashRouter to fix manual reloading? - make sure to import up top, change keywords below, and change from BrowserRouter in index.js
+//hasrouter not recommended
 
 function App() {
   return (
