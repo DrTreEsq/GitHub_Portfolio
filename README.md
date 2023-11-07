@@ -1,3 +1,5 @@
+###### link to portfolio website: https://brave-glacier-00e751b0f.3.azurestaticapps.net/
+
 
 <h1 align="center">
 Trey (or Tre) Weathers
@@ -11,9 +13,6 @@ The Ethical ℳad Scientist🤓™
 <h4 align="center">
 Research Scientist, Engineer, & Analyst README.md Portfolio
 </h4>
-
-###### link to portfolio website: https://brave-glacier-00e751b0f.3.azurestaticapps.net/
-
 
 <h2 align="center">
 About Me
