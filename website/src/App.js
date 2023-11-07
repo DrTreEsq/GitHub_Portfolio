@@ -11,7 +11,6 @@ function App() {
       <Nav Home="/" Aboutme="/aboutme" Algorithms="/algorithms" Codes="/codes" Consulting="/consulting" Contact="/contact" Data="/data" Education="/education" Skills="/skills" Services="/services"
       Tutorials="/tutorials" YoutubeEmbed="/hardware" YoutubeEmbed2="neural_networks" YoutubeEmbed3="/production"/>
 
-        //<HashRouter basename="/app">
         <Routes>
         <Route path="/" element={<Home />}/>
         <Route path="/aboutme" element={<Aboutme />}/>
@@ -28,7 +27,6 @@ function App() {
         <Route path="/neural_networks" element={<YoutubeEmbed2 embedId2="_c_x8A3mNDk"/>} />
         <Route path="/production" element={<YoutubeEmbed3 embedId="NgWujOrCZFo"/>} />
         </Routes>
-        //</HashRouter>
 
 
     </div>
