@@ -8,7 +8,7 @@ export default function Skills() {
           <h2> Tools | Technologies </h2>
           <h4> My Go-to Tech Stack: TensorFlow, Python, SQL, Node.js, React.js </h4>
           <p> Programming: Python, Javascript, React, Node, MongoDB, Django </p>
-          <p> Data Science & Machine Learning | AI: NumPy, TensorFlow, SQL, scipy, matplotlib </p>
+          <p> Data Science & Machine Learning | AI: NumPy, TensorFlow, SQL, pandas, scipy, matplotlib </p>
           <p> Big Data tools: Google Cloud, AWS, Azure, Spark </p>
 
 <hr className="hrhr"></hr>
