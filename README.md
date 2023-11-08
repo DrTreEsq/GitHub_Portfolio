@@ -70,10 +70,9 @@ Pusuing PhD of Engineering focused on Advanced Applications of Artificial Intell
 8. Duke University: Applied Python Data Engineering Specialization Certificate, in progress📍
 9. DeepLearning.AI: TensorFlow Developer Data and Deployment Specialization Certificate, in progress📍
 10. Google: Data Engineering Professional Certificate, in progress📍
-11. DeepLearning.AI: TensorFlow Developer Professional Certificate, up next!
-12. University of Michigan: Fintech Innovations Specialization Certificate, Summer
-13. DeepLearning.AI: AI for Medicine Specialization Certificate, Fall
-14. Stanford University: AI for Healthcare Specialization Certificate, Fall
+11. DeepLearning.AI: TensorFlow Developer Professional Certificate, up next(Spring)!
+13. DeepLearning.AI: AI for Medicine Specialization Certificate, Summer
+14. Stanford University: AI for Healthcare Specialization Certificate, Summer
 
 
 
