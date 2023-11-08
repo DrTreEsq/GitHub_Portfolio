@@ -30,11 +30,13 @@ export default function Education() {
           <hr className="hrh"></hr>
 
           <h3 className="blue"> In Progress | Next Up </h3>
+          <h4> Duke University: Applied Python Data Engineering Specialization Certificate </h4>
           <h4> ✡ DeepLearning.AI: TensorFlow Data and Deployment Specialization Certificate </h4>
           <h4> ✡ Google: Data Engineer Professional Certificate </h4>
           <h4> ✡ DeepLearning.AI: Tensorflow Developer Professional Certificate </h4>
           <hr></hr>
-          <h5> ❂ Working Towards PhD in Engineering - Advanced Applications of Artificial Intelligence ❂ </h5>
+        
+          <h5> ❂ Working Towards PhD in Computer Science | Engineering - Advanced Applications of Artificial Intelligence ❂ </h5>
         
           <h3 className="blue">Positions open to</h3>
             <h5>✰ Fields of Interest and Experience: Artificial Intelligence, Medicine/Healthcare, Finance, Business & Media, Robotics, Web Development, Law/Policy, Education, Data Science, and more! </h5>
