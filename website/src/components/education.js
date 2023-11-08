@@ -30,7 +30,7 @@ export default function Education() {
           <hr className="hrh"></hr>
 
           <h3 className="blue"> In Progress | Next Up </h3>
-          <h4> Duke University: Applied Python Data Engineering Specialization Certificate </h4>
+          <h4> ✡ Duke University: Applied Python Data Engineering Specialization Certificate </h4>
           <h4> ✡ DeepLearning.AI: TensorFlow Data and Deployment Specialization Certificate </h4>
           <h4> ✡ Google: Data Engineer Professional Certificate </h4>
           <h4> ✡ DeepLearning.AI: Tensorflow Developer Professional Certificate </h4>
