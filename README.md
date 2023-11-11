@@ -72,7 +72,7 @@ Pusuing MS, PhD in Computer Science focused on Advanced Applications of Artifici
 
 <h3> Certificates </h3>
 
-<p> Finishing Professional Education before Masters Commences this Fall! </p>
+<p> Finishing Professional and Prepatory Education for Masters which is Commencing this Fall! </p>
 
 
 1. DeepLearning.AI: TensorFlow Developer Data and Deployment Specialization Certificate, in progress📍
