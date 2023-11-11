@@ -2,25 +2,26 @@ export default function Education() {
     return (
         <div className="black">
         
-          <h3> Degree Programs </h3>
-          <h4 >✡ St. Francis College: B.S. in Healthcare Management</h4>
+          <h3 className="blue"> Degree Programs </h3>
+          <h4>✡ St. Francis College: B.S. in Healthcare Management</h4>
           <h4> ✡ University of Colorado Boulder: Masters of Computer Science, Fall 2024-2026</h4>
         
-          <h3> Certificates </h3>
+          <h3 className="blue"> Certificates </h3>
           <p> Finishing Professional and Prepatory Education for Masters which is Commencing this Fall! </p>
           <h4> ✡ General Assembly: Full Stack Software Engineering Certificate </h4>
           <h4> ✡ Stanford Online & DeepLearning.AI: Machine Learning Specialization Certificate </h4>
           <h4> ✡ DeepLearning.AI: Mathematics for Machine Learning and Data Science Specialization Certificate</h4>
           <h4> ✡ University of Colorado Boulder: Mind and Machine Specialization Certificate </h4>
           <h4> ✡ Duke University: Python, Bash and SQL Essentials for Data Engineering Specialization Certificate </h4>
-          <h3 className="blue"> In Progress | Next Up </h3>
+          <h3> In Progress | Next Up </h3>
           <h4> ✡ DeepLearning.AI: TensorFlow Data and Deployment Specialization Certificate </h4>
           <h4> ✡ Duke University: Applied Python Data Engineering Specialization Certificate </h4>
           <h4> ✡ DeepLearning.AI: Tensorflow Developer Professional Certificate </h4>
           <h4> ✡ Google: Data Engineer Professional Certificate </h4>
-          <hr></hr>
         
           <h5> ❂ Working Towards PhD in Computer Science | Engineering - Advanced Applications of Artificial Intelligence ❂ </h5>
+
+          <hr></hr>
         
           <h3 className="blue">Positions open to</h3>
             <h5>✰ Fields of Interest and Experience: Artificial Intelligence, Medicine/Healthcare, Finance, Business & Media, Robotics, Web Development, Law/Policy, Education, Data Science, and more! </h5>
