@@ -7,7 +7,7 @@ export default function Education() {
           <h4> ✡ University of Colorado Boulder: Masters of Computer Science, Fall 2024-2026</h4>
         
           <h3 className="blue"> Certificates </h3>
-          <p> Finishing Professional and Prepatory Education for Masters which is Commencing this Fall! </p>
+          <p> Finishing professional and precursive education for Masters which is commencing this Fall! </p>
           <h4> ✡ General Assembly: Full Stack Software Engineering Certificate </h4>
           <h4> ✡ Stanford Online & DeepLearning.AI: Machine Learning Specialization Certificate </h4>
           <h4> ✡ DeepLearning.AI: Mathematics for Machine Learning and Data Science Specialization Certificate</h4>
