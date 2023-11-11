@@ -61,18 +61,18 @@ Pusuing MS, PhD in Computer Science focused on Advanced Applications of Artifici
 </h4>
 <img src="https://i.postimg.cc/Bn71SqdD/Image-10-27-23-at-3-47-PM.jpg" align="center"></img>
 
+<h4> Degree Programs </h4>
 1. St. Francis College: B.S. in Healthcare Management
-2. General Assembly: Full Stack Software Engineering Certificate
-3. Stanford Online & DeepLearning.AI: Machine Learning Specialization Certificate
-5. DeepLearning.AI: Mathematics for Machine Learning and Data Science Specialization Certificate
-6. University of Colorado Boulder: Mind and Machine Specialization Certificate
-7. Duke University: Python, BASH, and SQL Essentials for Data Engineering Specialization Certificate
-8. DeepLearning.AI: TensorFlow Developer Data and Deployment Specialization Certificate, in progress📍
-9. Duke University: Applied Python Data Engineering Specialization Certificate, in progress📍
-10. DeepLearning.AI: TensorFlow Developer Professional Certificate, next stop📍
-11. Google: Data Engineering Professional Certificate, next stop📍
-13. DeepLearning.AI: AI for Medicine Specialization Certificate, Summer
-14. Stanford University: AI for Healthcare Specialization Certificate, Summer
+2. University of Colorado Boulder: Masters of Computer Science, Fall 2024-2026
+3. working way towards PhD next
+
+<h4> Certificates </h4>
+1. DeepLearning.AI: TensorFlow Developer Data and Deployment Specialization Certificate, in progress📍
+2. Duke University: Applied Python Data Engineering Specialization Certificate, in progress📍
+3. DeepLearning.AI: TensorFlow Developer Professional Certificate, next stop📍
+4. Google: Data Engineering Professional Certificate, next stop📍
+5. DeepLearning.AI: AI for Medicine Specialization Certificate, Summer
+6. Stanford University: AI for Healthcare Specialization Certificate, Summer
 
 
 
