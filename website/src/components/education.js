@@ -36,7 +36,7 @@ export default function Education() {
           <h4> ✡ Google: Data Engineer Professional Certificate </h4>
           <hr></hr>
         
-          <h5> ❂ Working Towards PhD in Computer Science | Engineering - Advanced Applications of Artificial Intelligence ❂ </h5>
+          <h5> ❂ Working Towards MS, PhD in Computer Science | Engineering - Advanced Applications of Artificial Intelligence ❂ </h5>
         
           <h3 className="blue">Positions open to</h3>
             <h5>✰ Fields of Interest and Experience: Artificial Intelligence, Medicine/Healthcare, Finance, Business & Media, Robotics, Web Development, Law/Policy, Education, Data Science, and more! </h5>
