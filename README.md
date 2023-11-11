@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-Tre(y) Weathers
+Tre Weathers
 </h1>
 <hr> </hr>
 
