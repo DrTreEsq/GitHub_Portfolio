@@ -83,10 +83,6 @@ Pusuing MS and PhD in Computer Science focused on Advanced Applications of Artif
 6. Stanford University: AI for Healthcare Specialization Certificate, Summer
 
 
-
-###### I do other things besides completing relavant programs of interest, I promise - catch me working on my personal projects or leetcode semi-regularly!🧑‍🔬
-
-
 <h3 align="center">
 3. PROJECTS
 </h3>
