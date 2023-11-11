@@ -61,7 +61,7 @@ Pusuing MS, PhD in Computer Science focused on Advanced Applications of Artifici
 </h4>
 <img src="https://i.postimg.cc/Bn71SqdD/Image-10-27-23-at-3-47-PM.jpg" align="center"></img>
 
-<h4> Degree Programs </h4>
+<h3> Degree Programs </h3>
 <p> Beginning Masters in Fall, directly after going for PhD </p>
 
 
@@ -70,7 +70,7 @@ Pusuing MS, PhD in Computer Science focused on Advanced Applications of Artifici
 3. PhD next
 
 
-<h4> Certificates </h4>
+<h3> Certificates </h3>
 
 <p> Finishing Professional Education before Masters Commences this Fall! </p>
 
