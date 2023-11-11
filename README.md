@@ -62,17 +62,13 @@ Pusuing MS and PhD in Computer Science focused on Advanced Applications of Artif
 <img src="https://i.postimg.cc/Bn71SqdD/Image-10-27-23-at-3-47-PM.jpg" align="center"></img>
 
 <h3> Degree Programs </h3>
-<p> Beginning Masters in Fall, directly after going for PhD </p>
-
-
 1. St. Francis College: B.S. in Healthcare Management
 2. University of Colorado Boulder: Masters of Computer Science, Fall 2024-2026
 3. PhD next
 
 
 <h3> Certificates </h3>
-
-<p> Finishing Professional and Prepatory Education for Masters which is Commencing this Fall! </p>
+<p> Finishing professional and precursive education for Masters which is Commencing this Fall! </p>
 
 
 1. DeepLearning.AI: TensorFlow Developer Data and Deployment Specialization Certificate, in progress📍
