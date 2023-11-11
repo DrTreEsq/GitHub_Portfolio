@@ -1,24 +1,18 @@
 export default function Education() {
     return (
         <div className="black">
-
-          <h3 className="blue"> Completed Education </h3>
-          <h3> Degree Programs </h3>
-          <p> Beginning Masters in Fall, directly after going for PhD </p>
         
-          <li>St. Francis College: B.S. in Healthcare Management</li>
-          <li>University of Colorado Boulder: Masters of Computer Science, Fall 2024-2026</li>
+          <h3> Degree Programs </h3>
+          <h4 >✡ St. Francis College: B.S. in Healthcare Management</h4>
+          <h4> ✡ University of Colorado Boulder: Masters of Computer Science, Fall 2024-2026</h4>
         
           <h3> Certificates </h3>
           <p> Finishing Professional and Prepatory Education for Masters which is Commencing this Fall! </p>
-          <h4> ✡ St. Francis College: B.S. in Healthcare Management </h4>
           <h4> ✡ General Assembly: Full Stack Software Engineering Certificate </h4>
           <h4> ✡ Stanford Online & DeepLearning.AI: Machine Learning Specialization Certificate </h4>
           <h4> ✡ DeepLearning.AI: Mathematics for Machine Learning and Data Science Specialization Certificate</h4>
           <h4> ✡ University of Colorado Boulder: Mind and Machine Specialization Certificate </h4>
           <h4> ✡ Duke University: Python, Bash and SQL Essentials for Data Engineering Specialization Certificate </h4>
-
-        
           <h3 className="blue"> In Progress | Next Up </h3>
           <h4> ✡ DeepLearning.AI: TensorFlow Data and Deployment Specialization Certificate </h4>
           <h4> ✡ Duke University: Applied Python Data Engineering Specialization Certificate </h4>
