@@ -19,7 +19,7 @@ export default function Education() {
           <h4> ✡ DeepLearning.AI: Tensorflow Developer Professional Certificate </h4>
           <h4> ✡ Google: Data Engineer Professional Certificate </h4>
         
-          <h5> ❂ Working Towards PhD in Computer Science | Engineering - Advanced Applications of Artificial Intelligence ❂ </h5>
+          <h5> ❂ Working Towards PhD in Computer Science | Engineering - AI for Healthcare/Medicine ❂ </h5>
 
           <hr></hr>
         
