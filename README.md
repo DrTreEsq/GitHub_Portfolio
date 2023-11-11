@@ -68,7 +68,7 @@ Pusuing MS and PhD in Computer Science focused on Advanced Applications of Artif
 
 
 <h3> Certificates </h3>
-<p> Finishing professional and precursive education for Masters which is Commencing this Fall! </p>
+<p> Finishing professional and precursive education for Masters which is commencing this Fall! </p>
 
 
 1. DeepLearning.AI: TensorFlow Developer Data and Deployment Specialization Certificate, in progress📍
