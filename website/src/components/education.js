@@ -7,7 +7,7 @@ export default function Education() {
           <h4> ✡ Masters of Computer Science, 2024-2026</h4>
         
           <h3 className="blue"> Certificates </h3>
-          <p> Finishing professional and precursive education for Masters commencing 2024, and PhD commencing directly after </p>
+          <p> Finishing precursive education for Masters commencing 2024, and PhD commencing directly after </p>
           <h4> ✡ General Assembly: Full Stack Software Engineering Certificate </h4>
           <h4> ✡ Stanford Online & DeepLearning.AI: Machine Learning Specialization Certificate </h4>
           <h4> ✡ DeepLearning.AI: Mathematics for Machine Learning and Data Science Specialization Certificate</h4>
@@ -19,7 +19,7 @@ export default function Education() {
           <h4> ✡ DeepLearning.AI: AI for Medicine Specialization Certificate </h4>
           <h4> ✡ Stanford: AI for Healthcare Specialization Certificate </h4>
         
-          <h5> ❂ Working Towards PhD in Computer Science | Engineering - AI for Healthcare/Medicine or Biomedical Engineering ❂ </h5>
+          <h5> ❂ Working Towards PhD in Biomedical Engineering ❂ </h5>
 
           <hr></hr>
         
