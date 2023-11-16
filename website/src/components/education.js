@@ -16,8 +16,8 @@ export default function Education() {
           <h3> In Progress | Next Up </h3>
           <h4> ✡ DeepLearning.AI: TensorFlow Data and Deployment Specialization Certificate </h4>
           <h4> ✡ Duke University: Applied Python Data Engineering Specialization Certificate </h4>
-          <h4> ✡ DeepLearning.AI: AI for Medicine Specialization </h4>
-          <h4> ✡ Stanford: AI for Healthcare </h4>
+          <h4> ✡ DeepLearning.AI: AI for Medicine Specialization Certificate </h4>
+          <h4> ✡ Stanford: AI for Healthcare Specialization Certificate </h4>
         
           <h5> ❂ Working Towards PhD in Computer Science | Engineering - AI for Healthcare/Medicine or Biomedical Engineering ❂ </h5>
 
