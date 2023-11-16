@@ -70,7 +70,7 @@ Pusuing MS in Computer Science and PhD Engineering focused on AI + hardware for 
 
 
 <h3> Certificates </h3>
-<p> Finishing professional and precursive education for Masters which is commencing this Fall! </p>
+<p> Finishing professional and precursive education for Masters and PhD </p>
 
 
 1. DeepLearning.AI: TensorFlow Developer Data and Deployment Specialization Certificate, in progress📍
