@@ -17,7 +17,7 @@ export default function Education() {
           <h4> ✡ DeepLearning.AI: TensorFlow Data and Deployment Specialization Certificate </h4>
           <h4> ✡ Duke University: Applied Python Data Engineering Specialization Certificate </h4>
           <h4> ✡ DeepLearning.AI: AI for Medicine Specialization Certificate </h4>
-          <h4> ✡ Stanford: AI for Healthcare Specialization Certificate </h4>
+          <h4> ✡ Stanford: AI in Healthcare Specialization Certificate </h4>
         
           <h5> ❂ Working Towards PhD in Biomedical Engineering ❂ </h5>
 
