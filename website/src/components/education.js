@@ -4,7 +4,7 @@ export default function Education() {
         
           <h3 className="blue"> Degree Programs </h3>
           <h4> ✡ St. Francis College: B.S. in Healthcare Management</h4>
-          <h4> ✡ Masters of Computer Science, Fall 2024-2026</h4>
+          <h4> ✡ Masters of Computer Science, 2024-2026</h4>
         
           <h3 className="blue"> Certificates </h3>
           <p> Finishing professional and precursive education for Masters commencing 2024, and PhD commencing directly after </p>
