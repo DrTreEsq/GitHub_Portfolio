@@ -11,7 +11,7 @@ The Ethical ℳad Scientist🤓™
 </h2>
 
 <h4 align="center">
-Research Scientist, Engineer, & Analyst README.md Portfolio
+Research Scientist and Engineer README.md Portfolio
 </h4>
 
 <img src="https://i.postimg.cc/FRWr6HHD/funny-urkey.webp" align="center"> 
@@ -66,17 +66,17 @@ Pusuing MS in Computer Science and PhD Engineering focused on AI + hardware for 
 
 1. St. Francis College: B.S. in Healthcare Management
 2. Masters of Computer Science, 2024-2026
-3. PhD next: Computer Science | Engineering - AI for Healthcare/Medicine, or Biomedical Engineering - Medical Device
-
+3. PhD next: Biomedical Engineering - Medical Devices (AI embedded hardware)
 
 <h3> Certificates </h3>
-<p> Finishing professional and precursive education for Masters and PhD </p>
+<p> Finishing precursive education for Masters and PhD </p>
 
 
 1. DeepLearning.AI: TensorFlow Developer Data and Deployment Specialization Certificate, in progress📍
 2. Duke University: Applied Python Data Engineering Specialization Certificate, in progress📍
 3. DeepLearning.AI: AI for Medicine Specialization Certificate, Spring (next📍)
 4. Stanford University: AI in Healthcare Specialization Certificate, Spring (next📍)
+5. additional courses: Biohacking your Brain's Health, Neuroscience and Neuroimaging, (Summer)
 
 
 <h3 align="center">
