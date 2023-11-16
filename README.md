@@ -65,8 +65,8 @@ Pusuing MS and PhD in Computer Science focused on Artificial Intelligence for He
 
 
 1. St. Francis College: B.S. in Healthcare Management
-2. University of Colorado Boulder: Masters of Computer Science, Fall 2024-2026
-3. PhD next: Computer Science - AI for Healthcare/Medicine
+2. Masters of Computer Science, Fall 2024-2026
+3. PhD next: Computer Science | Engineering - AI for Healthcare/Medicine, or Biomedical Engineering - Medical Device
 
 
 <h3> Certificates </h3>
