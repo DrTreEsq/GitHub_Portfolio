@@ -76,7 +76,7 @@ Pusuing MS in Computer Science and PhD Engineering focused on AI + hardware for 
 1. DeepLearning.AI: TensorFlow Developer Data and Deployment Specialization Certificate, in progress📍
 2. Duke University: Applied Python Data Engineering Specialization Certificate, in progress📍
 3. DeepLearning.AI: AI for Medicine Specialization Certificate, Spring (next📍)
-4. Stanford University: AI for Healthcare Specialization Certificate, Spring (next📍)
+4. Stanford University: AI in Healthcare Specialization Certificate, Spring (next📍)
 
 
 <h3 align="center">
