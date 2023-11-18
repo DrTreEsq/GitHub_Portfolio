@@ -43,7 +43,7 @@ Pusuing MS in Computer Science: AI and PhD Biomedical Engineering: AI + hardware
 <h4 align="center">
   SFC ~ Healthcare Mngmt
 </h4>
-<img src="https://i.postimg.cc/rFD3vVTR/IMG-4609.jpg" align="center"> 
+<img src="https://i.postimg.cc/T2bfDJy4/IMG-4607.jpg" align="center"> 
 <h4 align="center">
   General Assembly ~ Software Engineering Immersive
 </h4>
