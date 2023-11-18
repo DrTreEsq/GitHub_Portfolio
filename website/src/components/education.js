@@ -30,7 +30,7 @@ export default function Education() {
         
           <hr className="hrh"></hr>
 
-          <img className="example" src="https://i.postimg.cc/rFD3vVTR/IMG-4609.jpg" align="center" alt="degree">
+          <img className="example" src="https://i.postimg.cc/T2bfDJy4/IMG-4607.jpg" align="center" alt="degree">
 
           <hr></hr>
         
