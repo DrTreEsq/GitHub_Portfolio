@@ -29,6 +29,10 @@ export default function Education() {
             <h5>✰ Responsibilities: Problem Solving, System design/architecture/engineering, Data analysis, Research, Software engineering, troubleshooting/debugging/error tracking, teamwork, management, consulting, and more.</h5>
         
           <hr className="hrh"></hr>
+
+          <img className="example" src="https://i.postimg.cc/rFD3vVTR/IMG-4609.jpg" align="center" alt="degree">
+
+          <hr></hr>
         
           <img className="example" src="https://i.postimg.cc/rwQZ3rN5/Image-6-29-23-at-6-41-PM.jpg" align="center" alt="vector"></img>
 
