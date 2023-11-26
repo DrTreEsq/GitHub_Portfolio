@@ -1,4 +1,4 @@
-###### link to portfolio website: https://brave-glacier-00e751b0f.3.azurestaticapps.net/
+àq###### link to portfolio website: https://brave-glacier-00e751b0f.3.azurestaticapps.net/
 
 
 <h1 align="center">
@@ -22,7 +22,9 @@ About Me
 </h2>
 
 <h4 align="center">
-Pusuing MS in Computer Science: AI and PhD Biomedical Engineering: AI + hardware
+Pusuing MS in Computer Science: AI and PhD Biomedical Engineering: embedded programs
+
+
 </h4>
 
 ###### Welcome, Earthling! My name is Trey and I am a Lifelong Learner and Interdisciplinery Researcher with a goal of learning each valuable skill necessary to pioneer the change that I wish to see in the world. I hope to continually gain experience to grow myself professionally and offer the same to the organizations that I work with as I work towards a greater goal of personal development and global change.
