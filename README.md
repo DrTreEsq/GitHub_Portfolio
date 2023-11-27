@@ -71,8 +71,9 @@ Pusuing MS in Computer Science: AI and PhD Biomedical Engineering: embedded prog
 
 
 1. St. Francis College: B.S. in Healthcare Management
-2. Masters of Computer Science, 2024-2026
-3. PhD next: Biomedical Engineering - Medical Devices (AI embedded hardware)
+2. Fordham University: JD, 2021-2026
+3. Masters of Computer Science, 2024-2026
+4. PhD next: Biomedical Engineering - Medical Devices (AI embedded hardware)
 
 <h3> Certificates </h3>
 <p> Finishing precursive education for Masters and PhD </p>
