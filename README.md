@@ -67,13 +67,6 @@ Pusuing MS in Computer Science: AI and PhD Biomedical Engineering: medical devic
 </h4>
 <img src="https://i.postimg.cc/Bn71SqdD/Image-10-27-23-at-3-47-PM.jpg" align="center"></img>
 
-<h3> Degree Programs </h3>
-
-
-1. St. Francis College: BS: Healthcare Management
-2. Fordham University: JD, 2021-2026
-3. MS: Computer Science, 2024-2026
-4. PhD next: Biomedical Engineering - Medical Devices
 
 <h3> Certificates </h3>
 <p> Finishing precursive education for Masters and PhD </p>
@@ -84,6 +77,14 @@ Pusuing MS in Computer Science: AI and PhD Biomedical Engineering: medical devic
 3. DeepLearning.AI: AI for Medicine Specialization Certificate, Spring (next🚀)
 4. Stanford University: AI in Healthcare Specialization Certificate, Spring (next🚀)
 5. additional courses: Biohacking your Brain's Health, Neuroscience and Neuroimaging, (Summer)
+
+<h3> Degree Programs </h3>
+
+
+1. St. Francis College: BS: Healthcare Management
+2. Fordham University: JD, 2021-2026
+3. MS: Computer Science, 2024-2026
+4. PhD next: Biomedical Engineering - Medical Devices
 
 
 <h3 align="center">
