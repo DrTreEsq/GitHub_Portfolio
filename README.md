@@ -22,7 +22,7 @@ About Me
 </h2>
 
 <h4 align="center">
-Pusuing MS in Computer Science: AI and PhD Biomedical Engineering: embedded programs
+Pusuing MS in Computer Science: AI and PhD Biomedical Engineering: medical devices
 
 
 </h4>
