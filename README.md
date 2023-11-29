@@ -70,7 +70,7 @@ Pusuing MS in Computer Science: AI and PhD Biomedical Engineering: medical devic
 <h3> Degree Programs </h3>
 
 
-1. St. Francis College: B.S. in Healthcare Management
+1. St. Francis College: BS: Healthcare Management
 2. Fordham University: JD, 2021-2026
 3. MS: Computer Science, 2024-2026
 4. PhD next: Biomedical Engineering - Medical Devices (AI embedded hardware)
