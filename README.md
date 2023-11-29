@@ -1,4 +1,4 @@
-àq###### link to portfolio website: https://brave-glacier-00e751b0f.3.azurestaticapps.net/
+###### link to portfolio website: https://brave-glacier-00e751b0f.3.azurestaticapps.net/
 
 
 <h1 align="center">
