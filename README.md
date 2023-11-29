@@ -43,7 +43,7 @@ Pusuing MS in Computer Science: AI and PhD Biomedical Engineering: medical devic
 2. EDUCATION | Research in Progress | Interdisciplinary Curriculum📚💻
 </h3>
 <h4 align="center">
-  SFC ~ Healthcare Mngmt
+  SFC ~ BS: Healthcare
 </h4>
 <img src="https://i.postimg.cc/T2bfDJy4/IMG-4607.jpg" align="center"> 
 <h4 align="center">
