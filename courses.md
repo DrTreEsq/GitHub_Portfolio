@@ -7,7 +7,7 @@
 2. Swift 5 iOS Application Developer Specialization, in progress📍
 3. DeepLearning.AI: AI for Medicine Specialization Certificate (next🚀)
 4. Stanford University: AI in Healthcare Specialization Certificate (next🚀)
-5. additional courses: Apis, Databases, Data visualization, Virtualisation, Spark, Biohacking your Brain's Health, Neuroscience and Neuroimaging,and more
+5. additional courses: Apis, Databases, Data visualization, Virtualization, Spark, Biohacking your Brain's Health, Neuroscience and Neuroimaging,and more
 
 <h3> Degree Programs </h3>
 
