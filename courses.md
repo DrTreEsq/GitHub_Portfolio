@@ -4,8 +4,8 @@
 
 
 1. DeepLearning.AI: TensorFlow Developer Data and Deployment Specialization Certificate, in progress📍
-2. DeepLearning.AI: AI for Medicine Specialization Certificate, Spring (next🚀)
-3. Stanford University: AI in Healthcare Specialization Certificate, Spring (next🚀)
+2. DeepLearning.AI: AI for Medicine Specialization Certificate,(next🚀)
+3. Stanford University: AI in Healthcare Specialization Certificate,(next🚀)
 4. additional courses: Apis, Databases, Data visualizetion, Spark, Biohacking your Brain's Health, Neuroscience and Neuroimaging,and more
 
 <h3> Degree Programs </h3>
