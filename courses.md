@@ -1,17 +1,16 @@
 
 <h3> Certificates </h3>
-<p> Finishing precursive education for Masters and PhD </p>
-
-
+<p> Finishing precursive education for MS: Computer Science - biomedical, to complete while finishing part-time JD </p>
 1. DeepLearning.AI: TensorFlow Developer Data and Deployment Specialization Certificate, in progress📍
-2. Swift 5 iOS Application Developer Specialization, in progress📍
-3. DeepLearning.AI: AI for Medicine Specialization Certificate (next🚀)
-4. Stanford University: AI in Healthcare Specialization Certificate (next🚀)
-5. additional courses: Apis, Databases, Data visualization, Virtualization, Spark, Biohacking your Brain's Health, Neuroscience and Neuroimaging,and more
+2. Meta Backend Developer Professional Certificate, in progress📍
+3. Swift 5 iOS Application Developer Specialization (next🚀)
+4. DeepLearning.AI: AI for Medicine Specialization Certificate
+5. Stanford University: AI in Healthcare Specialization Certificate
+6. additional courses: Apis, Databases, Data visualization, Virtualization, Spark, Biohacking your Brain's Health, Neuroscience and Neuroimaging,and more
+
+also searching for pre-med courses to pursue MD, PhD: Neuroscience
 
 <h3> Degree Programs </h3>
-
-
 1. St. Francis College: BS: Healthcare Management
 2. Fordham University: JD, 2021-2026
 3. MS: Computer Science, 2024-2026
