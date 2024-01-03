@@ -6,9 +6,8 @@
 3. Swift 5 iOS Application Developer Specialization (next🚀)
 4. DeepLearning.AI: AI for Medicine Specialization Certificate
 5. Stanford University: AI in Healthcare Specialization Certificate
-6. additional courses: Apis, Databases, Data visualization, Virtualization, Spark, Biohacking your Brain's Health, Neuroscience and Neuroimaging,and more
 
-also searching for pre-med courses to pursue MD, PhD: Neuroscience
+also taking neuroscience courses and searching for University pre-med, chemistry, and biology courses to pursue MD, PhD: Neuroscience
 
 <h3> Degree Programs </h3>
 1. St. Francis College: BS: Healthcare Management
