@@ -67,6 +67,11 @@ Pursuing MD, PhD: Neuroscience, commencing after JD and completion of Computer S
 </h4>
 <img src="https://i.postimg.cc/Bn71SqdD/Image-10-27-23-at-3-47-PM.jpg" align="center"></img>
 
+<h4 align="center">
+   DeepLearning.AI ~ TensorFlow Data and Deployment Specialization
+</h4>
+<img src="https://i.postimg.cc/3WQ5FFYR/Tensor-Flow-Specialization.png" align="center"></img>
+
 <h4> more courses in progress </h4>
 
 <h3 align="center">
