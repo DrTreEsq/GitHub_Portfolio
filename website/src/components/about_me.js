@@ -4,7 +4,8 @@ export default function Aboutme() {
   return (
       <div>
         <hr></hr>
-        <h1 className="title">The Ethical Mad Scientist</h1>
+        <h4> On track to be Educator (currently teaching), Attorney (in law school), Biohacker (combining knowledge of human body and computer science to advance human medicine over the next decade or so), Biomedical Engineer (bringing something to market soon - stay tuned), Doctor (med school starts after company launch), Neurocientist (dissertation in progress, starting degree with med school) </h4>
+        <h1 className="title">The Ethical Mad Scientist; Research & Computer Scientist </h1>
         <Navs Education="/education" Skills="/skills" Projects="/projects"/>
         <h6 className="black">Welcome, Earthling! My name is Tre and I am a Lifelong Learner with a goal of learning each valuable skill necessary to pioneer the change that I wish to see in the world.
           I have a wide range of abilities stemming from my diverse work background, education, and additional academic interests ranging from neuroscience, programming, to the history of mankind and more.
