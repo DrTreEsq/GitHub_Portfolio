@@ -46,6 +46,9 @@ export default function Education() {
 
           <img className="example" src="https://i.postimg.cc/Bn71SqdD/Image-10-27-23-at-3-47-PM.jpg" align="center" alt="vector"></img>
           <hr></hr>
+
+          <img className="example" src="https://i.postimg.cc/Kjmk0wFk/Tensor-Flow-Specialization.png" align="center" alt="vector"></img>
+          <hr></hr>
         
           <hr className="hrh"></hr>
 
