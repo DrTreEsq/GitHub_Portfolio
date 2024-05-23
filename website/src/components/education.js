@@ -4,22 +4,21 @@ export default function Education() {
         
           <h3 className="blue"> Degree Programs </h3>
           <h4> ✡ St. Francis College: B.S. in Healthcare Management</h4>
-          <h4> ✡ Masters of Computer Science, 2024-2026</h4>
+          <h4> ✡ Fordham School of Law: JD (Intellctual Property, Informacy Privacy, Medical Malpractice, and Pharmeceutical Litigation) 2021-2026 </h4>
         
-          <h3 className="blue"> Certificates </h3>
-          <p> Finishing precursive education for Masters commencing 2024, and PhD commencing directly after </p>
+          <h3 className="blue"> Online Certificates </h3>
+          <p> Tech Entrepreneur. MD (clinical genetics), PhD (Neuroscience) commencing after startup launch (and simultaneous law school graduation)  </p>
           <h4> ✡ General Assembly: Full Stack Software Engineering Certificate </h4>
           <h4> ✡ Stanford Online & DeepLearning.AI: Machine Learning Specialization Certificate </h4>
           <h4> ✡ DeepLearning.AI: Mathematics for Machine Learning and Data Science Specialization Certificate</h4>
           <h4> ✡ University of Colorado Boulder: Mind and Machine Specialization Certificate </h4>
           <h4> ✡ Duke University: Python, Bash and SQL Essentials for Data Engineering Specialization Certificate </h4>
-          <h3> In Progress | Next Up </h3>
           <h4> ✡ DeepLearning.AI: TensorFlow Data and Deployment Specialization Certificate </h4>
-          <h4> ✡ Duke University: Applied Python Data Engineering Specialization Certificate </h4>
-          <h4> ✡ DeepLearning.AI: AI for Medicine Specialization Certificate </h4>
-          <h4> ✡ Stanford: AI in Healthcare Specialization Certificate </h4>
         
-          <h5> ❂ Working Towards PhD in Biomedical Engineering ❂ </h5>
+          <h3> Certificates In Progress | Next Up </h3>
+          <h4> ✡ Meta: Meta Back-End Developer Professional Certificate - in progress </h4>
+          <h4> ✡ Stanford: AI in Healthcare Specialization Certificate - in progress </h4>
+          <h4> ✡ DeepLearning.AI: AI for Medicine Specialization Certificate - up next! </h4>
 
           <hr></hr>
         
