@@ -17,9 +17,9 @@ Research Scientist and Engineer README.md Portfolio
 Autism Therapist, K-12 Teacher, Grad Student, and CEO Of tech startup preparing for launch. More infomration coming soon.
 </h4>
 
-<h5 align='center'>
-Preparing to commence MD, PhD afer JD completion.
-</h5>
+<h6 align='center'>
+Preparing to commence MD, PhD afer completeing JD.
+</h6>
 
 <img src="https://i.postimg.cc/FRWr6HHD/funny-urkey.webp" align="center"> 
 </img>
