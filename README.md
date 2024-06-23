@@ -14,7 +14,7 @@ Research Scientist and Engineer README.md Portfolio
 </h3>
 
 <h4 align='center'>
-Autism Therapist, K-12 Teacher, Grad Student, and CEO Of tech startup preparing for launch. More infomration coming soon.
+Autism Therapist, K-12 Teacher, Grad Student, and CEO Of tech startup preparing for launch. More information coming soon.
 </h4>
 
 <h6 align='center'>
