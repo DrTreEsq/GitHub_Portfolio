@@ -9,13 +9,13 @@ Tre Weathers
 Dr. Tre, Esq.
 </h2>
 
-<h3>
+<h3 align='center'>
 Teacher, Student, Therapist, and CEO Of tech startup preparing for launch. More infomration coming soon.
 </h3>
 
 <br>
 
-<h4>
+<h4 align='center'>
 Preparing to commence MD, PhD afer JD completion.
 </h4>
 
