@@ -7,15 +7,17 @@ Tre Weathers
 
 <h2 align="center">
 Dr. Tre, Esq.
-  
-  <br>
-  
-Teacher, Student, Therapist, and CEO Of tech startup preparing for launch. More infomration coming soon.
-
-  <br>
-  
-Preparing to commence MD, PhD afer JD completion.
 </h2>
+
+<h3>
+Teacher, Student, Therapist, and CEO Of tech startup preparing for launch. More infomration coming soon.
+</h3>
+
+<br>
+
+<h4>
+Preparing to commence MD, PhD afer JD completion.
+</h4>
 
 <h4 align="center">
 Research Scientist and Engineer README.md Portfolio
