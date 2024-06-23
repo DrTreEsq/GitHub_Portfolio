@@ -5,25 +5,23 @@ Tre Weathers
 </h1>
 <hr> </hr>
 
-<h1 align="center">
-Dr. Tre, Esq.
-</h1>
-
 <h2 align="center">
-Research Scientist and Engineer README.md Portfolio
+aka Dr. Tre, Esq.
 </h2>
 
-<h3 align='center'>
-Teacher, Student, Therapist, and CEO Of tech startup preparing for launch. More infomration coming soon.
+<h3 align="center">
+Research Scientist and Engineer README.md Portfolio
 </h3>
+
+<h4 align='center'>
+Teacher, Student, Therapist, and CEO Of tech startup preparing for launch. More infomration coming soon.
+</h4>
 
 <br>
 
-<h4 align='center'>
+<h5 align='center'>
 Preparing to commence MD, PhD afer JD completion.
-</h4>
-
-
+</h5>
 
 <img src="https://i.postimg.cc/FRWr6HHD/funny-urkey.webp" align="center"> 
 </img>
