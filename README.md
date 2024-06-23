@@ -6,7 +6,15 @@ Tre Weathers
 <hr> </hr>
 
 <h2 align="center">
-The Ethical ℳad Scientist🤓™
+Dr. Tre, Esq.
+  
+  <br>
+  
+Teacher, Student, Therapist, and CEO Of tech startup preparing for launch. More infomration coming soon.
+
+  <br>
+  
+Preparing to commence MD, PhD afer JD completion.
 </h2>
 
 <h4 align="center">
