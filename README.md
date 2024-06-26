@@ -1,7 +1,7 @@
 ###### link to portfolio website: https://brave-glacier-00e751b0f.3.azurestaticapps.net/
 
 <h1 align="center">
-Tre Weathers
+Tre Joy aka TJ
 </h1>
 <hr> </hr>
 
