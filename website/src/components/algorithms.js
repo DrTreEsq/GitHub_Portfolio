@@ -32,8 +32,6 @@ export default function Algorithms() {
       
           </div>
 
-
-          <hr></hr>
       
 
           <h3>Example 2: Collaborative Recommender System for Movie Recommendations</h3>
@@ -60,8 +58,6 @@ export default function Algorithms() {
           <img className="exampleee" src="https://i.postimg.cc/d0FRK7Gy/Image-6-21-23-at-6-32-AM.jpg" align="center" alt="vector"></img>
           </div>
 
-
-          <hr></hr>
 
 
         <h3>Example 3: Logistic Regression with Gradient Descent - Probability of Admission </h3>
@@ -95,8 +91,6 @@ export default function Algorithms() {
         </div>
 
 
-        <hr></hr>
-
 
         <h3> Example 4: Neural Network Binary Classification Example - Handwritten Digit Recognition </h3>
           <div className="example2 black">
@@ -122,8 +116,6 @@ export default function Algorithms() {
           <img className="transparent" src="https://i.postimg.cc/4xQt3C7m/1a1cc802-24eb-4d32-9c81-d0fc023ba1c9.png" align="center" alt="vector"></img>
          </div>
           
-
-        <hr></hr>
 
 
         <h3>Example 5: Image Compression Using K-means Clustering</h3>
@@ -158,8 +150,6 @@ export default function Algorithms() {
           </div>
 
  
-          <hr></hr>
-
 
           <h3>Example 6: Decision Trees</h3>
           <div className=" black">
