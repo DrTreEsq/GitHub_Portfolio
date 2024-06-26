@@ -1,8 +1,9 @@
 ###### link to portfolio website: https://brave-glacier-00e751b0f.3.azurestaticapps.net/
 
 <h1 align="center">
-Tre Joy aka TJ
+Tre Joy
 </h1>
+<h6>aka TJ</h6>
 <hr> </hr>
 
 <h2 align="center">
