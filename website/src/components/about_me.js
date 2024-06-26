@@ -10,10 +10,11 @@ export default function Aboutme() {
         I hope to continually gain experience to grow myself professionally and offer the same to the organizations that I work with as I work towards a greater goal of personal development and global change.
         </h3>
     
-<hr> </hr>
+        <hr></hr>
     
         <h4 className="black"> On track to be Educator (currently teaching), Attorney (in law school), Biohacker (combining knowledge of human body and computer science to advance human medicine over the next decade or so), Biomedical Engineer (bringing something to market soon - stay tuned), Doctor (med school starts after company launch), Neuroscientist (dissertation in progress, starting degree with med school) </h4>
-        <img className="example" src="https://i.postimg.cc/xjvnSwnq/mx05abasr3s01.jpg" align="center" alt="treytheurkel"></img>
+        
+    <img className="example" src="https://i.postimg.cc/xjvnSwnq/mx05abasr3s01.jpg" align="center" alt="treytheurkel"></img>
         
       </div>
     )
