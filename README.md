@@ -3,7 +3,7 @@
 <h1 align="center">
 Tre Joy
 </h1>
-<h6>aka TJ</h6>
+<h5 align='center'>aka TJ</h5>
 <hr> </hr>
 
 <h2 align="center">
