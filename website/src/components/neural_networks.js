@@ -1,9 +1,8 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-const YoutubeEmbed2 = ({embedId2}) => (
+const YoutubeEmbed2 = ({embedId3, embedId2}) => (
 <div>
-  
     <iframe 
       className="video-big"
       width="853"
@@ -14,7 +13,6 @@ const YoutubeEmbed2 = ({embedId2}) => (
       allowFullScreen
       title="Embedded youtube"
     />
-
   <iframe
       className="video-big"
       width="853"
