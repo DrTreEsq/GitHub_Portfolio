@@ -10,7 +10,7 @@ aka Dr. Tre, Esq.
 </h2>
 
 <h3 align="center">
-Research Scientist and Engineer README.md Portfolio
+Research Scientist, Computer Scientist, and Engineer README.md Portfolio
 </h3>
 
 <h4 align='center'>
