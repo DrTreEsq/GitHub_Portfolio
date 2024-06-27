@@ -28,7 +28,7 @@ About Me
 </h2>
 
 <h4 align="center">
-Preparing to pursue/commence MD, PhD: Neuroscience afer completing JD and commencing company launch
+Preparing to pursue/commence MD, PhD dual degree program: Neuroscience afer completing JD and commencing company launch
 </h4>
 
 ###### Welcome, Earthling! My name is Tre and I am an Educator, Lifelong Learner, and Interdisciplinery Researcher with a goal of learning each valuable skill necessary to pioneer the change that I wish to see in the world. I hope to continually gain experience to grow myself professionally and offer the same to the organizations that I work with as I work towards a greater goal of personal development and global change.
