@@ -13,8 +13,12 @@ Research Scientist, Computer Scientist, and Engineer README.md Portfolio
 </h3>
 
 <h4 align='center'>
-Autism Therapist, K-12 Teacher, Grad Student, and CEO Of tech startup preparing for launch. More information coming soon.
+Behavior Technician, K-12 Teacher, Grad Student, and CEO Of tech startup preparing for launch.
 </h4>
+
+
+###### More information coming soon.
+
 
 <img src="https://i.postimg.cc/FRWr6HHD/funny-urkey.webp" align="center"> 
 </img>
