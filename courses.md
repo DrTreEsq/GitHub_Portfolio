@@ -4,6 +4,7 @@
 1. Meta Backend Developer Professional Certificate, in progress📍
 2. Stanford University: AI in Healthcare Specialization Certificate, in progress📍
 3. DeepLearning.AI: AI for Medicine Specialization Certificate, in progress📍
+4. RBT Certification, courses for exam in progress📍
 
 also taking neuroscience courses and searching for University pre-med, chemistry, and biology courses to pursue MD, PhD
 
