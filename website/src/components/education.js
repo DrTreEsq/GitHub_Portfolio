@@ -5,7 +5,6 @@ export default function Education() {
           <h3 className="blue"> Degree Programs </h3>
           <h4> ✡ St. Francis College: B.S. in Healthcare Management</h4>
           <h4> ✡ Fordham School of Law: JD (Intellctual Property, Informacy Privacy, Medical Malpractice, and Pharmeceutical Litigation) 2021-2026 </h4>
-        
           <h3 className="blue"> Online Certificates </h3>
           <p> Tech Entrepreneur. MD (clinical genetics), PhD (Neuroscience) commencing after startup launch (and simultaneous law school graduation)  </p>
           <h4> ✡ General Assembly: Full Stack Software Engineering Certificate </h4>
@@ -17,14 +16,15 @@ export default function Education() {
         
           <h3> Certificates In Progress | Next Up </h3>
           <h4> ✡ Meta: Meta Back-End Developer Professional Certificate - in progress </h4>
+          <h4> ✡ DeepLearning.AI: AI for Medicine Specialization Certificate - in progress </h4>
           <h4> ✡ Stanford: AI in Healthcare Specialization Certificate - in progress </h4>
-          <h4> ✡ DeepLearning.AI: AI for Medicine Specialization Certificate - up next! </h4>
+          <h4> ✡ Autism Partnership Foundation courses for RBT Certificate exam - in progress </h4>
 
           <hr></hr>
         
           <h3 className="blue">Positions open to</h3>
             <h5>✰ Fields of Interest and Experience: Artificial Intelligence, Medicine/Healthcare, Finance, Business & Media, Robotics, Web Development, Law/Policy, Education, Data Science, and more! </h5>
-            <h5>✰ Roles: Data Engineer/Analyst/Scientist, AI engineer, Machine Learning Engineer,  Prompt Engineer, Researcher, and more.</h5>
+            <h5>✰ Roles: Data Engineer/Analyst/Scientist, AI engineer, Machine Learning Engineer,  Prompt Engineer, Researcher, Teacher, Professor, and more.</h5>
             <h5>✰ Responsibilities: Problem Solving, System design/architecture/engineering, Data analysis, Research, Software engineering, troubleshooting/debugging/error tracking, teamwork, management, consulting, and more.</h5>
         
           <hr className="hrh"></hr>
