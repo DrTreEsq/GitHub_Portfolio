@@ -11,4 +11,4 @@ also taking neuroscience courses and searching for University pre-med, chemistry
 
 1. St. Francis College: BS: Healthcare Management
 2. Fordham University: JD, 2021-2026
-3. MD, PhD next: Neuroscience & Biomedical Engineering - Genetic Coding & Medical Devices
+3. MD (Genetic Coding/Biomedical Engineering/Medical Devices), PhD next: Computational Neuroscience
