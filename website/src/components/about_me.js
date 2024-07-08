@@ -13,7 +13,7 @@ export default function Aboutme() {
     <img className="example" src="https://i.postimg.cc/xjvnSwnq/mx05abasr3s01.jpg" align="center" alt="treytheurkel"></img>
 
         <h4 className="black"> On track to be Educator (currently teaching), Attorney (in law school), Biohacker (combining knowledge of human body and computer science to advance human medicine over the next decade or so),
-        Biomedical Engineer (bringing something to market soon - stay tuned), Doctor (med school starts after company launch), Neuroscientist (working as Behavior Technician for people with autism, dissertation in progress, starting degree with med school),
+        Biomedical Engineer (bringing something to market soon - stay tuned), Clinical Geneticist/Doctor (med school starts after company launch), Neuroscientist (working as Behavior Technician for people with autism, dissertation in progress, starting degree with med school),
         and that's enough about me! Reach out and tell me about yourself🤩! </h4>
         
       </div>
