@@ -13,7 +13,7 @@ Research Scientist, Computer Scientist, and Engineer README.md Portfolio
 </h3>
 
 <h4 align='center'>
-Behavior Technician, K-12 Teacher, Grad Student, and CEO Of tech startup preparing for launch.
+S.T.E.M. Teacher, Grad Student, and CEO Of tech startup preparing for launch.
 </h4>
 
 
