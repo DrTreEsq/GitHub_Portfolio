@@ -18,7 +18,6 @@ export default function Education() {
           <h4> ✡ Meta: Meta Back-End Developer Professional Certificate - in progress </h4>
           <h4> ✡ DeepLearning.AI: AI for Medicine Specialization Certificate - in progress </h4>
           <h4> ✡ Stanford: AI in Healthcare Specialization Certificate - in progress </h4>
-          <h4> ✡ Autism Partnership Foundation courses for RBT Certificate exam - in progress </h4>
 
           <hr></hr>
         
