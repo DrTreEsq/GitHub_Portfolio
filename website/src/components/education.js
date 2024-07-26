@@ -17,7 +17,8 @@ export default function Education() {
           <h3> Certificates In Progress | Next Up </h3>
           <h4> ✡ Meta: Meta Back-End Developer Professional Certificate - in progress </h4>
           <h4> ✡ DeepLearning.AI: AI for Medicine Specialization Certificate - in progress </h4>
-          <h4> ✡ Stanford: AI in Healthcare Specialization Certificate - in progress </h4>
+          <h4> ✡ Stanford: AI in Healthcare Specialization Certificate - on hold/up next </h4>
+          <h4> ✡ DeepLearning.AI: Natural Language Processing Specialization Certificate - up next </h4>
 
           <hr></hr>
         
