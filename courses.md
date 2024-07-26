@@ -4,7 +4,7 @@
 1. DeepLearning.AI: AI for Medicine Specialization Certificate, in progress📍
 2. Meta Backend Developer Professional Certificate, in progress📍
 3. Stanford University: AI in Healthcare Specialization Certificate, ON PAUSE/UP NEXT
-4. DeepLearning.AI: Natural Language Processing Specialiazation, UP NEXT
+4. DeepLearning.AI: Natural Language Processing Specialization Certificate, UP NEXT
 
 also taking neuroscience courses and searching for University pre-med, chemistry, and biology courses to pursue MD, PhD
 
