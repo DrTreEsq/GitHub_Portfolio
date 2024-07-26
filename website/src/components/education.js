@@ -48,13 +48,7 @@ export default function Education() {
           <hr></hr>
 
           <img className="example" src="https://i.postimg.cc/Kjmk0wFk/Tensor-Flow-Specialization.png" align="center" alt="vector"></img>
-          <hr></hr>
-        
-          <hr className="hrh"></hr>
 
-          <hr className="hrh"></hr>
-
-    
         </div>
       )
     }
