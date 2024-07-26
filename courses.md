@@ -1,5 +1,6 @@
 
 <h3> Certificates </h3>
+
 1. DeepLearning.AI: AI for Medicine Specialization Certificate, in progress📍
 2. Meta Backend Developer Professional Certificate, in progress📍
 3. Stanford University: AI in Healthcare Specialization Certificate, ON PAUSE/UP NEXT
