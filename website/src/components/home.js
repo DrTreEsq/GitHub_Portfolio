@@ -4,7 +4,7 @@ export default function Home() {
         <h2> Welcome to the Website Portfolio for Interdisciplinary Researcher </h2>
         <h1 className="title white"> Tre Joy</h1>
         <img className="meimg" src="https://i.postimg.cc/9QnRRJJ3/IMG-6355.jpg" alt="that's me right there!"></img>
-        <a href="https://github.com/DrTreEsq?tab=repositories">
+        <a href="https://github.com/DrTreEsq?tab=repositories"> Click here for the inside scoop!
           <img className="robot" src="https://i.postimg.cc/ydJFrB1P/IMG-1486.avif" alt="robot"></img>
         </a>
     
