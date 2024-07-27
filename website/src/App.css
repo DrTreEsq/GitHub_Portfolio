@@ -322,4 +322,7 @@ h1, h2, h3, h4, h5, h6, p {
   border-color: rgb(203, 186, 4);
   padding: 1px;
   margin-bottom: 1px;
+  animation-name: fadeInOut, moveLeft300px, bounce;
+  animation-duration: 2.5s, 5s, 1s;
+  animation-iteration-count: 2, 1, 5;
 }
