@@ -310,11 +310,16 @@ h1, h2, h3, h4, h5, h6, p {
   padding: 15px;
 }
 
-.services{
+.services {
   background-image: url("https://i.postimg.cc/yNQRTLLy/embdded-dl-blog.jpg");
   background-color: rgb(9, 0, 0);
   padding: 10px;
   margin: 10px;
 }
 
-
+.robot {
+  border-style: solid;
+  border-color: rgb(203, 186, 4);
+  padding: 1px;
+  margin-bottom: 1px;
+}
