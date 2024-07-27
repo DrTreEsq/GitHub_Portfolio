@@ -100,12 +100,27 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 
-
 .nav {
   list-style-type: none;
   display: flex;
   flex-direction: row;
   list-style: inside;
+  animation-name: slidein;
+  animation-duration: 2.5s, 5s, 1s;
+  animation-iteration-count: 2, 1, 5;
+}
+
+@keyframes slidein {
+  from {
+    translate: 150vw 0;
+    scale: 200% 1;
+  }
+
+  to {
+    translate: 0 0;
+    scale: 100% 1;
+  }
+}
 }
 
 .servicesnav{
