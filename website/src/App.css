@@ -110,6 +110,7 @@ h1, h2, h3, h4, h5, h6, p {
     translate: 150vw 0;
     scale: 200% 1;
   }
+}
 
 .servicesnav{
   justify-content: center;
@@ -323,8 +324,6 @@ h1, h2, h3, h4, h5, h6, p {
 .robot {
   max-width: 250px;
   max-height: 250px;
-  border-style: solid;
-  border-color: rgb(203, 186, 4);
   padding: 50px;
   margin: 50px 50px 50px 50px;
   animation-name: growshrink;
