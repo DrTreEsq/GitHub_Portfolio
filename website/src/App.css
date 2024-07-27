@@ -326,6 +326,7 @@ h1, h2, h3, h4, h5, h6, p {
   animation-duration: 2.5s, 5s, 1s;
   animation-iteration-count: 2, 1, 5;
 }
+
 @keyframes bounce {
   from {
     translate: 150vw 0;
