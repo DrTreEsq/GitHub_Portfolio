@@ -324,6 +324,7 @@ h1, h2, h3, h4, h5, h6, p {
 .robot {
   max-width: 500px;
   max-height: 500px;
+  justify-content: center;
   padding: 50px;
   margin: 50px 50px 50px 50px;
   animation-name: growshrink;
