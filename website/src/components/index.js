@@ -10,7 +10,7 @@ import Consulting from "./consulting.js"
 import Contact from "./contact.js"
 import Data from "./data.js";
 import Education from "./education.js"
-import Projects from "./projects.js"
+import Projects from "./projects_2.js"
 import Skills from "./skills.js"
 import Services from "./services.js"
 import Tutorials from "./tutorials.js";
