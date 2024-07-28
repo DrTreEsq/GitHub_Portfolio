@@ -332,6 +332,14 @@ h1, h2, h3, h4, h5, h6, p {
   animation-iteration-count: 2, 1, 5;
 }
 
+.robot:hover{
+  cursor: pointer;
+  box-shadow: 0 0.4rem 2.4rem 0 rgb(24, 3, 82);
+  transform: translateY(-0.1rem);
+  transition: transform 150ms;   
+  background-color: rgb(44, 121, 222);
+}
+
 @keyframes growshrink {
   25%,
   75% {
