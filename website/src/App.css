@@ -51,7 +51,6 @@
     background-color: rgb(44, 121, 222);
 }
 
-
   .link {
     margin-left: 1px;
     margin-right: 1px;
@@ -343,7 +342,12 @@ h1, h2, h3, h4, h5, h6, p {
   }
 }
 
-.navrobot {
+  .navrobot {
   max-width: 25px;
   max-height: 25px;
+}
+
+.aboutmenav {
+  display: flax;
+  flex-direction: row;
 }
