@@ -101,15 +101,7 @@ h1, h2, h3, h4, h5, h6, p {
   list-style-type: none;
   display: flex;
   flex-direction: row;
-  animation-duration: 3s;
-  animation-name: slidein;
-}
-
-@keyframes slidein {
-  from {
-    translate: 150vw 0;
-    scale: 200% 1;
-  }
+  width: 50px;
 }
 
 .servicesnav{
