@@ -1,8 +1,7 @@
 export default function Home() {
   return (
       <div>
-        <h2> Welcome to the Website Portfolio for Interdisciplinary Researcher </h2>
-        <h1 className="title white"> Tre Joy</h1>
+        <h2> Navigation </h2>
       </div>
     )
   }
