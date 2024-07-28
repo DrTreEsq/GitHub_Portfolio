@@ -130,7 +130,7 @@ h1, h2, h3, h4, h5, h6, p {
 
 50% {
   scale: 200%;
-  color: magenta;
+  color: rgb(0, 255, 34);
 }
 }
 
