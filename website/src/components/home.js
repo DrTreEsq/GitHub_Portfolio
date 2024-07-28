@@ -1,7 +1,7 @@
 export default function Home() {
   return (
       <div>
-        <h2> Navigation </h2>
+          <img className="example" src="https://i.postimg.cc/xjvnSwnq/mx05abasr3s01.jpg" align="center" alt="treytheurkel"></img>
       </div>
     )
   }
