@@ -2,7 +2,7 @@ import  Navs  from "./nav_2.js";
 
 export default function Aboutme() {
   return (
-      <div>
+      <div className="aboutme">
         <hr></hr>
         <Navs Education="/education" Skills="/skills" Projects="/projects"/>
         
