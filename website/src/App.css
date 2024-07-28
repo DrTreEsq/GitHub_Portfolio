@@ -101,7 +101,8 @@ h1, h2, h3, h4, h5, h6, p {
   list-style-type: none;
   display: flex;
   flex-direction: row;
-  width: 50px;
+  width: 100px;
+  height: 100px;
 }
 
 .servicesnav{
@@ -120,8 +121,6 @@ h1, h2, h3, h4, h5, h6, p {
 .homenav {
   padding: 5px;
 }
-
-
 
 
 .link {
