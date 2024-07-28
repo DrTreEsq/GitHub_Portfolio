@@ -117,8 +117,6 @@ h1, h2, h3, h4, h5, h6, p {
 
 .homenav {
   padding: 5px;
-  width: 25opx;
-  height: 250px;
   animation-duration: 3s;
   animation-name: slidein;
 }
@@ -196,6 +194,8 @@ h1, h2, h3, h4, h5, h6, p {
   font-weight: bolder;
   background-color: none;
   list-style-type: none;
+  width: 250px;
+  height: 250px;
 }
 
 .example {
