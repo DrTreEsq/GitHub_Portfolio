@@ -48,9 +48,10 @@
 
   .homenav {
     padding: 5px;
-    transform: translateY(-0.1rem);
-    transition: transform 150ms;   
     background-color: rgb(44, 121, 222);
+    animation-name: growshrink;
+    animation-duration: 2.5s, 5s, 1s;
+    animation-iteration-count: 2, 1, 5;
 }
 
 @keyframes growshrink {
