@@ -322,8 +322,8 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 .robot {
-  max-width: 500px;
-  max-height: 500px;
+  width: 500px;
+  height: 500px;
   justify-content: center;
   border-style: solid;
   border-color: rgb(203, 186, 4);
