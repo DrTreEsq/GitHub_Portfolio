@@ -49,22 +49,9 @@
   .homenav {
     padding: 5px;
     background-color: rgb(44, 121, 222);
-    animation-name: growshrink;
-    animation-duration: 2.5s, 5s, 1s;
-    animation-iteration-count: 2, 1, 5;
 }
 
-@keyframes growshrink {
-  25%,
-  75% {
-    scale: 100%;
-  }
 
-  50% {
-    scale: 200%;
-    color: magenta;
-  }
-}
   .link {
     margin-left: 1px;
     margin-right: 1px;
