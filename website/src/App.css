@@ -48,15 +48,27 @@
 
   .homenav {
     padding: 5px;
+    transform: translateY(-0.1rem);
+    transition: transform 150ms;   
+    background-color: rgb(44, 121, 222);
+}
+
+@keyframes growshrink {
+  25%,
+  75% {
+    scale: 100%;
   }
 
+  50% {
+    scale: 200%;
+    color: magenta;
+  }
+}
   .link {
     margin-left: 1px;
     margin-right: 1px;
   }
 
-
-}
 
 
 @media (min-width: 801px) and (max-width: 1100px) {
@@ -101,8 +113,6 @@ h1, h2, h3, h4, h5, h6, p {
   list-style-type: none;
   display: flex;
   flex-direction: row;
-  width: 100px;
-  height: 100px;
 }
 
 .servicesnav{
