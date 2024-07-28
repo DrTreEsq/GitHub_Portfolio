@@ -119,8 +119,6 @@ h1, h2, h3, h4, h5, h6, p {
   padding: 5px;
   animation-duration: 3s;
   animation-name: slidein;
-  animation-iteration-count: infinite;
-  animation-direction: alternate;
 }
 
 @keyframes slidein {
@@ -362,7 +360,7 @@ h1, h2, h3, h4, h5, h6, p {
   max-height: 25px;
 }
 
-.aboutmenav {
+.aboutrow {
   display: flax;
   flex-direction: row;
 }
