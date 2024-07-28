@@ -117,6 +117,8 @@ h1, h2, h3, h4, h5, h6, p {
 
 .homenav {
   padding: 5px;
+  width: 25opx;
+  height: 250px;
   animation-duration: 3s;
   animation-name: slidein;
 }
