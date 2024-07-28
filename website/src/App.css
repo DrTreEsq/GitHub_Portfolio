@@ -325,8 +325,8 @@ h1, h2, h3, h4, h5, h6, p {
   max-width: 500px;
   max-height: 500px;
   justify-content: center;
-  padding: 50px;
-  margin: 50px 50px 50px 50px;
+  padding: 25px;
+  margin: 25px 25px 25px 25px;
   animation-name: growshrink;
   animation-duration: 2.5s, 5s, 1s;
   animation-iteration-count: 2, 1, 5;
