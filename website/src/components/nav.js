@@ -4,7 +4,7 @@ export default function Nav({Home, Aboutme , Services, Projects, Contact, Tutori
   return (
     <div>
       <nav className="homenav">
-          <h2> Welcome to the Website Portfolio for Interdisciplinary Researcher Tre Joy</h2>
+          <h2> Welcome to the Website Portfolio for Interdisciplinary Researcher </h2>
           <h1 className="title white"> Tre Joy</h1>
           <Link className="link white" to={Home}> Home <img className="navrobot" src="https://i.postimg.cc/kGmTbr5M/IMG-0551.jpg" alt="robot"></img> </Link>
           <Link className="link white" to={Aboutme}> About Me <img className="navrobot" src="https://i.postimg.cc/ydJFrB1P/IMG-1486.avif" alt="robot"></img> </Link>
