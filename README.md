@@ -13,7 +13,7 @@ Research Scientist, Computer Scientist, and Engineer README.md Portfolio
 </h3>
 
 <h4 align='center'>
-S.T.E.M. Teacher, Grad Student, and CEO Of tech startup preparing for launch (will be hiring soon, stay tuned).
+Grad Student and CEO Of tech startup preparing for launch (will be hiring soon, stay tuned).
 </h4>
 
 
