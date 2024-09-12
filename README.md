@@ -16,7 +16,7 @@ Research Scientist, Computer Scientist, and Engineer README.md Portfolio
 Grad Student and CEO Of tech startup preparing for launch (will be hiring soon, stay tuned).
 </h4>
 
-<h5>current duties: STEM Teacher (during  day☀️), Grad Student (at night🌙), and entrepreneur (rest of the time⌛️)</h5>
+<h6 align='center'>current duties: STEM Teacher (during  day☀️), Grad Student (at night🌙), and entrepreneur (rest of the time⌛️)</h6>
 
 
 ###### More information coming soon.
