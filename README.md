@@ -1,6 +1,6 @@
 ###### link to portfolio website: https://brave-glacier-00e751b0f.3.azurestaticapps.net/
 
-<h1 align="center"> Tre Joy </h1>
+<h1 align="center"> Tre Weathers </h1>
 <h5 align='center'>aka TJ</h5>
 <h2 align="center">
 aka Dr. Tre, Esq.
