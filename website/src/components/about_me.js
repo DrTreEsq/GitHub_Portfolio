@@ -7,7 +7,7 @@ export default function Aboutme() {
         <Navs Education="/education" Skills="/skills" Projects="/projects"/>
         
         <p className="aboutrow">
-        <h2> Lifelong Learner📚, Advocate🧑‍⚖️, Biohacker🧬, Researcher🥼, Artist🎭, and Technologist🧑‍🏫 (LAB RAT) </h2>
+        <h2> Lifelong Learner📚, Advocate🧑‍⚖️, Biohacker🧬, Researcher🥼, Artist🎭, and Technologist🧑‍💻 (LAB RAT) </h2>
         <img className="meimg" src="https://i.postimg.cc/9QnRRJJ3/IMG-6355.jpg" alt="that's me right there!"></img>
         
         <h3 className="black"> Welcome, Earthling! My name is Tre and I am an Educator, Lifelong Learner, and Interdisciplinary Researcher with a goal of learning each valuable skill necessary to pioneer the change that I wish to see in the world.
