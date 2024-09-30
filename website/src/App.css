@@ -121,18 +121,6 @@ h1, h2, h3, h4, h5, h6, p {
   animation-name: slidein;
 }
 
-@keyframes slidein {
-25%,
-75% {
-  scale: 100%;
-}
-
-50% {
-  scale: 200%;
-  color: rgb(226, 207, 70);
-}
-}
-
 .link {
   margin: 15px;
   margin-bottom: 15px;
