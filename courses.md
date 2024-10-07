@@ -4,7 +4,6 @@
 1. DeepLearning.AI: AI for Medicine Specialization Certificate, in progress📍
 2. Meta Backend Developer Professional Certificate, in progress📍
 3. Stanford University: AI in Healthcare Specialization Certificate, ON PAUSE/UP NEXT
-4. DeepLearning.AI: Natural Language Processing Specialization Certificate, UP NEXT
 
 also taking neuroscience courses and searching for University pre-med, chemistry, and biology courses to pursue MD, PhD
 
@@ -12,4 +11,7 @@ also taking neuroscience courses and searching for University pre-med, chemistry
 
 1. St. Francis College: BS: Healthcare Management
 2. Fordham University: JD, 2021-2026
-3. MD (Genetic Coding/Biomedical Engineering/Medical Devices), PhD next: Computational Neuroscience
+3. MS Computer Science (AI)
+4. PhD Biomedical Engineering (Devices)
+5. BM/MM Medicine (Chinese)
+6. PhD Neuroscience
