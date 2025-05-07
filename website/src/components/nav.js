@@ -6,8 +6,8 @@ export default function Nav({Home, Aboutme , Services, Projects, Contact, Tutori
       <nav className="homenav">
           <h2> Welcome to the Website Portfolio for Interdisciplinary Researcher </h2>
           <h1 className="title white"> Tre Weathers </h1>
-          <Link className="link white" to={Home}> Homec </Link>
-          <Link className="link white" to={Aboutme}> </Link>
+          <Link className="link white" to={Home}> Home </Link>
+          <Link className="link white" to={Aboutme}> About Me </Link>
           <Link className="link white" to={Services}> Services </Link>
           <Link className="link white" to={Projects}> Projects </Link>
           <Link className="link white" to={Contact}> Contact  </Link>
