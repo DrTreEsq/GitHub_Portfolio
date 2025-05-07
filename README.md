@@ -2,9 +2,8 @@
 
 <h1 align="center"> Tre Weathers </h1>
 <h5 align='center'>aka TJ</h5>
-<h2 align="center">
-aka Dr. Tre, Esq.
-</h2>
+
+###### Welcome, Earthling! My name is Tre and I am an Educator, Lifelong Learner, and Interdisciplinery Researcher with a goal of learning each valuable skill necessary to pioneer the change that I wish to see in the world. I hope to continually gain experience to grow myself professionally and offer the same to everyone that I work with as I work towards a greater goal of personal development and global change.
 
 <hr> </hr>
 
@@ -13,10 +12,10 @@ Research Scientist, Computer Scientist, and Engineer README.md Portfolio
 </h3>
 
 <h4 align='center'>
-Grad Student and CEO Of tech startup preparing for launch.
+Professional Student and future CEO
 </h4>
 
-<h6 align='center'>current duties: STEM Teacher (during  day☀️), Grad Student (at night🌙), and entrepreneur (rest of the time⌛️) More information coming soon (will be hiring, stay tuned). </h6>
+<h6 align='center'>current duties: STEM Tutor (during  day☀️), Law Student (at night🌙), and entrepreneur (rest of the time⌛️) </h6>
 
 
 <img src="https://i.postimg.cc/FRWr6HHD/funny-urkey.webp" align="center"> 
@@ -27,10 +26,11 @@ About Me
 </h2>
 
 <h4 align="center">
-Preparing to pursue/commence MS Computer Science (AI), PhD Biomedical Engineering and PhD Neuroscience (Computational) dual degree program after completing JD and commencing company launch
+Preparing for Fall 2026 MS Computer Science (AI), and Dual PhD in Biomedical Engineering and Economics following completion
 </h4>
 
-###### Welcome, Earthling! My name is Tre and I am an Educator, Lifelong Learner, and Interdisciplinery Researcher with a goal of learning each valuable skill necessary to pioneer the change that I wish to see in the world. I hope to continually gain experience to grow myself professionally and offer the same to the organizations that I work with as I work towards a greater goal of personal development and global change.
+###### but thats' just the beginning🤫
+
 
 <h3 align="center">
 1. TOOLS & TECHNOLOGIES | Tech Stack
