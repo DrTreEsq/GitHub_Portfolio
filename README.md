@@ -29,7 +29,7 @@ About Me
 Preparing for Fall 2026 MS Computer Science (AI), and Dual PhD in Biomedical Engineering and Economics following completion
 </h4>
 
-###### but thats' just the beginning🤫
+###### but that's just the beginning🤫
 
 
 <h3 align="center">
